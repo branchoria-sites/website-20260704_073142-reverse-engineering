@@ -1,0 +1,1274 @@
+{
+  "generated_at_utc": "2026-07-04T06:26:21.582115Z",
+  "summary": {
+    "total_pages_with_permalink": 242,
+    "visible_pages": 211,
+    "hidden_pages": 31,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 1284,
+    "inline_internal_target_page_count": 211,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 211,
+    "average_inline_inbound_links_per_visible_page": 6.09,
+    "unresolved_inline_internal_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "top_inline_internal_targets": [
+      {
+        "basename": "reverse_engineering_97b438",
+        "title": "What Captured Weapons Really Reveal",
+        "permalink": "/reverse-engineering-foreign-military/",
+        "inline_inbound_count": 192
+      },
+      {
+        "basename": "reverse_engineering_97b438_maintenance_clues_c503ae",
+        "title": "Maintenance",
+        "permalink": "/maintenance/",
+        "inline_inbound_count": 83
+      },
+      {
+        "basename": "reverse_engineering_97b438_weapon_fragment_meta_e03bb2",
+        "title": "Materials",
+        "permalink": "/materials/",
+        "inline_inbound_count": 74
+      },
+      {
+        "basename": "reverse_engineering_97b438_export_weapon_exploi_fa93bd_manuals_training_exp_c6bda9",
+        "title": "Training",
+        "permalink": "/training/",
+        "inline_inbound_count": 71
+      },
+      {
+        "basename": "reverse_engineering_97b438_exploit_vs_copy_c8e898_captured_weapon_weak_b2d88b",
+        "title": "Weaknesses",
+        "permalink": "/weaknesses/",
+        "inline_inbound_count": 66
+      },
+      {
+        "basename": "reverse_engineering_97b438_countermeasures_from_9e5542",
+        "title": "Countermeasures",
+        "permalink": "/countermeasures/",
+        "inline_inbound_count": 60
+      },
+      {
+        "basename": "reverse_engineering_97b438_operation_lusty_391384_captured_german_docu_93722d",
+        "title": "Documents",
+        "permalink": "/documents/",
+        "inline_inbound_count": 48
+      },
+      {
+        "basename": "reverse_engineering_97b438_countermeasures_from_9e5542_measured_emissions_j_6bd087",
+        "title": "Signals",
+        "permalink": "/signals/",
+        "inline_inbound_count": 42
+      },
+      {
+        "basename": "reverse_engineering_97b438_component_tracing_sa_863d31",
+        "title": "Sanctions",
+        "permalink": "/sanctions/",
+        "inline_inbound_count": 40
+      },
+      {
+        "basename": "reverse_engineering_97b438_missile_seekers_b33be1_seeker_fragments_gen_0bab5f",
+        "title": "Fragments",
+        "permalink": "/fragments/",
+        "inline_inbound_count": 39
+      },
+      {
+        "basename": "reverse_engineering_97b438_export_weapon_exploi_fa93bd_spare_parts_exposure_1d96ad",
+        "title": "Spare Parts",
+        "permalink": "/spare-parts/",
+        "inline_inbound_count": 25
+      },
+      {
+        "basename": "reverse_engineering_97b438_hard_to_replicate_459412_weapon_quality_contr_9efb28",
+        "title": "Quality Control",
+        "permalink": "/quality-control/",
+        "inline_inbound_count": 24
+      },
+      {
+        "basename": "reverse_engineering_97b438_operation_lusty_391384_german_experts_livin_3edbb6",
+        "title": "Experts",
+        "permalink": "/experts/",
+        "inline_inbound_count": 21
+      },
+      {
+        "basename": "reverse_engineering_97b438_battlefield_recovery_773544",
+        "title": "Recovery Teams",
+        "permalink": "/recovery-teams/",
+        "inline_inbound_count": 20
+      },
+      {
+        "basename": "reverse_engineering_97b438_captured_operational_51d457_captured_radar_ew_69edf0",
+        "title": "Radar Lessons",
+        "permalink": "/radar-lessons/",
+        "inline_inbound_count": 17
+      },
+      {
+        "basename": "reverse_engineering_97b438_weapon_fragment_meta_e03bb2_heat_treatment_fragm_f3eb1e",
+        "title": "Heat Treatment",
+        "permalink": "/heat-treatment/",
+        "inline_inbound_count": 16
+      },
+      {
+        "basename": "reverse_engineering_97b438_countermeasures_from_9e5542_decoys_sensor_accept_dbf905",
+        "title": "Decoys",
+        "permalink": "/decoys/",
+        "inline_inbound_count": 15
+      },
+      {
+        "basename": "reverse_engineering_97b438_weapon_firmware_d78947",
+        "title": "Firmware",
+        "permalink": "/firmware/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "reverse_engineering_97b438_operation_lusty_391384",
+        "title": "Operation LUSTY",
+        "permalink": "/operation-lusty/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "reverse_engineering_97b438_radar_exploitation_5839d7",
+        "title": "Radar Signatures",
+        "permalink": "/radar-signatures/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "reverse_engineering_97b438_missile_seekers_b33be1_missile_warning_fals_b6f322",
+        "title": "Warnings",
+        "permalink": "/warnings/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "reverse_engineering_97b438_nasic_air_space_fme_e30511",
+        "title": "NASIC",
+        "permalink": "/nasic/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "reverse_engineering_97b438_drone_debris_exploit_9e0929",
+        "title": "Drone Debris",
+        "permalink": "/drone-debris/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "reverse_engineering_97b438_maintenance_clues_c503ae_field_modifications_e86757",
+        "title": "Field Mods",
+        "permalink": "/field-mods/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "reverse_engineering_97b438_project_paperclip_ex_2ce434_captured_documents_t_098666",
+        "title": "Document Haul",
+        "permalink": "/document-haul/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "reverse_engineering_97b438_technology_defection_c0645b",
+        "title": "Defections",
+        "permalink": "/defections/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "reverse_engineering_97b438_project_paperclip_ex_2ce434",
+        "title": "Paperclip",
+        "permalink": "/paperclip/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "reverse_engineering_97b438_radar_exploitation_5839d7_antenna_scan_pattern_99e512",
+        "title": "Scan Patterns",
+        "permalink": "/scan-patterns/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "reverse_engineering_97b438_threat_inflation_1006bd",
+        "title": "Threat Myths",
+        "permalink": "/threat-myths/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "reverse_engineering_97b438_missile_seekers_b33be1_infrared_flares_limi_22585b",
+        "title": "Flares",
+        "permalink": "/flares/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "reverse_engineering_97b438_project_paperclip_ex_2ce434_wright_field_aviatio_e3e713",
+        "title": "Wright Field",
+        "permalink": "/wright-field/",
+        "inline_inbound_count": 7
+      },
+      {
+        "basename": "reverse_engineering_97b438_drone_debris_exploit_9e0929_orlan10_kill_chain_bb2d14",
+        "title": "Orlan 10",
+        "permalink": "/orlan-10/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "reverse_engineering_97b438_fme_institutions_febd9d_fme_threat_databases_9a0eb6",
+        "title": "Threat Databases",
+        "permalink": "/threat-databases/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "reverse_engineering_97b438_industrial_learning_1fb526",
+        "title": "Industrial Learning From Captured Weapon Design",
+        "permalink": "/industrial-learning-from-captured/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "reverse_engineering_97b438_operation_lusty_391384_me_262_exploitation_593baf",
+        "title": "Me 262",
+        "permalink": "/me-262/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "reverse_engineering_97b438_captured_operational_51d457_field_exploitation_2cb474",
+        "title": "Field Exploit",
+        "permalink": "/field-exploit/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "reverse_engineering_97b438_industrial_learning_1fb526_captured_material_le_6d9bb5",
+        "title": "Material Ledger",
+        "permalink": "/material-ledger/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "reverse_engineering_97b438_nasic_air_space_fme_e30511_real_hardware_measur_7ef166",
+        "title": "Real Hardware",
+        "permalink": "/real-hardware/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "reverse_engineering_97b438_operation_lusty_391384_watsons_whizzers_fer_3f1819",
+        "title": "Whizzers",
+        "permalink": "/whizzers/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "reverse_engineering_97b438_project_paperclip_ex_2ce434_von_braun_ethics_748c0b",
+        "title": "Von Braun",
+        "permalink": "/von-braun/",
+        "inline_inbound_count": 5
+      }
+    ],
+    "unresolved_inline_internal_targets": [],
+    "edge_samples": [
+      {
+        "from": "reverse_engineering_97b438",
+        "to": "reverse_engineering_97b438_battlefield_recovery_773544",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438",
+        "to": "reverse_engineering_97b438_captured_operational_51d457",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438",
+        "to": "reverse_engineering_97b438_captured_threat_trai_2a76bd",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438",
+        "to": "reverse_engineering_97b438_cold_war_technology_a9e4cf",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438",
+        "to": "reverse_engineering_97b438_component_tracing_sa_863d31",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438",
+        "to": "reverse_engineering_97b438_countermeasures_from_9e5542",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438",
+        "to": "reverse_engineering_97b438_documents_vs_hardwar_2fd5db",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438",
+        "to": "reverse_engineering_97b438_drone_debris_exploit_9e0929",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438",
+        "to": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438",
+        "to": "reverse_engineering_97b438_export_weapon_exploi_fa93bd",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438",
+        "to": "reverse_engineering_97b438_fme_institutions_febd9d",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438",
+        "to": "reverse_engineering_97b438_ground_materiel_forc_2d8145",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438",
+        "to": "reverse_engineering_97b438_hard_to_replicate_459412",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438",
+        "to": "reverse_engineering_97b438_index",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438",
+        "to": "reverse_engineering_97b438_industrial_learning_1fb526",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438",
+        "to": "reverse_engineering_97b438_legal_ethical_limits_260c32",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438",
+        "to": "reverse_engineering_97b438_maintenance_clues_c503ae",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438",
+        "to": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438",
+        "to": "reverse_engineering_97b438_missile_drone_supply_d38175",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438",
+        "to": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438",
+        "to": "reverse_engineering_97b438_nasic_air_space_fme_e30511",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438",
+        "to": "reverse_engineering_97b438_operation_lusty_391384",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438",
+        "to": "reverse_engineering_97b438_project_paperclip_ex_2ce434",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438",
+        "to": "reverse_engineering_97b438_radar_exploitation_5839d7",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438",
+        "to": "reverse_engineering_97b438_sidewinder_copying_l_82f35b",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438",
+        "to": "reverse_engineering_97b438_technology_defection_c0645b",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438",
+        "to": "reverse_engineering_97b438_threat_inflation_1006bd",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438",
+        "to": "reverse_engineering_97b438_threat_replicas_simu_04f4b5",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438",
+        "to": "reverse_engineering_97b438_tu4_aircraft_copying_21e574",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438",
+        "to": "reverse_engineering_97b438_weapon_firmware_d78947",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438",
+        "to": "reverse_engineering_97b438_weapon_fragment_meta_e03bb2",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438",
+        "type": "parent"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438_battlefield_recovery_773544",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438_captured_operational_51d457",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438_captured_threat_trai_2a76bd",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438_cold_war_technology_a9e4cf",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438_component_tracing_sa_863d31",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438_countermeasures_from_9e5542",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438_documents_vs_hardwar_2fd5db",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438_drone_debris_exploit_9e0929",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438_export_weapon_exploi_fa93bd",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438_fme_institutions_febd9d",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438_ground_materiel_forc_2d8145",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438_hard_to_replicate_459412",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438_industrial_learning_1fb526",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438_legal_ethical_limits_260c32",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438_maintenance_clues_c503ae",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438_missile_drone_supply_d38175",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438_nasic_air_space_fme_e30511",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438_operation_lusty_391384",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438_project_paperclip_ex_2ce434",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438_radar_exploitation_5839d7",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438_sidewinder_copying_l_82f35b",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438_technology_defection_c0645b",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438_threat_inflation_1006bd",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438_threat_replicas_simu_04f4b5",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438_tu4_aircraft_copying_21e574",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438_weapon_firmware_d78947",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438_weapon_fragment_meta_e03bb2",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438_exploit_vs_copy_c8e898_captured_weapon_weak_b2d88b",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438_exploit_vs_copy_c8e898_have_doughnut_mig21_571320",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438_exploit_vs_copy_c8e898_have_drill_mig17_0fd258",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438_exploit_vs_copy_c8e898_index",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438_exploit_vs_copy_c8e898_j11_adaptation_886255",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438_exploit_vs_copy_c8e898_russian_components_s_6422db",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438_exploit_vs_copy_c8e898_tu4_copying_limits_76d8de",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "to": "reverse_engineering_97b438",
+        "type": "ancestor"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438",
+        "type": "parent"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438_battlefield_recovery_773544",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438_captured_operational_51d457",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438_captured_threat_trai_2a76bd",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438_cold_war_technology_a9e4cf",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438_component_tracing_sa_863d31",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438_countermeasures_from_9e5542",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438_documents_vs_hardwar_2fd5db",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438_drone_debris_exploit_9e0929",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438_export_weapon_exploi_fa93bd",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438_fme_institutions_febd9d",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438_ground_materiel_forc_2d8145",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438_hard_to_replicate_459412",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438_industrial_learning_1fb526",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438_legal_ethical_limits_260c32",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438_maintenance_clues_c503ae",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438_missile_drone_supply_d38175",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438_nasic_air_space_fme_e30511",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438_operation_lusty_391384",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438_project_paperclip_ex_2ce434",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438_radar_exploitation_5839d7",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438_sidewinder_copying_l_82f35b",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438_technology_defection_c0645b",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438_threat_inflation_1006bd",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438_threat_replicas_simu_04f4b5",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438_tu4_aircraft_copying_21e574",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438_weapon_firmware_d78947",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438_weapon_fragment_meta_e03bb2",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438_mig25_defection_bab7c4_belenko_intelligence_e34fdb",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438_mig25_defection_bab7c4_index",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438_mig25_defection_bab7c4_japan_mig25_diplomac_c50fe4",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438_mig25_defection_bab7c4_mig25_design_tradeof_51d8db",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438_mig25_defection_bab7c4_mig25_maneuverabilit_3b2ea3",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438_mig25_defection_bab7c4_mig25_superfighter_m_85c843",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438_mig25_defection_bab7c4_vacuum_tube_avionics_5d1af3",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "to": "reverse_engineering_97b438",
+        "type": "ancestor"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438",
+        "type": "parent"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438_battlefield_recovery_773544",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438_captured_operational_51d457",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438_captured_threat_trai_2a76bd",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438_cold_war_technology_a9e4cf",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438_component_tracing_sa_863d31",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438_countermeasures_from_9e5542",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438_documents_vs_hardwar_2fd5db",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438_drone_debris_exploit_9e0929",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438_export_weapon_exploi_fa93bd",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438_fme_institutions_febd9d",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438_ground_materiel_forc_2d8145",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438_hard_to_replicate_459412",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438_industrial_learning_1fb526",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438_legal_ethical_limits_260c32",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438_maintenance_clues_c503ae",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438_missile_drone_supply_d38175",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438_nasic_air_space_fme_e30511",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438_operation_lusty_391384",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438_project_paperclip_ex_2ce434",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438_radar_exploitation_5839d7",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438_sidewinder_copying_l_82f35b",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438_technology_defection_c0645b",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438_threat_inflation_1006bd",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438_threat_replicas_simu_04f4b5",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438_tu4_aircraft_copying_21e574",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438_weapon_firmware_d78947",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438_weapon_fragment_meta_e03bb2",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438_missile_seekers_b33be1_index",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438_missile_seekers_b33be1_infrared_flares_limi_22585b",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438_missile_seekers_b33be1_infrared_scene_model_e95f7c",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438_missile_seekers_b33be1_missile_warning_fals_b6f322",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438_missile_seekers_b33be1_nulka_radar_decoy_e5db43",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438_missile_seekers_b33be1_radar_chaff_rejectio_e18fee",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438_missile_seekers_b33be1_seeker_fragments_gen_0bab5f",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "to": "reverse_engineering_97b438",
+        "type": "ancestor"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438",
+        "type": "parent"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438_battlefield_recovery_773544",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438_captured_operational_51d457",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438_captured_threat_trai_2a76bd",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438_cold_war_technology_a9e4cf",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438_component_tracing_sa_863d31",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438_countermeasures_from_9e5542",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438_documents_vs_hardwar_2fd5db",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438_drone_debris_exploit_9e0929",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438_export_weapon_exploi_fa93bd",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438_fme_institutions_febd9d",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438_ground_materiel_forc_2d8145",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438_hard_to_replicate_459412",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438_industrial_learning_1fb526",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438_legal_ethical_limits_260c32",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438_maintenance_clues_c503ae",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438_mig25_defection_bab7c4",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438_missile_drone_supply_d38175",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438_missile_seekers_b33be1",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438_nasic_air_space_fme_e30511",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438_project_paperclip_ex_2ce434",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438_radar_exploitation_5839d7",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438_sidewinder_copying_l_82f35b",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438_technology_defection_c0645b",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438_threat_inflation_1006bd",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438_threat_replicas_simu_04f4b5",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438_tu4_aircraft_copying_21e574",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438_weapon_firmware_d78947",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438_weapon_fragment_meta_e03bb2",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438_operation_lusty_391384_ar_234_reconnaissanc_af5b9a",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438_operation_lusty_391384_captured_german_docu_93722d",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438_operation_lusty_391384_do_335_design_tradeo_8a7fe0",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438_operation_lusty_391384_german_experts_livin_3edbb6",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438_operation_lusty_391384_index",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438_operation_lusty_391384_me_262_exploitation_593baf",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438_operation_lusty_391384_watsons_whizzers_fer_3f1819",
+        "type": "child"
+      },
+      {
+        "from": "reverse_engineering_97b438_operation_lusty_391384",
+        "to": "reverse_engineering_97b438",
+        "type": "ancestor"
+      },
+      {
+        "from": "reverse_engineering_97b438_weapon_firmware_d78947",
+        "to": "reverse_engineering_97b438",
+        "type": "parent"
+      },
+      {
+        "from": "reverse_engineering_97b438_weapon_firmware_d78947",
+        "to": "reverse_engineering_97b438_battlefield_recovery_773544",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_weapon_firmware_d78947",
+        "to": "reverse_engineering_97b438_captured_operational_51d457",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_weapon_firmware_d78947",
+        "to": "reverse_engineering_97b438_captured_threat_trai_2a76bd",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_weapon_firmware_d78947",
+        "to": "reverse_engineering_97b438_cold_war_technology_a9e4cf",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_weapon_firmware_d78947",
+        "to": "reverse_engineering_97b438_component_tracing_sa_863d31",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_weapon_firmware_d78947",
+        "to": "reverse_engineering_97b438_countermeasures_from_9e5542",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_weapon_firmware_d78947",
+        "to": "reverse_engineering_97b438_documents_vs_hardwar_2fd5db",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_weapon_firmware_d78947",
+        "to": "reverse_engineering_97b438_drone_debris_exploit_9e0929",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_weapon_firmware_d78947",
+        "to": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_weapon_firmware_d78947",
+        "to": "reverse_engineering_97b438_export_weapon_exploi_fa93bd",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_weapon_firmware_d78947",
+        "to": "reverse_engineering_97b438_fme_institutions_febd9d",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_weapon_firmware_d78947",
+        "to": "reverse_engineering_97b438_ground_materiel_forc_2d8145",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_weapon_firmware_d78947",
+        "to": "reverse_engineering_97b438_hard_to_replicate_459412",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_weapon_firmware_d78947",
+        "to": "reverse_engineering_97b438_industrial_learning_1fb526",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_weapon_firmware_d78947",
+        "to": "reverse_engineering_97b438_legal_ethical_limits_260c32",
+        "type": "sibling"
+      },
+      {
+        "from": "reverse_engineering_97b438_weapon_firmware_d78947",
+        "to": "reverse_engineering_97b438_maintenance_clues_c503ae",
+        "type": "sibling"
+      }
+    ]
+  }
+}

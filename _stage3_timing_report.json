@@ -1,0 +1,4107 @@
+{
+  "version": 1,
+  "page_count": 211,
+  "total_page_seconds": 973.8069,
+  "average_page_seconds": 4.6152,
+  "phase_totals_seconds": {
+    "youtube": 285.0826,
+    "internal_links": 258.1413,
+    "monetization": 208.7371,
+    "media_svg": 107.6705,
+    "content_assembly": 97.116,
+    "quality_write": 8.7117,
+    "content_cleanup_final": 5.7217,
+    "preparation": 2.4989,
+    "content_cleanup_initial": 0.1252
+  },
+  "slowest_pages": [
+    {
+      "base_name": "reverse_engineering_97b438",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 99.9446,
+      "phases": {
+        "preparation": 0.0194,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.2815,
+        "content_cleanup_final": 0.0473,
+        "media_svg": 0.1582,
+        "youtube": 96.1744,
+        "content_assembly": 0.6815,
+        "monetization": 1.5305,
+        "quality_write": 0.051
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 97.4486,
+      "phases": {
+        "preparation": 0.0356,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.3139,
+        "content_cleanup_final": 0.0403,
+        "media_svg": 0.1353,
+        "youtube": 93.5453,
+        "content_assembly": 0.6748,
+        "monetization": 1.6495,
+        "quality_write": 0.0532
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_mig25_defection_bab7c4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 94.5252,
+      "phases": {
+        "preparation": 0.0209,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.4537,
+        "content_cleanup_final": 0.0335,
+        "media_svg": 0.181,
+        "youtube": 90.5715,
+        "content_assembly": 0.6327,
+        "monetization": 1.5841,
+        "quality_write": 0.0468
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_fme_institutions_febd9d_nasic_air_space_fme_e30511",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 12.7226,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2899,
+        "content_cleanup_final": 0.0261,
+        "media_svg": 0.488,
+        "youtube": 0.017,
+        "content_assembly": 0.4987,
+        "monetization": 10.3639,
+        "quality_write": 0.0385
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_drone_debris_exploit_9e0929_shahed_navigation_sh_f9abed",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 12.6171,
+      "phases": {
+        "preparation": 0.0286,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1979,
+        "content_cleanup_final": 0.0227,
+        "media_svg": 0.364,
+        "youtube": 0.0103,
+        "content_assembly": 0.4174,
+        "monetization": 10.5418,
+        "quality_write": 0.034
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_fme_institutions_febd9d_permanent_exploitati_5e863c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 11.1865,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2698,
+        "content_cleanup_final": 0.0283,
+        "media_svg": 0.8399,
+        "youtube": 0.011,
+        "content_assembly": 0.4644,
+        "monetization": 8.533,
+        "quality_write": 0.0394
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_component_tracing_sa_863d31_post_invasion_chips_2aca7a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 10.4485,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 1.2872,
+        "content_cleanup_final": 0.0272,
+        "media_svg": 0.8286,
+        "youtube": 0.0135,
+        "content_assembly": 0.4844,
+        "monetization": 7.736,
+        "quality_write": 0.0704
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_sidewinder_copying_l_82f35b_atoll_combat_feel_738618",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 9.8979,
+      "phases": {
+        "preparation": 0.0184,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 1.1441,
+        "content_cleanup_final": 0.0165,
+        "media_svg": 0.3688,
+        "youtube": 0.0118,
+        "content_assembly": 0.4066,
+        "monetization": 7.8817,
+        "quality_write": 0.0497
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_sidewinder_copying_l_82f35b_sidewinder_k13_copy_62206c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 9.1281,
+      "phases": {
+        "preparation": 0.0219,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1593,
+        "content_cleanup_final": 0.0225,
+        "media_svg": 0.4398,
+        "youtube": 0.0109,
+        "content_assembly": 0.5397,
+        "monetization": 6.9001,
+        "quality_write": 0.0334
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_missile_seekers_b33be1_radar_chaff_rejectio_e18fee",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 8.136,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2708,
+        "content_cleanup_final": 0.0289,
+        "media_svg": 0.3568,
+        "youtube": 0.0133,
+        "content_assembly": 0.4228,
+        "monetization": 5.986,
+        "quality_write": 0.0394
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_weapon_fragment_meta_e03bb2_manufacturing_flaws_cb9456",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.6465,
+      "phases": {
+        "preparation": 0.0177,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.165,
+        "content_cleanup_final": 0.0206,
+        "media_svg": 0.3534,
+        "youtube": 0.0119,
+        "content_assembly": 0.3956,
+        "monetization": 5.6442,
+        "quality_write": 0.0376
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_threat_replicas_simu_04f4b5_radar_emitters_pilot_fbd917",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.3148,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.1827,
+        "content_cleanup_final": 0.025,
+        "media_svg": 0.8453,
+        "youtube": 0.0123,
+        "content_assembly": 0.4388,
+        "monetization": 4.76,
+        "quality_write": 0.0499
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_threat_replicas_simu_04f4b5_mobile_range_threat_bc7b9a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.2964,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.1958,
+        "content_cleanup_final": 0.0285,
+        "media_svg": 0.7957,
+        "youtube": 0.0127,
+        "content_assembly": 0.4599,
+        "monetization": 4.7618,
+        "quality_write": 0.041
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_drone_debris_exploit_9e0929_orlan10_kill_chain_bb2d14",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.2174,
+      "phases": {
+        "preparation": 0.018,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.157,
+        "content_cleanup_final": 0.0255,
+        "media_svg": 0.3605,
+        "youtube": 0.0107,
+        "content_assembly": 0.4188,
+        "monetization": 5.19,
+        "quality_write": 0.0364
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_export_weapon_exploi_fa93bd_sipri_transfer_data_b1db26",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.1024,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1828,
+        "content_cleanup_final": 0.026,
+        "media_svg": 0.4232,
+        "youtube": 0.0124,
+        "content_assembly": 0.4353,
+        "monetization": 4.9835,
+        "quality_write": 0.0386
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_missile_drone_supply_d38175_component_databases_1faf9e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.7579,
+      "phases": {
+        "preparation": 0.0178,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1643,
+        "content_cleanup_final": 0.024,
+        "media_svg": 0.3456,
+        "youtube": 0.0081,
+        "content_assembly": 0.4037,
+        "monetization": 4.7491,
+        "quality_write": 0.0449
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_weapon_firmware_d78947_debug_ports_access_p_0567fd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.521,
+      "phases": {
+        "preparation": 0.018,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 1.2247,
+        "content_cleanup_final": 0.0265,
+        "media_svg": 0.3456,
+        "youtube": 2.1125,
+        "content_assembly": 0.429,
+        "monetization": 2.327,
+        "quality_write": 0.0365
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_documents_vs_hardwar_2fd5db_captured_manuals_sho_a551f2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.4943,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.3134,
+        "content_cleanup_final": 0.031,
+        "media_svg": 0.8193,
+        "youtube": 0.0102,
+        "content_assembly": 0.4214,
+        "monetization": 3.8622,
+        "quality_write": 0.0361
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_weapon_firmware_d78947_threat_signal_librar_35b4b2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.3837,
+      "phases": {
+        "preparation": 0.0229,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1841,
+        "content_cleanup_final": 0.0337,
+        "media_svg": 0.3791,
+        "youtube": 0.0109,
+        "content_assembly": 0.4297,
+        "monetization": 4.2724,
+        "quality_write": 0.0503
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_industrial_learning_1fb526_t34_factory_tradeoff_566e8c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.1332,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1523,
+        "content_cleanup_final": 0.0147,
+        "media_svg": 0.3508,
+        "youtube": 0.012,
+        "content_assembly": 0.4088,
+        "monetization": 4.1261,
+        "quality_write": 0.0504
+      }
+    }
+  ],
+  "pages": [
+    {
+      "base_name": "reverse_engineering_97b438_mig25_defection_bab7c4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 94.5252,
+      "phases": {
+        "preparation": 0.0209,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.4537,
+        "content_cleanup_final": 0.0335,
+        "media_svg": 0.181,
+        "youtube": 90.5715,
+        "content_assembly": 0.6327,
+        "monetization": 1.5841,
+        "quality_write": 0.0468
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 99.9446,
+      "phases": {
+        "preparation": 0.0194,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.2815,
+        "content_cleanup_final": 0.0473,
+        "media_svg": 0.1582,
+        "youtube": 96.1744,
+        "content_assembly": 0.6815,
+        "monetization": 1.5305,
+        "quality_write": 0.051
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 97.4486,
+      "phases": {
+        "preparation": 0.0356,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.3139,
+        "content_cleanup_final": 0.0403,
+        "media_svg": 0.1353,
+        "youtube": 93.5453,
+        "content_assembly": 0.6748,
+        "monetization": 1.6495,
+        "quality_write": 0.0532
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_missile_seekers_b33be1",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0752,
+      "phases": {
+        "preparation": 0.0256,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2267,
+        "content_cleanup_final": 0.0326,
+        "media_svg": 0.0887,
+        "youtube": 0.0214,
+        "content_assembly": 0.547,
+        "monetization": 0.0849,
+        "quality_write": 0.0477
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_weapon_firmware_d78947",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9956,
+      "phases": {
+        "preparation": 0.0237,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1999,
+        "content_cleanup_final": 0.0274,
+        "media_svg": 0.0823,
+        "youtube": 0.0127,
+        "content_assembly": 0.5154,
+        "monetization": 0.0851,
+        "quality_write": 0.0487
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_operation_lusty_391384",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9286,
+      "phases": {
+        "preparation": 0.0236,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1667,
+        "content_cleanup_final": 0.0214,
+        "media_svg": 0.1348,
+        "youtube": 0.0169,
+        "content_assembly": 0.5181,
+        "monetization": 1.0021,
+        "quality_write": 0.0446
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_threat_inflation_1006bd",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9331,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2615,
+        "content_cleanup_final": 0.038,
+        "media_svg": 0.1737,
+        "youtube": 0.0171,
+        "content_assembly": 0.5583,
+        "monetization": 1.8225,
+        "quality_write": 0.0613
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_hard_to_replicate_459412",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2365,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 1.2032,
+        "content_cleanup_final": 0.0309,
+        "media_svg": 0.1359,
+        "youtube": 0.0164,
+        "content_assembly": 0.5402,
+        "monetization": 1.2638,
+        "quality_write": 0.045
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_fme_institutions_febd9d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.1845,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.2594,
+        "content_cleanup_final": 0.0481,
+        "media_svg": 0.16,
+        "youtube": 0.015,
+        "content_assembly": 0.5564,
+        "monetization": 2.0876,
+        "quality_write": 0.0572
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_maintenance_clues_c503ae",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1031,
+      "phases": {
+        "preparation": 0.0225,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2315,
+        "content_cleanup_final": 0.0461,
+        "media_svg": 0.121,
+        "youtube": 0.0206,
+        "content_assembly": 0.5465,
+        "monetization": 0.0628,
+        "quality_write": 0.0515
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_radar_exploitation_5839d7",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0497,
+      "phases": {
+        "preparation": 0.0243,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2094,
+        "content_cleanup_final": 0.0292,
+        "media_svg": 0.132,
+        "youtube": 0.0105,
+        "content_assembly": 0.5275,
+        "monetization": 0.0683,
+        "quality_write": 0.0478
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_cold_war_technology_a9e4cf",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.692,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.234,
+        "content_cleanup_final": 0.0268,
+        "media_svg": 0.1569,
+        "youtube": 0.0175,
+        "content_assembly": 0.5452,
+        "monetization": 1.657,
+        "quality_write": 0.0537
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_industrial_learning_1fb526",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.109,
+      "phases": {
+        "preparation": 0.0211,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1849,
+        "content_cleanup_final": 0.0265,
+        "media_svg": 0.0894,
+        "youtube": 0.0179,
+        "content_assembly": 0.6548,
+        "monetization": 0.0657,
+        "quality_write": 0.0483
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_nasic_air_space_fme_e30511",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1238,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.1884,
+        "content_cleanup_final": 0.0281,
+        "media_svg": 0.1939,
+        "youtube": 0.0253,
+        "content_assembly": 0.5562,
+        "monetization": 0.0829,
+        "quality_write": 0.048
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_battlefield_recovery_773544",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1109,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.2588,
+        "content_cleanup_final": 0.0354,
+        "media_svg": 0.1477,
+        "youtube": 0.0129,
+        "content_assembly": 0.5487,
+        "monetization": 0.0591,
+        "quality_write": 0.0476
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_captured_threat_trai_2a76bd",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0996,
+      "phases": {
+        "preparation": 0.0218,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2111,
+        "content_cleanup_final": 0.0373,
+        "media_svg": 0.1074,
+        "youtube": 0.0137,
+        "content_assembly": 0.5643,
+        "monetization": 0.0941,
+        "quality_write": 0.0495
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_captured_operational_51d457",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2355,
+      "phases": {
+        "preparation": 0.0234,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.26,
+        "content_cleanup_final": 0.0455,
+        "media_svg": 0.1315,
+        "youtube": 0.0157,
+        "content_assembly": 0.6255,
+        "monetization": 0.0823,
+        "quality_write": 0.0509
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_component_tracing_sa_863d31",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5323,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.349,
+        "content_cleanup_final": 0.0539,
+        "media_svg": 0.2072,
+        "youtube": 0.0149,
+        "content_assembly": 0.7713,
+        "monetization": 0.0767,
+        "quality_write": 0.0583
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_countermeasures_from_9e5542",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3364,
+      "phases": {
+        "preparation": 0.0207,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.3083,
+        "content_cleanup_final": 0.0474,
+        "media_svg": 0.1126,
+        "youtube": 0.013,
+        "content_assembly": 0.6881,
+        "monetization": 0.0881,
+        "quality_write": 0.0576
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_documents_vs_hardwar_2fd5db",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3585,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.2313,
+        "content_cleanup_final": 0.0288,
+        "media_svg": 0.4068,
+        "youtube": 0.0224,
+        "content_assembly": 0.5426,
+        "monetization": 0.066,
+        "quality_write": 0.0597
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_drone_debris_exploit_9e0929",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9987,
+      "phases": {
+        "preparation": 0.0228,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2005,
+        "content_cleanup_final": 0.0237,
+        "media_svg": 0.0911,
+        "youtube": 0.0137,
+        "content_assembly": 0.536,
+        "monetization": 0.0627,
+        "quality_write": 0.0477
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_legal_ethical_limits_260c32",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.459,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0013,
+        "internal_links": 1.3778,
+        "content_cleanup_final": 0.0635,
+        "media_svg": 0.2763,
+        "youtube": 0.0155,
+        "content_assembly": 0.6025,
+        "monetization": 0.0645,
+        "quality_write": 0.0574
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_ground_materiel_forc_2d8145",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 4.3044,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 1.3046,
+        "content_cleanup_final": 0.0552,
+        "media_svg": 0.1584,
+        "youtube": 0.0124,
+        "content_assembly": 0.5865,
+        "monetization": 2.1232,
+        "quality_write": 0.0629
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_export_weapon_exploi_fa93bd",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.6806,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.3267,
+        "content_cleanup_final": 0.0568,
+        "media_svg": 0.1565,
+        "youtube": 0.0195,
+        "content_assembly": 0.5854,
+        "monetization": 3.4768,
+        "quality_write": 0.0578
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_project_paperclip_ex_2ce434",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0927,
+      "phases": {
+        "preparation": 0.0216,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.1957,
+        "content_cleanup_final": 0.0394,
+        "media_svg": 0.1258,
+        "youtube": 0.0165,
+        "content_assembly": 0.5719,
+        "monetization": 0.0725,
+        "quality_write": 0.0484
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_missile_drone_supply_d38175",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1933,
+      "phases": {
+        "preparation": 0.0261,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.2476,
+        "content_cleanup_final": 0.0372,
+        "media_svg": 0.1342,
+        "youtube": 0.0127,
+        "content_assembly": 0.5887,
+        "monetization": 0.0913,
+        "quality_write": 0.0547
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_sidewinder_copying_l_82f35b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2488,
+      "phases": {
+        "preparation": 0.0222,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.192,
+        "content_cleanup_final": 0.0231,
+        "media_svg": 0.3436,
+        "youtube": 0.0123,
+        "content_assembly": 0.5204,
+        "monetization": 0.0887,
+        "quality_write": 0.0459
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_technology_defection_c0645b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0668,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1891,
+        "content_cleanup_final": 0.026,
+        "media_svg": 0.1473,
+        "youtube": 0.0173,
+        "content_assembly": 0.5783,
+        "monetization": 0.0599,
+        "quality_write": 0.0483
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_threat_replicas_simu_04f4b5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.144,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2347,
+        "content_cleanup_final": 0.0382,
+        "media_svg": 0.1368,
+        "youtube": 0.017,
+        "content_assembly": 0.5845,
+        "monetization": 0.0832,
+        "quality_write": 0.049
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_tu4_aircraft_copying_21e574",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7539,
+      "phases": {
+        "preparation": 0.0239,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2714,
+        "content_cleanup_final": 0.0254,
+        "media_svg": 0.0942,
+        "youtube": 0.0146,
+        "content_assembly": 0.5219,
+        "monetization": 0.7179,
+        "quality_write": 0.0842
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_exploit_vs_copy_c8e898_j11_adaptation_886255",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1991,
+      "phases": {
+        "preparation": 0.0256,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.2179,
+        "content_cleanup_final": 0.0187,
+        "media_svg": 0.3541,
+        "youtube": 0.0108,
+        "content_assembly": 0.4652,
+        "monetization": 0.0671,
+        "quality_write": 0.0389
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_weapon_fragment_meta_e03bb2",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8301,
+      "phases": {
+        "preparation": 0.0247,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2626,
+        "content_cleanup_final": 0.0345,
+        "media_svg": 0.1379,
+        "youtube": 0.012,
+        "content_assembly": 0.5789,
+        "monetization": 0.7294,
+        "quality_write": 0.0495
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_radar_exploitation_5839d7_radar_limits_a7a292",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3742,
+      "phases": {
+        "preparation": 0.0245,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3742,
+        "content_cleanup_final": 0.0294,
+        "media_svg": 0.3872,
+        "youtube": 0.0146,
+        "content_assembly": 0.4314,
+        "monetization": 0.0679,
+        "quality_write": 0.0445
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_exploit_vs_copy_c8e898_have_drill_mig17_0fd258",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2297,
+      "phases": {
+        "preparation": 0.0263,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.3028,
+        "content_cleanup_final": 0.0203,
+        "media_svg": 0.3808,
+        "youtube": 0.0104,
+        "content_assembly": 0.4191,
+        "monetization": 0.0274,
+        "quality_write": 0.0418
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_missile_seekers_b33be1_nulka_radar_decoy_e5db43",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1015,
+      "phases": {
+        "preparation": 0.0225,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1897,
+        "content_cleanup_final": 0.0188,
+        "media_svg": 0.3477,
+        "youtube": 0.0116,
+        "content_assembly": 0.4069,
+        "monetization": 0.0668,
+        "quality_write": 0.0369
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_exploit_vs_copy_c8e898_tu4_copying_limits_76d8de",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.187,
+      "phases": {
+        "preparation": 0.0257,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2122,
+        "content_cleanup_final": 0.0183,
+        "media_svg": 0.4089,
+        "youtube": 0.0138,
+        "content_assembly": 0.4096,
+        "monetization": 0.0623,
+        "quality_write": 0.0355
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_fme_institutions_febd9d_army_ground_fme_fe27ae",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.3489,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2387,
+        "content_cleanup_final": 0.0246,
+        "media_svg": 0.8641,
+        "youtube": 0.0145,
+        "content_assembly": 0.4234,
+        "monetization": 2.749,
+        "quality_write": 0.0339
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_exploit_vs_copy_c8e898_have_doughnut_mig21_571320",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0731,
+      "phases": {
+        "preparation": 0.0191,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1491,
+        "content_cleanup_final": 0.0245,
+        "media_svg": 0.3666,
+        "youtube": 0.0079,
+        "content_assembly": 0.4352,
+        "monetization": 0.0255,
+        "quality_write": 0.0446
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_fme_institutions_febd9d_dod_fme_governance_700240",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5222,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1677,
+        "content_cleanup_final": 0.0209,
+        "media_svg": 0.7992,
+        "youtube": 0.0127,
+        "content_assembly": 0.4194,
+        "monetization": 0.0683,
+        "quality_write": 0.0334
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_hard_to_replicate_459412_beyond_blueprints_5e668d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6324,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.2049,
+        "content_cleanup_final": 0.0341,
+        "media_svg": 0.8659,
+        "youtube": 0.0105,
+        "content_assembly": 0.4177,
+        "monetization": 0.0637,
+        "quality_write": 0.0346
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_maintenance_clues_c503ae_spares_packaging_8c3e9d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.4291,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1366,
+        "content_cleanup_final": 0.0232,
+        "media_svg": 0.8258,
+        "youtube": 0.0149,
+        "content_assembly": 0.4377,
+        "monetization": 2.9566,
+        "quality_write": 0.0336
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_maintenance_clues_c503ae_orlan_drone_parts_221817",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6166,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1475,
+        "content_cleanup_final": 0.0218,
+        "media_svg": 0.8298,
+        "youtube": 0.0105,
+        "content_assembly": 0.4181,
+        "monetization": 0.1473,
+        "quality_write": 0.0409
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_operation_lusty_391384_me_262_exploitation_593baf",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1199,
+      "phases": {
+        "preparation": 0.0195,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1981,
+        "content_cleanup_final": 0.0244,
+        "media_svg": 0.3537,
+        "youtube": 0.008,
+        "content_assembly": 0.4199,
+        "monetization": 0.0593,
+        "quality_write": 0.0367
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_radar_exploitation_5839d7_rwr_threat_calls_55ce15",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1249,
+      "phases": {
+        "preparation": 0.0177,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1731,
+        "content_cleanup_final": 0.0258,
+        "media_svg": 0.3635,
+        "youtube": 0.0111,
+        "content_assembly": 0.4306,
+        "monetization": 0.0681,
+        "quality_write": 0.0346
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_sidewinder_copying_l_82f35b_china_pl2_path_96a2c7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0967,
+      "phases": {
+        "preparation": 0.0195,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1574,
+        "content_cleanup_final": 0.0204,
+        "media_svg": 0.3735,
+        "youtube": 0.012,
+        "content_assembly": 0.411,
+        "monetization": 0.0679,
+        "quality_write": 0.0346
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_threat_inflation_1006bd_fme_corrects_myths_b62ddb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6091,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.1947,
+        "content_cleanup_final": 0.0315,
+        "media_svg": 0.8204,
+        "youtube": 0.0111,
+        "content_assembly": 0.4338,
+        "monetization": 0.0798,
+        "quality_write": 0.0369
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_tu4_aircraft_copying_21e574_tu4_1947_debut_cee61f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0965,
+      "phases": {
+        "preparation": 0.0188,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.1532,
+        "content_cleanup_final": 0.0201,
+        "media_svg": 0.36,
+        "youtube": 0.0102,
+        "content_assembly": 0.4358,
+        "monetization": 0.0599,
+        "quality_write": 0.0379
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_exploit_vs_copy_c8e898_captured_weapon_weak_b2d88b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1976,
+      "phases": {
+        "preparation": 0.0193,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1707,
+        "content_cleanup_final": 0.0201,
+        "media_svg": 0.3801,
+        "youtube": 0.0107,
+        "content_assembly": 0.4543,
+        "monetization": 0.1042,
+        "quality_write": 0.0377
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_exploit_vs_copy_c8e898_russian_components_s_6422db",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4408,
+      "phases": {
+        "preparation": 0.0176,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3283,
+        "content_cleanup_final": 0.0336,
+        "media_svg": 0.3916,
+        "youtube": 0.0156,
+        "content_assembly": 0.5351,
+        "monetization": 0.0721,
+        "quality_write": 0.0465
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_mig25_defection_bab7c4_belenko_intelligence_e34fdb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.295,
+      "phases": {
+        "preparation": 0.0241,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.3588,
+        "content_cleanup_final": 0.0225,
+        "media_svg": 0.3458,
+        "youtube": 0.0117,
+        "content_assembly": 0.4245,
+        "monetization": 0.0569,
+        "quality_write": 0.0499
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_mig25_defection_bab7c4_japan_mig25_diplomac_c50fe4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0544,
+      "phases": {
+        "preparation": 0.027,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1516,
+        "content_cleanup_final": 0.0226,
+        "media_svg": 0.3673,
+        "youtube": 0.0094,
+        "content_assembly": 0.4199,
+        "monetization": 0.0229,
+        "quality_write": 0.0334
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_mig25_defection_bab7c4_mig25_design_tradeof_51d8db",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0431,
+      "phases": {
+        "preparation": 0.0184,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1528,
+        "content_cleanup_final": 0.0219,
+        "media_svg": 0.3522,
+        "youtube": 0.0105,
+        "content_assembly": 0.4258,
+        "monetization": 0.0242,
+        "quality_write": 0.0369
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_mig25_defection_bab7c4_mig25_maneuverabilit_3b2ea3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2773,
+      "phases": {
+        "preparation": 0.0208,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.3007,
+        "content_cleanup_final": 0.0186,
+        "media_svg": 0.4581,
+        "youtube": 0.0103,
+        "content_assembly": 0.4138,
+        "monetization": 0.0219,
+        "quality_write": 0.0324
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_mig25_defection_bab7c4_mig25_superfighter_m_85c843",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1718,
+      "phases": {
+        "preparation": 0.0362,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.2782,
+        "content_cleanup_final": 0.0165,
+        "media_svg": 0.3498,
+        "youtube": 0.0162,
+        "content_assembly": 0.4077,
+        "monetization": 0.0321,
+        "quality_write": 0.0342
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_mig25_defection_bab7c4_vacuum_tube_avionics_5d1af3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0273,
+      "phases": {
+        "preparation": 0.0227,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1601,
+        "content_cleanup_final": 0.0218,
+        "media_svg": 0.3402,
+        "youtube": 0.0123,
+        "content_assembly": 0.4119,
+        "monetization": 0.0236,
+        "quality_write": 0.0342
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_missile_seekers_b33be1_infrared_scene_model_e95f7c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0856,
+      "phases": {
+        "preparation": 0.0177,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1843,
+        "content_cleanup_final": 0.0204,
+        "media_svg": 0.3448,
+        "youtube": 0.0102,
+        "content_assembly": 0.3972,
+        "monetization": 0.0769,
+        "quality_write": 0.0337
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_missile_seekers_b33be1_infrared_flares_limi_22585b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9706,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1369,
+        "content_cleanup_final": 0.0317,
+        "media_svg": 0.3574,
+        "youtube": 0.0119,
+        "content_assembly": 0.4445,
+        "monetization": 1.9339,
+        "quality_write": 0.0365
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_fme_institutions_febd9d_nasic_air_space_fme_e30511",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 12.7226,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2899,
+        "content_cleanup_final": 0.0261,
+        "media_svg": 0.488,
+        "youtube": 0.017,
+        "content_assembly": 0.4987,
+        "monetization": 10.3639,
+        "quality_write": 0.0385
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_missile_seekers_b33be1_missile_warning_fals_b6f322",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1086,
+      "phases": {
+        "preparation": 0.0182,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1584,
+        "content_cleanup_final": 0.0257,
+        "media_svg": 0.3532,
+        "youtube": 0.0103,
+        "content_assembly": 0.4115,
+        "monetization": 0.0904,
+        "quality_write": 0.0403
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_missile_seekers_b33be1_seeker_fragments_gen_0bab5f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1832,
+      "phases": {
+        "preparation": 0.021,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1603,
+        "content_cleanup_final": 0.0262,
+        "media_svg": 0.3595,
+        "youtube": 0.012,
+        "content_assembly": 0.3998,
+        "monetization": 0.1637,
+        "quality_write": 0.0403
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_operation_lusty_391384_ar_234_reconnaissanc_af5b9a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1088,
+      "phases": {
+        "preparation": 0.0273,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.1904,
+        "content_cleanup_final": 0.021,
+        "media_svg": 0.3383,
+        "youtube": 0.0082,
+        "content_assembly": 0.4214,
+        "monetization": 0.0656,
+        "quality_write": 0.0359
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_operation_lusty_391384_captured_german_docu_93722d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1592,
+      "phases": {
+        "preparation": 0.0208,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2669,
+        "content_cleanup_final": 0.023,
+        "media_svg": 0.2391,
+        "youtube": 0.0104,
+        "content_assembly": 0.4204,
+        "monetization": 0.1441,
+        "quality_write": 0.0341
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_operation_lusty_391384_german_experts_livin_3edbb6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0856,
+      "phases": {
+        "preparation": 0.0214,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1846,
+        "content_cleanup_final": 0.0175,
+        "media_svg": 0.3519,
+        "youtube": 0.0101,
+        "content_assembly": 0.401,
+        "monetization": 0.0644,
+        "quality_write": 0.0343
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_operation_lusty_391384_do_335_design_tradeo_8a7fe0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.4207,
+      "phases": {
+        "preparation": 0.0179,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2364,
+        "content_cleanup_final": 0.0167,
+        "media_svg": 0.3591,
+        "youtube": 0.0116,
+        "content_assembly": 0.4035,
+        "monetization": 2.3423,
+        "quality_write": 0.0329
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_missile_seekers_b33be1_radar_chaff_rejectio_e18fee",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 8.136,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2708,
+        "content_cleanup_final": 0.0289,
+        "media_svg": 0.3568,
+        "youtube": 0.0133,
+        "content_assembly": 0.4228,
+        "monetization": 5.986,
+        "quality_write": 0.0394
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_tu4_aircraft_copying_21e574_tu4_b29_systems_9b16db",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0456,
+      "phases": {
+        "preparation": 0.0195,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1979,
+        "content_cleanup_final": 0.0246,
+        "media_svg": 0.2486,
+        "youtube": 0.0104,
+        "content_assembly": 0.4445,
+        "monetization": 0.0629,
+        "quality_write": 0.0368
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_operation_lusty_391384_watsons_whizzers_fer_3f1819",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.8911,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1669,
+        "content_cleanup_final": 0.0265,
+        "media_svg": 0.3604,
+        "youtube": 0.0084,
+        "content_assembly": 0.4381,
+        "monetization": 2.8306,
+        "quality_write": 0.0424
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_weapon_firmware_d78947_drone_navigation_beh_2a75f3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3595,
+      "phases": {
+        "preparation": 0.0178,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2521,
+        "content_cleanup_final": 0.0338,
+        "media_svg": 0.3998,
+        "youtube": 0.0183,
+        "content_assembly": 0.4273,
+        "monetization": 0.1689,
+        "quality_write": 0.0409
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_weapon_firmware_d78947_firmware_update_mech_8efbb0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3264,
+      "phases": {
+        "preparation": 0.0195,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3355,
+        "content_cleanup_final": 0.0313,
+        "media_svg": 0.3569,
+        "youtube": 0.0114,
+        "content_assembly": 0.4317,
+        "monetization": 0.103,
+        "quality_write": 0.0365
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_weapon_firmware_d78947_debug_ports_access_p_0567fd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.521,
+      "phases": {
+        "preparation": 0.018,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 1.2247,
+        "content_cleanup_final": 0.0265,
+        "media_svg": 0.3456,
+        "youtube": 2.1125,
+        "content_assembly": 0.429,
+        "monetization": 2.327,
+        "quality_write": 0.0365
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_weapon_firmware_d78947_firmware_threat_simu_7fc964",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1201,
+      "phases": {
+        "preparation": 0.0197,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.3949,
+        "content_cleanup_final": 0.0217,
+        "media_svg": 0.3585,
+        "youtube": 0.0153,
+        "content_assembly": 0.4184,
+        "monetization": 0.8551,
+        "quality_write": 0.036
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_weapon_firmware_d78947_maintenance_data_int_c82edf",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1208,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.1857,
+        "content_cleanup_final": 0.0253,
+        "media_svg": 0.3704,
+        "youtube": 0.0112,
+        "content_assembly": 0.4146,
+        "monetization": 1.0578,
+        "quality_write": 0.0377
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_export_weapon_exploi_fa93bd_iran_f14_warning_5b1ef5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.7372,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1734,
+        "content_cleanup_final": 0.0228,
+        "media_svg": 0.8535,
+        "youtube": 0.0116,
+        "content_assembly": 0.4624,
+        "monetization": 2.1765,
+        "quality_write": 0.0365
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_fme_institutions_febd9d_fme_threat_databases_9a0eb6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0189,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1772,
+        "content_cleanup_final": 0.0219,
+        "media_svg": 0.8641,
+        "youtube": 0.0112,
+        "content_assembly": 0.4062,
+        "monetization": 0.503,
+        "quality_write": 0.0348
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_weapon_firmware_d78947_threat_signal_librar_35b4b2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.3837,
+      "phases": {
+        "preparation": 0.0229,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1841,
+        "content_cleanup_final": 0.0337,
+        "media_svg": 0.3791,
+        "youtube": 0.0109,
+        "content_assembly": 0.4297,
+        "monetization": 4.2724,
+        "quality_write": 0.0503
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_fme_institutions_febd9d_msic_missile_superco_27a36c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.666,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1548,
+        "content_cleanup_final": 0.0191,
+        "media_svg": 0.8655,
+        "youtube": 0.0106,
+        "content_assembly": 0.4395,
+        "monetization": 0.1423,
+        "quality_write": 0.0336
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_maintenance_clues_c503ae_field_modifications_e86757",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.713,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.2736,
+        "content_cleanup_final": 0.025,
+        "media_svg": 0.8196,
+        "youtube": 0.0133,
+        "content_assembly": 0.4849,
+        "monetization": 0.0583,
+        "quality_write": 0.0373
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_project_paperclip_ex_2ce434_von_braun_ethics_748c0b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2134,
+      "phases": {
+        "preparation": 0.0198,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2353,
+        "content_cleanup_final": 0.0294,
+        "media_svg": 0.3738,
+        "youtube": 0.0132,
+        "content_assembly": 0.4421,
+        "monetization": 0.0577,
+        "quality_write": 0.0416
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_threat_inflation_1006bd_inspection_hidden_tr_5378db",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5119,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1787,
+        "content_cleanup_final": 0.0216,
+        "media_svg": 0.8687,
+        "youtube": 0.0653,
+        "content_assembly": 0.497,
+        "monetization": 0.8464,
+        "quality_write": 0.0336
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_threat_inflation_1006bd_mig21_testing_tactic_66fb1a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5634,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.3112,
+        "content_cleanup_final": 0.0178,
+        "media_svg": 0.7576,
+        "youtube": 0.0114,
+        "content_assembly": 0.3991,
+        "monetization": 0.0263,
+        "quality_write": 0.0394
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_threat_inflation_1006bd_visible_strengths_hi_1c45df",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4894,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1452,
+        "content_cleanup_final": 0.0248,
+        "media_svg": 0.7881,
+        "youtube": 0.012,
+        "content_assembly": 0.4133,
+        "monetization": 0.0732,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_threat_inflation_1006bd_mig25_superfighter_m_85c843",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.4049,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2327,
+        "content_cleanup_final": 0.026,
+        "media_svg": 0.7625,
+        "youtube": 0.0149,
+        "content_assembly": 0.4487,
+        "monetization": 1.8738,
+        "quality_write": 0.0456
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_fme_institutions_febd9d_permanent_exploitati_5e863c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 11.1865,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2698,
+        "content_cleanup_final": 0.0283,
+        "media_svg": 0.8399,
+        "youtube": 0.011,
+        "content_assembly": 0.4644,
+        "monetization": 8.533,
+        "quality_write": 0.0394
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_captured_operational_51d457_captured_radar_ew_69edf0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.239,
+      "phases": {
+        "preparation": 0.0188,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1962,
+        "content_cleanup_final": 0.0262,
+        "media_svg": 0.3764,
+        "youtube": 0.019,
+        "content_assembly": 0.4922,
+        "monetization": 0.0709,
+        "quality_write": 0.0389
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_threat_inflation_1006bd_worst_case_threat_in_e7d943",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.0604,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1458,
+        "content_cleanup_final": 0.0286,
+        "media_svg": 0.8253,
+        "youtube": 0.0115,
+        "content_assembly": 0.4458,
+        "monetization": 1.5645,
+        "quality_write": 0.0383
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_battlefield_recovery_773544_eod_safe_recovery_9f7902",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7197,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.208,
+        "content_cleanup_final": 0.0284,
+        "media_svg": 0.817,
+        "youtube": 0.0185,
+        "content_assembly": 0.4816,
+        "monetization": 1.1275,
+        "quality_write": 0.0379
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_documents_vs_hardwar_2fd5db_lusty_paper_trail_05e7b2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3858,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.158,
+        "content_cleanup_final": 0.0215,
+        "media_svg": 0.8747,
+        "youtube": 0.0113,
+        "content_assembly": 0.4171,
+        "monetization": 0.867,
+        "quality_write": 0.0357
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_export_weapon_exploi_fa93bd_export_downgrades_e809b0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9678,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.1926,
+        "content_cleanup_final": 0.025,
+        "media_svg": 0.8446,
+        "youtube": 0.0126,
+        "content_assembly": 0.4247,
+        "monetization": 0.4309,
+        "quality_write": 0.0367
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_cold_war_technology_a9e4cf_mig25_foxbat_myths_64fe20",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.9119,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.1811,
+        "content_cleanup_final": 0.0251,
+        "media_svg": 0.8468,
+        "youtube": 0.0137,
+        "content_assembly": 0.4472,
+        "monetization": 3.3572,
+        "quality_write": 0.0399
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_ground_materiel_forc_2d8145_ukraine_trophylab_47d1e9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.218,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1544,
+        "content_cleanup_final": 0.026,
+        "media_svg": 0.8164,
+        "youtube": 0.0126,
+        "content_assembly": 0.4271,
+        "monetization": 0.7433,
+        "quality_write": 0.0378
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_hard_to_replicate_459412_materials_coatings_g_52ed74",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3266,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.1583,
+        "content_cleanup_final": 0.0309,
+        "media_svg": 0.7843,
+        "youtube": 0.0118,
+        "content_assembly": 0.4335,
+        "monetization": 0.8647,
+        "quality_write": 0.0423
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_hard_to_replicate_459412_tacit_weapon_knowhow_ce1f1e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.541,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1689,
+        "content_cleanup_final": 0.0254,
+        "media_svg": 0.8057,
+        "youtube": 0.0085,
+        "content_assembly": 0.417,
+        "monetization": 0.0798,
+        "quality_write": 0.0353
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_hard_to_replicate_459412_weapon_quality_contr_9efb28",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5412,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.2193,
+        "content_cleanup_final": 0.0294,
+        "media_svg": 0.8072,
+        "youtube": 0.0105,
+        "content_assembly": 0.4511,
+        "monetization": 0.9833,
+        "quality_write": 0.0395
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_hard_to_replicate_459412_weapon_supply_chains_133600",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5808,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 1.2074,
+        "content_cleanup_final": 0.0326,
+        "media_svg": 0.7742,
+        "youtube": 0.0112,
+        "content_assembly": 0.4394,
+        "monetization": 0.0755,
+        "quality_write": 0.0392
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_hard_to_replicate_459412_weapon_testing_regim_b98090",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7973,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1926,
+        "content_cleanup_final": 0.0275,
+        "media_svg": 0.8484,
+        "youtube": 0.0088,
+        "content_assembly": 0.4206,
+        "monetization": 1.2637,
+        "quality_write": 0.0352
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_maintenance_clues_c503ae_abandoned_vehicle_cl_8aa4c7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5699,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2191,
+        "content_cleanup_final": 0.022,
+        "media_svg": 0.7762,
+        "youtube": 0.0118,
+        "content_assembly": 0.439,
+        "monetization": 0.0672,
+        "quality_write": 0.0339
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_maintenance_clues_c503ae_german_tank_maintena_7dc9ec",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5783,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.1842,
+        "content_cleanup_final": 0.0173,
+        "media_svg": 0.8351,
+        "youtube": 0.0117,
+        "content_assembly": 0.4319,
+        "monetization": 0.0592,
+        "quality_write": 0.0381
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_maintenance_clues_c503ae_repeated_wear_patter_29e16a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6049,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.1959,
+        "content_cleanup_final": 0.0195,
+        "media_svg": 0.85,
+        "youtube": 0.0125,
+        "content_assembly": 0.4233,
+        "monetization": 0.0671,
+        "quality_write": 0.0357
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_captured_operational_51d457_field_exploitation_2cb474",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1445,
+      "phases": {
+        "preparation": 0.0178,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1849,
+        "content_cleanup_final": 0.0341,
+        "media_svg": 0.3621,
+        "youtube": 0.018,
+        "content_assembly": 0.4244,
+        "monetization": 0.0664,
+        "quality_write": 0.0363
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_legal_ethical_limits_260c32_capture_vs_looting_ae281d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6119,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.2252,
+        "content_cleanup_final": 0.0352,
+        "media_svg": 0.7611,
+        "youtube": 0.0112,
+        "content_assembly": 0.4683,
+        "monetization": 0.0667,
+        "quality_write": 0.0434
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_nasic_air_space_fme_e30511_rf_characterization_415c9d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6852,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0012,
+        "internal_links": 1.1995,
+        "content_cleanup_final": 0.0233,
+        "media_svg": 0.8589,
+        "youtube": 0.0108,
+        "content_assembly": 0.4068,
+        "monetization": 0.1494,
+        "quality_write": 0.0352
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_drone_debris_exploit_9e0929_orlan10_kill_chain_bb2d14",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.2174,
+      "phases": {
+        "preparation": 0.018,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.157,
+        "content_cleanup_final": 0.0255,
+        "media_svg": 0.3605,
+        "youtube": 0.0107,
+        "content_assembly": 0.4188,
+        "monetization": 5.19,
+        "quality_write": 0.0364
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_sidewinder_copying_l_82f35b_atoll_combat_feel_738618",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 9.8979,
+      "phases": {
+        "preparation": 0.0184,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 1.1441,
+        "content_cleanup_final": 0.0165,
+        "media_svg": 0.3688,
+        "youtube": 0.0118,
+        "content_assembly": 0.4066,
+        "monetization": 7.8817,
+        "quality_write": 0.0497
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_radar_exploitation_5839d7_emitter_mission_data_c72371",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2688,
+      "phases": {
+        "preparation": 0.0189,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2448,
+        "content_cleanup_final": 0.0315,
+        "media_svg": 0.4238,
+        "youtube": 0.0117,
+        "content_assembly": 0.4307,
+        "monetization": 0.0707,
+        "quality_write": 0.0363
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_radar_exploitation_5839d7_antenna_scan_pattern_99e512",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.3017,
+      "phases": {
+        "preparation": 0.0183,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.1538,
+        "content_cleanup_final": 0.0299,
+        "media_svg": 0.3545,
+        "youtube": 0.012,
+        "content_assembly": 0.4169,
+        "monetization": 2.2705,
+        "quality_write": 0.0453
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_radar_exploitation_5839d7_radar_mode_escalatio_597988",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0739,
+      "phases": {
+        "preparation": 0.0178,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1521,
+        "content_cleanup_final": 0.0206,
+        "media_svg": 0.3527,
+        "youtube": 0.0102,
+        "content_assembly": 0.4077,
+        "monetization": 0.0769,
+        "quality_write": 0.0356
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_sidewinder_copying_l_82f35b_copying_vs_mastery_fa59e0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.086,
+      "phases": {
+        "preparation": 0.0219,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.1493,
+        "content_cleanup_final": 0.0188,
+        "media_svg": 0.356,
+        "youtube": 0.0135,
+        "content_assembly": 0.4105,
+        "monetization": 0.0793,
+        "quality_write": 0.0359
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_radar_exploitation_5839d7_lab_vs_signal_interc_60689e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.6307,
+      "phases": {
+        "preparation": 0.0263,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3249,
+        "content_cleanup_final": 0.023,
+        "media_svg": 0.3548,
+        "youtube": 0.0125,
+        "content_assembly": 0.4291,
+        "monetization": 2.4219,
+        "quality_write": 0.0376
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_captured_operational_51d457_akutan_zero_tactics_43eb27",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.165,
+      "phases": {
+        "preparation": 0.0228,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2359,
+        "content_cleanup_final": 0.0193,
+        "media_svg": 0.3528,
+        "youtube": 0.0091,
+        "content_assembly": 0.4161,
+        "monetization": 0.0706,
+        "quality_write": 0.0379
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_cold_war_technology_a9e4cf_danish_mig15_diploma_217ead",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5788,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.1731,
+        "content_cleanup_final": 0.0206,
+        "media_svg": 0.8702,
+        "youtube": 0.0121,
+        "content_assembly": 0.4456,
+        "monetization": 0.0229,
+        "quality_write": 0.0337
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_tu4_aircraft_copying_21e574_tu4_drawing_burden_d60291",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.9566,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1904,
+        "content_cleanup_final": 0.0202,
+        "media_svg": 0.3706,
+        "youtube": 0.0084,
+        "content_assembly": 0.4119,
+        "monetization": 2.9004,
+        "quality_write": 0.0368
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_cold_war_technology_a9e4cf_hardware_as_evidence_80454c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8358,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.2793,
+        "content_cleanup_final": 0.0299,
+        "media_svg": 0.9409,
+        "youtube": 0.013,
+        "content_assembly": 0.4669,
+        "monetization": 0.0665,
+        "quality_write": 0.0383
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_cold_war_technology_a9e4cf_mig15_korea_recovery_fe1091",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8021,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2973,
+        "content_cleanup_final": 0.0204,
+        "media_svg": 0.8486,
+        "youtube": 0.011,
+        "content_assembly": 0.5414,
+        "monetization": 0.0315,
+        "quality_write": 0.0514
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_cold_war_technology_a9e4cf_proxy_war_hardware_s_fbe6d6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4699,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.4409,
+        "content_cleanup_final": 0.0267,
+        "media_svg": 0.4387,
+        "youtube": 0.0119,
+        "content_assembly": 0.4199,
+        "monetization": 0.0824,
+        "quality_write": 0.0488
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_cold_war_technology_a9e4cf_sa2_countermeasure_c_f585c0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7659,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.3761,
+        "content_cleanup_final": 0.026,
+        "media_svg": 0.8198,
+        "youtube": 0.0143,
+        "content_assembly": 0.4151,
+        "monetization": 0.0726,
+        "quality_write": 0.0412
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_drone_debris_exploit_9e0929_red_sea_uav_tracing_8613d4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.164,
+      "phases": {
+        "preparation": 0.0221,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2316,
+        "content_cleanup_final": 0.0272,
+        "media_svg": 0.3439,
+        "youtube": 0.0132,
+        "content_assembly": 0.4312,
+        "monetization": 0.0581,
+        "quality_write": 0.0362
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_documents_vs_hardwar_2fd5db_manuals_battlefield_8ba295",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9909,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.2592,
+        "content_cleanup_final": 0.0368,
+        "media_svg": 0.7604,
+        "youtube": 0.0099,
+        "content_assembly": 0.4237,
+        "monetization": 0.4663,
+        "quality_write": 0.0335
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_industrial_learning_1fb526_captured_material_le_6d9bb5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.168,
+      "phases": {
+        "preparation": 0.0186,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1632,
+        "content_cleanup_final": 0.0182,
+        "media_svg": 0.355,
+        "youtube": 0.0162,
+        "content_assembly": 0.4135,
+        "monetization": 0.1478,
+        "quality_write": 0.0352
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_component_tracing_sa_863d31_post_invasion_chips_2aca7a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 10.4485,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 1.2872,
+        "content_cleanup_final": 0.0272,
+        "media_svg": 0.8286,
+        "youtube": 0.0135,
+        "content_assembly": 0.4844,
+        "monetization": 7.736,
+        "quality_write": 0.0704
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_export_weapon_exploi_fa93bd_sipri_transfer_data_b1db26",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.1024,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1828,
+        "content_cleanup_final": 0.026,
+        "media_svg": 0.4232,
+        "youtube": 0.0124,
+        "content_assembly": 0.4353,
+        "monetization": 4.9835,
+        "quality_write": 0.0386
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_industrial_learning_1fb526_copying_industrial_l_903dc4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.5251,
+      "phases": {
+        "preparation": 0.0217,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.1655,
+        "content_cleanup_final": 0.0283,
+        "media_svg": 0.3425,
+        "youtube": 0.0081,
+        "content_assembly": 0.4017,
+        "monetization": 3.5112,
+        "quality_write": 0.0454
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_industrial_learning_1fb526_jerrycan_logistics_d_979a6b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1216,
+      "phases": {
+        "preparation": 0.0489,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.1592,
+        "content_cleanup_final": 0.0198,
+        "media_svg": 0.3762,
+        "youtube": 0.0108,
+        "content_assembly": 0.4099,
+        "monetization": 0.059,
+        "quality_write": 0.0369
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_industrial_learning_1fb526_missile_debris_stres_500d61",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1261,
+      "phases": {
+        "preparation": 0.0187,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1808,
+        "content_cleanup_final": 0.026,
+        "media_svg": 0.3459,
+        "youtube": 0.0087,
+        "content_assembly": 0.4262,
+        "monetization": 0.0739,
+        "quality_write": 0.0453
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_industrial_learning_1fb526_sidewinder_factory_l_ca7a38",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9547,
+      "phases": {
+        "preparation": 0.0301,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.1536,
+        "content_cleanup_final": 0.0224,
+        "media_svg": 0.3638,
+        "youtube": 0.0103,
+        "content_assembly": 0.411,
+        "monetization": 0.9278,
+        "quality_write": 0.0352
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_industrial_learning_1fb526_t34_factory_tradeoff_566e8c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.1332,
+      "phases": {
+        "preparation": 0.0175,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1523,
+        "content_cleanup_final": 0.0147,
+        "media_svg": 0.3508,
+        "youtube": 0.012,
+        "content_assembly": 0.4088,
+        "monetization": 4.1261,
+        "quality_write": 0.0504
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_missile_drone_supply_d38175_high_priority_parts_ce8c84",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7488,
+      "phases": {
+        "preparation": 0.0183,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1391,
+        "content_cleanup_final": 0.0264,
+        "media_svg": 0.3422,
+        "youtube": 0.0113,
+        "content_assembly": 0.4265,
+        "monetization": 1.7338,
+        "quality_write": 0.0506
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_missile_drone_supply_d38175_component_databases_1faf9e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.7579,
+      "phases": {
+        "preparation": 0.0178,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1643,
+        "content_cleanup_final": 0.024,
+        "media_svg": 0.3456,
+        "youtube": 0.0081,
+        "content_assembly": 0.4037,
+        "monetization": 4.7491,
+        "quality_write": 0.0449
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_nasic_air_space_fme_e30511_fme_squadron_workfor_85a4ba",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6085,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.155,
+        "content_cleanup_final": 0.0218,
+        "media_svg": 0.8588,
+        "youtube": 0.0177,
+        "content_assembly": 0.4574,
+        "monetization": 0.0604,
+        "quality_write": 0.0369
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_nasic_air_space_fme_e30511_real_hardware_measur_7ef166",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1825,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.323,
+        "content_cleanup_final": 0.0308,
+        "media_svg": 0.8117,
+        "youtube": 0.0112,
+        "content_assembly": 0.4073,
+        "monetization": 0.5477,
+        "quality_write": 0.0502
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_nasic_air_space_fme_e30511_embedded_electronics_52bbae",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.8398,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.1553,
+        "content_cleanup_final": 0.032,
+        "media_svg": 0.8683,
+        "youtube": 0.0149,
+        "content_assembly": 0.4614,
+        "monetization": 3.2542,
+        "quality_write": 0.0529
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_nasic_air_space_fme_e30511_hidden_captured_cata_f4a5dc",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.438,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2351,
+        "content_cleanup_final": 0.0279,
+        "media_svg": 0.7844,
+        "youtube": 0.0127,
+        "content_assembly": 0.5254,
+        "monetization": 1.7941,
+        "quality_write": 0.0576
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_project_paperclip_ex_2ce434_paperclip_engineers_d9c9ff",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.344,
+      "phases": {
+        "preparation": 0.0202,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2022,
+        "content_cleanup_final": 0.0195,
+        "media_svg": 0.4254,
+        "youtube": 0.0149,
+        "content_assembly": 0.5607,
+        "monetization": 0.0637,
+        "quality_write": 0.037
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_nasic_air_space_fme_e30511_watson_hall_expansio_fe46a4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7875,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1953,
+        "content_cleanup_final": 0.0235,
+        "media_svg": 0.9131,
+        "youtube": 0.0168,
+        "content_assembly": 0.4372,
+        "monetization": 1.1652,
+        "quality_write": 0.0358
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_sidewinder_copying_l_82f35b_sidewinder_k13_copy_62206c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 9.1281,
+      "phases": {
+        "preparation": 0.0219,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1593,
+        "content_cleanup_final": 0.0225,
+        "media_svg": 0.4398,
+        "youtube": 0.0109,
+        "content_assembly": 0.5397,
+        "monetization": 6.9001,
+        "quality_write": 0.0334
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_threat_replicas_simu_04f4b5_mobile_range_threat_bc7b9a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.2964,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.1958,
+        "content_cleanup_final": 0.0285,
+        "media_svg": 0.7957,
+        "youtube": 0.0127,
+        "content_assembly": 0.4599,
+        "monetization": 4.7618,
+        "quality_write": 0.041
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_weapon_fragment_meta_e03bb2_manufacturing_flaws_cb9456",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.6465,
+      "phases": {
+        "preparation": 0.0177,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.165,
+        "content_cleanup_final": 0.0206,
+        "media_svg": 0.3534,
+        "youtube": 0.0119,
+        "content_assembly": 0.3956,
+        "monetization": 5.6442,
+        "quality_write": 0.0376
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_battlefield_recovery_773544_battlefield_photolog_a562f4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4834,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1539,
+        "content_cleanup_final": 0.0274,
+        "media_svg": 0.7763,
+        "youtube": 0.0086,
+        "content_assembly": 0.4361,
+        "monetization": 1.0444,
+        "quality_write": 0.0361
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_battlefield_recovery_773544_field_disassembly_li_e6f8b6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5023,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1663,
+        "content_cleanup_final": 0.028,
+        "media_svg": 0.7791,
+        "youtube": 0.0106,
+        "content_assembly": 0.4164,
+        "monetization": 0.0584,
+        "quality_write": 0.0429
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_battlefield_recovery_773544_capture_tags_intelli_1247cf",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.7833,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1719,
+        "content_cleanup_final": 0.0314,
+        "media_svg": 0.814,
+        "youtube": 0.0119,
+        "content_assembly": 0.4101,
+        "monetization": 3.3056,
+        "quality_write": 0.0379
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_battlefield_recovery_773544_souvenir_stripping_r_eeb33b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3534,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.1541,
+        "content_cleanup_final": 0.0255,
+        "media_svg": 0.8026,
+        "youtube": 0.013,
+        "content_assembly": 0.4274,
+        "monetization": 0.8935,
+        "quality_write": 0.0366
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_battlefield_recovery_773544_vietnam_cmec_collect_0255bd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3529,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1463,
+        "content_cleanup_final": 0.0216,
+        "media_svg": 0.8061,
+        "youtube": 0.0107,
+        "content_assembly": 0.4504,
+        "monetization": 0.8778,
+        "quality_write": 0.0393
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_captured_operational_51d457_constant_peg_mig_tra_6c2157",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1701,
+      "phases": {
+        "preparation": 0.0192,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1931,
+        "content_cleanup_final": 0.0247,
+        "media_svg": 0.393,
+        "youtube": 0.0113,
+        "content_assembly": 0.4486,
+        "monetization": 0.04,
+        "quality_write": 0.0398
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_captured_operational_51d457_captured_drone_compo_6752c3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4799,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1935,
+        "content_cleanup_final": 0.027,
+        "media_svg": 0.3523,
+        "youtube": 0.0113,
+        "content_assembly": 0.4619,
+        "monetization": 1.3749,
+        "quality_write": 0.0415
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_captured_operational_51d457_missile_seeker_count_709f8f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1736,
+      "phases": {
+        "preparation": 0.0303,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.2084,
+        "content_cleanup_final": 0.0262,
+        "media_svg": 0.3704,
+        "youtube": 0.0161,
+        "content_assembly": 0.4115,
+        "monetization": 0.0708,
+        "quality_write": 0.0391
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_captured_threat_trai_2a76bd_foreign_materiel_dat_40394e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0501,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1302,
+        "content_cleanup_final": 0.0161,
+        "media_svg": 0.3496,
+        "youtube": 0.011,
+        "content_assembly": 0.4348,
+        "monetization": 0.0588,
+        "quality_write": 0.0321
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_captured_threat_trai_2a76bd_fort_irwin_fake_sovi_0add76",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0971,
+      "phases": {
+        "preparation": 0.0188,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1862,
+        "content_cleanup_final": 0.0198,
+        "media_svg": 0.3446,
+        "youtube": 0.0109,
+        "content_assembly": 0.4167,
+        "monetization": 0.0586,
+        "quality_write": 0.0412
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_captured_threat_trai_2a76bd_modern_threat_ranges_151830",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1924,
+      "phases": {
+        "preparation": 0.0213,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2157,
+        "content_cleanup_final": 0.0232,
+        "media_svg": 0.3588,
+        "youtube": 0.0119,
+        "content_assembly": 0.4548,
+        "monetization": 0.0676,
+        "quality_write": 0.0386
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_captured_threat_trai_2a76bd_opfor_doctrine_equip_d70e4c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1339,
+      "phases": {
+        "preparation": 0.0216,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1887,
+        "content_cleanup_final": 0.0235,
+        "media_svg": 0.3568,
+        "youtube": 0.0122,
+        "content_assembly": 0.4237,
+        "monetization": 0.0684,
+        "quality_write": 0.0386
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_captured_threat_trai_2a76bd_real_gear_crew_insti_14f1e9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2856,
+      "phases": {
+        "preparation": 0.0194,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1989,
+        "content_cleanup_final": 0.0262,
+        "media_svg": 0.3845,
+        "youtube": 0.0192,
+        "content_assembly": 0.4417,
+        "monetization": 0.1594,
+        "quality_write": 0.0359
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_component_tracing_sa_863d31_common_dual_use_chip_f5c622",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5734,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.1832,
+        "content_cleanup_final": 0.0295,
+        "media_svg": 0.8154,
+        "youtube": 0.0127,
+        "content_assembly": 0.4193,
+        "monetization": 0.0712,
+        "quality_write": 0.0413
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_captured_threat_trai_2a76bd_replicas_vs_original_522258",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9152,
+      "phases": {
+        "preparation": 0.0177,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.159,
+        "content_cleanup_final": 0.0195,
+        "media_svg": 0.3557,
+        "youtube": 0.0168,
+        "content_assembly": 0.415,
+        "monetization": 1.8949,
+        "quality_write": 0.0363
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_component_tracing_sa_863d31_manufacturer_respons_9d8c3a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0185,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.195,
+        "content_cleanup_final": 0.0308,
+        "media_svg": 0.8237,
+        "youtube": 0.0139,
+        "content_assembly": 0.4456,
+        "monetization": 0.4617,
+        "quality_write": 0.0468
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_component_tracing_sa_863d31_serial_number_tracin_dcf097",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5957,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.199,
+        "content_cleanup_final": 0.0247,
+        "media_svg": 0.8106,
+        "youtube": 0.0141,
+        "content_assembly": 0.4382,
+        "monetization": 0.067,
+        "quality_write": 0.041
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_component_tracing_sa_863d31_third_country_reexpo_5321c2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7514,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2496,
+        "content_cleanup_final": 0.0401,
+        "media_svg": 0.8727,
+        "youtube": 0.0141,
+        "content_assembly": 0.4817,
+        "monetization": 0.0499,
+        "quality_write": 0.0427
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_component_tracing_sa_863d31_ukraine_component_da_28632e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7858,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2715,
+        "content_cleanup_final": 0.0357,
+        "media_svg": 0.8612,
+        "youtube": 0.0129,
+        "content_assembly": 0.4897,
+        "monetization": 0.0695,
+        "quality_write": 0.0447
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_countermeasures_from_9e5542_alq144_upkeep_lesson_b1012c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3009,
+      "phases": {
+        "preparation": 0.0176,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1796,
+        "content_cleanup_final": 0.0209,
+        "media_svg": 0.3629,
+        "youtube": 0.012,
+        "content_assembly": 0.581,
+        "monetization": 0.085,
+        "quality_write": 0.0415
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_countermeasures_from_9e5542_decoys_sensor_accept_dbf905",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4323,
+      "phases": {
+        "preparation": 0.0201,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.4189,
+        "content_cleanup_final": 0.0234,
+        "media_svg": 0.4432,
+        "youtube": 0.0126,
+        "content_assembly": 0.4158,
+        "monetization": 0.0617,
+        "quality_write": 0.0362
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_countermeasures_from_9e5542_measured_emissions_j_6bd087",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5912,
+      "phases": {
+        "preparation": 0.0449,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.4359,
+        "content_cleanup_final": 0.0249,
+        "media_svg": 0.3696,
+        "youtube": 0.0137,
+        "content_assembly": 0.5472,
+        "monetization": 0.1139,
+        "quality_write": 0.0401
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_countermeasures_from_9e5542_palladium_phantom_ta_bf2098",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3551,
+      "phases": {
+        "preparation": 0.0331,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.2461,
+        "content_cleanup_final": 0.0307,
+        "media_svg": 0.4208,
+        "youtube": 0.0128,
+        "content_assembly": 0.5094,
+        "monetization": 0.0665,
+        "quality_write": 0.0348
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_countermeasures_from_9e5542_rapid_force_protecti_c08f19",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4383,
+      "phases": {
+        "preparation": 0.0218,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.3952,
+        "content_cleanup_final": 0.0339,
+        "media_svg": 0.4127,
+        "youtube": 0.0122,
+        "content_assembly": 0.4649,
+        "monetization": 0.0576,
+        "quality_write": 0.0393
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_countermeasures_from_9e5542_validated_threat_sim_e633fb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3245,
+      "phases": {
+        "preparation": 0.0254,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.3414,
+        "content_cleanup_final": 0.0258,
+        "media_svg": 0.3652,
+        "youtube": 0.0125,
+        "content_assembly": 0.4748,
+        "monetization": 0.0407,
+        "quality_write": 0.0377
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_documents_vs_hardwar_2fd5db_field_mods_contradic_06249f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.657,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.2444,
+        "content_cleanup_final": 0.0266,
+        "media_svg": 0.8678,
+        "youtube": 0.0107,
+        "content_assembly": 0.4134,
+        "monetization": 0.0588,
+        "quality_write": 0.0345
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_documents_vs_hardwar_2fd5db_captured_manuals_sho_a551f2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.4943,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.3134,
+        "content_cleanup_final": 0.031,
+        "media_svg": 0.8193,
+        "youtube": 0.0102,
+        "content_assembly": 0.4214,
+        "monetization": 3.8622,
+        "quality_write": 0.0361
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_documents_vs_hardwar_2fd5db_mig_test_flights_tac_9a7126",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.7496,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2107,
+        "content_cleanup_final": 0.0256,
+        "media_svg": 0.815,
+        "youtube": 0.0107,
+        "content_assembly": 0.4235,
+        "monetization": 2.2051,
+        "quality_write": 0.0583
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_documents_vs_hardwar_2fd5db_missile_debris_procu_6606fb",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9215,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1496,
+        "content_cleanup_final": 0.0246,
+        "media_svg": 0.7821,
+        "youtube": 0.0121,
+        "content_assembly": 0.4154,
+        "monetization": 1.4978,
+        "quality_write": 0.0394
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_drone_debris_exploit_9e0929_foreign_chips_sancti_51f65e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2332,
+      "phases": {
+        "preparation": 0.0211,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2511,
+        "content_cleanup_final": 0.0312,
+        "media_svg": 0.3564,
+        "youtube": 0.0133,
+        "content_assembly": 0.4523,
+        "monetization": 0.0657,
+        "quality_write": 0.0418
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_drone_debris_exploit_9e0929_serial_wrecks_redesi_d105d7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2475,
+      "phases": {
+        "preparation": 0.0214,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2546,
+        "content_cleanup_final": 0.0275,
+        "media_svg": 0.3602,
+        "youtube": 0.0123,
+        "content_assembly": 0.4542,
+        "monetization": 0.0714,
+        "quality_write": 0.0453
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_drone_debris_exploit_9e0929_war_sanctions_compon_0a6363",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1219,
+      "phases": {
+        "preparation": 0.0217,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2228,
+        "content_cleanup_final": 0.0273,
+        "media_svg": 0.328,
+        "youtube": 0.0109,
+        "content_assembly": 0.4153,
+        "monetization": 0.0599,
+        "quality_write": 0.0354
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_export_weapon_exploi_fa93bd_buyer_use_performanc_f39c25",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5567,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.1991,
+        "content_cleanup_final": 0.0197,
+        "media_svg": 0.8088,
+        "youtube": 0.0084,
+        "content_assembly": 0.4223,
+        "monetization": 0.0629,
+        "quality_write": 0.0347
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_export_weapon_exploi_fa93bd_manuals_training_exp_c6bda9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6826,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.2069,
+        "content_cleanup_final": 0.0377,
+        "media_svg": 0.812,
+        "youtube": 0.0147,
+        "content_assembly": 0.4656,
+        "monetization": 0.1039,
+        "quality_write": 0.0406
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_export_weapon_exploi_fa93bd_spare_parts_exposure_1d96ad",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6584,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.1597,
+        "content_cleanup_final": 0.0258,
+        "media_svg": 0.8713,
+        "youtube": 0.0135,
+        "content_assembly": 0.4929,
+        "monetization": 0.0613,
+        "quality_write": 0.0332
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_ground_materiel_forc_2d8145_captured_ied_warning_eb98d8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0318,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 1.2812,
+        "content_cleanup_final": 0.0285,
+        "media_svg": 0.8255,
+        "youtube": 0.0132,
+        "content_assembly": 0.4426,
+        "monetization": 0.3956,
+        "quality_write": 0.0442
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_ground_materiel_forc_2d8145_damaged_armour_survi_2173e7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5688,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.2018,
+        "content_cleanup_final": 0.033,
+        "media_svg": 0.8095,
+        "youtube": 0.0114,
+        "content_assembly": 0.4146,
+        "monetization": 0.058,
+        "quality_write": 0.0394
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_ground_materiel_forc_2d8145_field_speed_depth_tr_d26734",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6051,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.215,
+        "content_cleanup_final": 0.0351,
+        "media_svg": 0.7991,
+        "youtube": 0.0133,
+        "content_assembly": 0.4447,
+        "monetization": 0.0586,
+        "quality_write": 0.0387
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_ground_materiel_forc_2d8145_real_threat_materiel_bf96d8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6555,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1952,
+        "content_cleanup_final": 0.0226,
+        "media_svg": 0.8503,
+        "youtube": 0.011,
+        "content_assembly": 0.4111,
+        "monetization": 0.1294,
+        "quality_write": 0.0352
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_drone_debris_exploit_9e0929_shahed_navigation_sh_f9abed",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 12.6171,
+      "phases": {
+        "preparation": 0.0286,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1979,
+        "content_cleanup_final": 0.0227,
+        "media_svg": 0.364,
+        "youtube": 0.0103,
+        "content_assembly": 0.4174,
+        "monetization": 10.5418,
+        "quality_write": 0.034
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_ground_materiel_forc_2d8145_uk_russian_armour_st_c2e264",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5092,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.166,
+        "content_cleanup_final": 0.0248,
+        "media_svg": 0.7796,
+        "youtube": 0.012,
+        "content_assembly": 0.4227,
+        "monetization": 0.0644,
+        "quality_write": 0.0391
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_legal_ethical_limits_260c32_captured_weapons_cus_f1ee3f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3694,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.1961,
+        "content_cleanup_final": 0.0328,
+        "media_svg": 0.8277,
+        "youtube": 0.0119,
+        "content_assembly": 0.4253,
+        "monetization": 0.8338,
+        "quality_write": 0.0409
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_legal_ethical_limits_260c32_defectors_with_aircr_cb19ac",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5933,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.2047,
+        "content_cleanup_final": 0.0219,
+        "media_svg": 0.8076,
+        "youtube": 0.0144,
+        "content_assembly": 0.4346,
+        "monetization": 0.0748,
+        "quality_write": 0.0344
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_legal_ethical_limits_260c32_paperclip_accountabi_fe08e5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5589,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.1591,
+        "content_cleanup_final": 0.0223,
+        "media_svg": 0.8534,
+        "youtube": 0.0106,
+        "content_assembly": 0.4067,
+        "monetization": 0.0662,
+        "quality_write": 0.0398
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_legal_ethical_limits_260c32_ukraine_component_ev_2e54e8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7473,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.2049,
+        "content_cleanup_final": 0.0315,
+        "media_svg": 0.8833,
+        "youtube": 0.0129,
+        "content_assembly": 0.5036,
+        "monetization": 0.0676,
+        "quality_write": 0.0428
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_legal_ethical_limits_260c32_pow_technical_interr_b963c5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8095,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.2672,
+        "content_cleanup_final": 0.0317,
+        "media_svg": 0.8743,
+        "youtube": 0.0156,
+        "content_assembly": 0.5137,
+        "monetization": 0.0646,
+        "quality_write": 0.0412
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_missile_drone_supply_d38175_debris_procurement_r_6e4486",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2674,
+      "phases": {
+        "preparation": 0.0178,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.3044,
+        "content_cleanup_final": 0.0247,
+        "media_svg": 0.3412,
+        "youtube": 0.0165,
+        "content_assembly": 0.4592,
+        "monetization": 0.0658,
+        "quality_write": 0.0373
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_missile_drone_supply_d38175_ordinary_electronics_93bcde",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1811,
+      "phases": {
+        "preparation": 0.0181,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2034,
+        "content_cleanup_final": 0.0234,
+        "media_svg": 0.3547,
+        "youtube": 0.0125,
+        "content_assembly": 0.4587,
+        "monetization": 0.0713,
+        "quality_write": 0.0386
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_missile_drone_supply_d38175_kh69_domestic_substi_c4206b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3013,
+      "phases": {
+        "preparation": 0.0197,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1832,
+        "content_cleanup_final": 0.041,
+        "media_svg": 0.3521,
+        "youtube": 0.0119,
+        "content_assembly": 0.4581,
+        "monetization": 0.1823,
+        "quality_write": 0.0524
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_missile_drone_supply_d38175_shahed_fast_supply_c_849b67",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4063,
+      "phases": {
+        "preparation": 0.0181,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2456,
+        "content_cleanup_final": 0.0223,
+        "media_svg": 0.3702,
+        "youtube": 0.0105,
+        "content_assembly": 0.5333,
+        "monetization": 0.1124,
+        "quality_write": 0.0935
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_project_paperclip_ex_2ce434_captured_documents_t_098666",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9154,
+      "phases": {
+        "preparation": 0.0251,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7033,
+        "content_cleanup_final": 0.0397,
+        "media_svg": 0.4263,
+        "youtube": 0.0126,
+        "content_assembly": 0.5277,
+        "monetization": 0.1455,
+        "quality_write": 0.0348
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_project_paperclip_ex_2ce434_fort_bliss_v2_revers_b917e1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2418,
+      "phases": {
+        "preparation": 0.0178,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7049,
+        "content_cleanup_final": 0.0532,
+        "media_svg": 0.3956,
+        "youtube": 0.0136,
+        "content_assembly": 0.5468,
+        "monetization": 0.471,
+        "quality_write": 0.0384
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_project_paperclip_ex_2ce434_jioa_paperclip_gover_d23a11",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4228,
+      "phases": {
+        "preparation": 0.0437,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.6071,
+        "content_cleanup_final": 0.0235,
+        "media_svg": 0.3628,
+        "youtube": 0.0104,
+        "content_assembly": 0.4134,
+        "monetization": 0.923,
+        "quality_write": 0.0382
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_project_paperclip_ex_2ce434_wright_field_aviatio_e3e713",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1095,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1939,
+        "content_cleanup_final": 0.0208,
+        "media_svg": 0.344,
+        "youtube": 0.008,
+        "content_assembly": 0.4249,
+        "monetization": 0.0619,
+        "quality_write": 0.0383
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_sidewinder_copying_l_82f35b_sidewinder_fuze_less_818928",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2137,
+      "phases": {
+        "preparation": 0.02,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1639,
+        "content_cleanup_final": 0.0243,
+        "media_svg": 0.355,
+        "youtube": 0.0109,
+        "content_assembly": 0.4904,
+        "monetization": 0.1117,
+        "quality_write": 0.037
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_sidewinder_copying_l_82f35b_sidewinder_seeker_li_c6c986",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1701,
+      "phases": {
+        "preparation": 0.0247,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.2226,
+        "content_cleanup_final": 0.0182,
+        "media_svg": 0.3514,
+        "youtube": 0.0095,
+        "content_assembly": 0.4234,
+        "monetization": 0.081,
+        "quality_write": 0.0384
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_technology_defection_c0645b_belenko_notebook_doc_8bb338",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8433,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1662,
+        "content_cleanup_final": 0.0155,
+        "media_svg": 0.8288,
+        "youtube": 0.0116,
+        "content_assembly": 0.4261,
+        "monetization": 0.362,
+        "quality_write": 0.0326
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_technology_defection_c0645b_belenko_mig25_surpri_7febe1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9527,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2846,
+        "content_cleanup_final": 0.0281,
+        "media_svg": 0.8201,
+        "youtube": 0.0128,
+        "content_assembly": 0.4657,
+        "monetization": 1.3036,
+        "quality_write": 0.0372
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_technology_defection_c0645b_defection_rewards_as_e1fe8c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5712,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.182,
+        "content_cleanup_final": 0.0189,
+        "media_svg": 0.8481,
+        "youtube": 0.0124,
+        "content_assembly": 0.4184,
+        "monetization": 0.0593,
+        "quality_write": 0.0316
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_technology_defection_c0645b_mig15_postwar_testin_2dc574",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.497,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1556,
+        "content_cleanup_final": 0.0233,
+        "media_svg": 0.8245,
+        "youtube": 0.0142,
+        "content_assembly": 0.4169,
+        "monetization": 0.0254,
+        "quality_write": 0.0365
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_technology_defection_c0645b_pilot_knowledge_vs_w_b75c75",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9171,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.1982,
+        "content_cleanup_final": 0.019,
+        "media_svg": 0.7869,
+        "youtube": 0.0103,
+        "content_assembly": 0.4514,
+        "monetization": 0.4152,
+        "quality_write": 0.0353
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_technology_defection_c0645b_radfa_mig21_exploita_23dcfa",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5605,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1906,
+        "content_cleanup_final": 0.0259,
+        "media_svg": 0.8466,
+        "youtube": 0.0116,
+        "content_assembly": 0.4231,
+        "monetization": 0.0274,
+        "quality_write": 0.0347
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_threat_replicas_simu_04f4b5_replica_realism_cost_7e5b20",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5894,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.2462,
+        "content_cleanup_final": 0.0252,
+        "media_svg": 0.7799,
+        "youtube": 0.0142,
+        "content_assembly": 0.418,
+        "monetization": 0.0669,
+        "quality_write": 0.0383
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_threat_replicas_simu_04f4b5_sensor_targets_machi_efdf80",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6222,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2522,
+        "content_cleanup_final": 0.0315,
+        "media_svg": 0.8164,
+        "youtube": 0.0112,
+        "content_assembly": 0.4081,
+        "monetization": 0.0624,
+        "quality_write": 0.0398
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_threat_replicas_simu_04f4b5_threat_libraries_rep_68d4d3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1243,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.152,
+        "content_cleanup_final": 0.0214,
+        "media_svg": 0.4241,
+        "youtube": 0.012,
+        "content_assembly": 0.4125,
+        "monetization": 0.0643,
+        "quality_write": 0.0372
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_threat_replicas_simu_04f4b5_surrogate_armored_ve_b0764e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.526,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.1439,
+        "content_cleanup_final": 0.024,
+        "media_svg": 0.833,
+        "youtube": 0.0128,
+        "content_assembly": 0.4176,
+        "monetization": 0.0611,
+        "quality_write": 0.0328
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_threat_replicas_simu_04f4b5_radar_emitters_pilot_fbd917",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 7.3148,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.1827,
+        "content_cleanup_final": 0.025,
+        "media_svg": 0.8453,
+        "youtube": 0.0123,
+        "content_assembly": 0.4388,
+        "monetization": 4.76,
+        "quality_write": 0.0499
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_tu4_aircraft_copying_21e574_tu4_copy_vs_redesign_2ecc01",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0681,
+      "phases": {
+        "preparation": 0.021,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.123,
+        "content_cleanup_final": 0.0217,
+        "media_svg": 0.3834,
+        "youtube": 0.0139,
+        "content_assembly": 0.4126,
+        "monetization": 0.0596,
+        "quality_write": 0.0323
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_tu4_aircraft_copying_21e574_tu4_metric_standards_03e564",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5038,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.1678,
+        "content_cleanup_final": 0.0168,
+        "media_svg": 0.36,
+        "youtube": 0.0147,
+        "content_assembly": 0.4118,
+        "monetization": 1.4771,
+        "quality_write": 0.0383
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_tu4_aircraft_copying_21e574_tu4_soviet_substitut_c5f506",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7688,
+      "phases": {
+        "preparation": 0.0185,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.189,
+        "content_cleanup_final": 0.0201,
+        "media_svg": 0.3402,
+        "youtube": 0.0168,
+        "content_assembly": 0.4139,
+        "monetization": 0.7317,
+        "quality_write": 0.038
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_weapon_fragment_meta_e03bb2_alloy_design_priorit_089505",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1786,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1659,
+        "content_cleanup_final": 0.0273,
+        "media_svg": 0.3501,
+        "youtube": 0.0138,
+        "content_assembly": 0.4842,
+        "monetization": 0.0757,
+        "quality_write": 0.0437
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_weapon_fragment_meta_e03bb2_blast_deformation_cl_bb569c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2115,
+      "phases": {
+        "preparation": 0.0208,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.2467,
+        "content_cleanup_final": 0.0259,
+        "media_svg": 0.3642,
+        "youtube": 0.008,
+        "content_assembly": 0.4297,
+        "monetization": 0.0795,
+        "quality_write": 0.0363
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_weapon_fragment_meta_e03bb2_heat_treatment_fragm_f3eb1e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1747,
+      "phases": {
+        "preparation": 0.0214,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.2191,
+        "content_cleanup_final": 0.0276,
+        "media_svg": 0.3499,
+        "youtube": 0.0118,
+        "content_assembly": 0.4386,
+        "monetization": 0.0701,
+        "quality_write": 0.0358
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_weapon_fragment_meta_e03bb2_fracture_surface_clu_098df7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.5512,
+      "phases": {
+        "preparation": 0.0236,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 1.217,
+        "content_cleanup_final": 0.0289,
+        "media_svg": 0.3564,
+        "youtube": 0.0128,
+        "content_assembly": 0.428,
+        "monetization": 2.4438,
+        "quality_write": 0.0398
+      }
+    },
+    {
+      "base_name": "reverse_engineering_97b438_weapon_fragment_meta_e03bb2_trustworthy_fragment_076e2b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7093,
+      "phases": {
+        "preparation": 0.0188,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.1806,
+        "content_cleanup_final": 0.0299,
+        "media_svg": 0.3511,
+        "youtube": 0.0124,
+        "content_assembly": 0.4164,
+        "monetization": 1.6609,
+        "quality_write": 0.0387
+      }
+    }
+  ],
+  "parallel": {
+    "enabled": true,
+    "mode": "process",
+    "worker_count": 3,
+    "workers_raw": "auto",
+    "max_workers": 3,
+    "progress_interval_seconds": 60.0,
+    "queued_rebuild_pages": 211,
+    "reused_pages": 0,
+    "rebuilt_pages": 211,
+    "error_pages": 0,
+    "page_work_wall_seconds": 335.0087,
+    "rebuilt_pages_per_minute": 37.7901,
+    "queued_rebuild_pages_per_minute": 37.7901,
+    "apparent_page_work_speedup": 2.9068,
+    "process_worker_diagnostics": {
+      "completed_pages": 211,
+      "successful_pages": 211,
+      "failed_pages": 0,
+      "worker_summary": {
+        "29352": {
+          "pages": 71,
+          "successes": 71,
+          "failures": 0,
+          "total_worker_seconds": 325.1869,
+          "max_worker_seconds": 94.5768,
+          "last_base_name": "reverse_engineering_97b438_weapon_fragment_meta_e03bb2_fracture_surface_clu_098df7"
+        },
+        "16472": {
+          "pages": 68,
+          "successes": 68,
+          "failures": 0,
+          "total_worker_seconds": 328.3837,
+          "max_worker_seconds": 99.9977,
+          "last_base_name": "reverse_engineering_97b438_weapon_fragment_meta_e03bb2_heat_treatment_fragm_f3eb1e"
+        },
+        "26564": {
+          "pages": 72,
+          "successes": 72,
+          "failures": 0,
+          "total_worker_seconds": 328.9834,
+          "max_worker_seconds": 97.4903,
+          "last_base_name": "reverse_engineering_97b438_weapon_fragment_meta_e03bb2_trustworthy_fragment_076e2b"
+        }
+      },
+      "slowest_worker_pages": [
+        {
+          "base_name": "reverse_engineering_97b438",
+          "level": 1,
+          "success": true,
+          "worker_pid": 16472,
+          "worker_duration_seconds": 99.9977,
+          "total_seconds": 99.9446,
+          "worker_started_at_utc": "2026-07-04T06:20:09.444886Z",
+          "worker_finished_at_utc": "2026-07-04T06:21:49.389559Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "reverse_engineering_97b438_exploit_vs_copy_c8e898",
+          "level": 2,
+          "success": true,
+          "worker_pid": 26564,
+          "worker_duration_seconds": 97.4903,
+          "total_seconds": 97.4486,
+          "worker_started_at_utc": "2026-07-04T06:20:12.045429Z",
+          "worker_finished_at_utc": "2026-07-04T06:21:49.494137Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "reverse_engineering_97b438_mig25_defection_bab7c4",
+          "level": 2,
+          "success": true,
+          "worker_pid": 29352,
+          "worker_duration_seconds": 94.5768,
+          "total_seconds": 94.5252,
+          "worker_started_at_utc": "2026-07-04T06:20:14.858334Z",
+          "worker_finished_at_utc": "2026-07-04T06:21:49.383549Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "reverse_engineering_97b438_fme_institutions_febd9d_nasic_air_space_fme_e30511",
+          "level": 3,
+          "success": true,
+          "worker_pid": 16472,
+          "worker_duration_seconds": 12.7644,
+          "total_seconds": 12.7226,
+          "worker_started_at_utc": "2026-07-04T06:22:29.634194Z",
+          "worker_finished_at_utc": "2026-07-04T06:22:42.356817Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "reverse_engineering_97b438_drone_debris_exploit_9e0929_shahed_navigation_sh_f9abed",
+          "level": 3,
+          "success": true,
+          "worker_pid": 29352,
+          "worker_duration_seconds": 12.6561,
+          "total_seconds": 12.6171,
+          "worker_started_at_utc": "2026-07-04T06:24:53.987538Z",
+          "worker_finished_at_utc": "2026-07-04T06:25:06.604732Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "reverse_engineering_97b438_fme_institutions_febd9d_permanent_exploitati_5e863c",
+          "level": 3,
+          "success": true,
+          "worker_pid": 29352,
+          "worker_duration_seconds": 11.227,
+          "total_seconds": 11.1865,
+          "worker_started_at_utc": "2026-07-04T06:23:02.506707Z",
+          "worker_finished_at_utc": "2026-07-04T06:23:13.693314Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "reverse_engineering_97b438_component_tracing_sa_863d31_post_invasion_chips_2aca7a",
+          "level": 3,
+          "success": true,
+          "worker_pid": 16472,
+          "worker_duration_seconds": 10.4885,
+          "total_seconds": 10.4485,
+          "worker_started_at_utc": "2026-07-04T06:23:49.004094Z",
+          "worker_finished_at_utc": "2026-07-04T06:23:59.452673Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "reverse_engineering_97b438_sidewinder_copying_l_82f35b_atoll_combat_feel_738618",
+          "level": 3,
+          "success": true,
+          "worker_pid": 16472,
+          "worker_duration_seconds": 9.9452,
+          "total_seconds": 9.8979,
+          "worker_started_at_utc": "2026-07-04T06:23:28.909750Z",
+          "worker_finished_at_utc": "2026-07-04T06:23:38.807742Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "reverse_engineering_97b438_sidewinder_copying_l_82f35b_sidewinder_k13_copy_62206c",
+          "level": 3,
+          "success": true,
+          "worker_pid": 16472,
+          "worker_duration_seconds": 9.1661,
+          "total_seconds": 9.1281,
+          "worker_started_at_utc": "2026-07-04T06:24:13.733099Z",
+          "worker_finished_at_utc": "2026-07-04T06:24:22.861253Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "reverse_engineering_97b438_missile_seekers_b33be1_radar_chaff_rejectio_e18fee",
+          "level": 3,
+          "success": true,
+          "worker_pid": 26564,
+          "worker_duration_seconds": 8.1792,
+          "total_seconds": 8.136,
+          "worker_started_at_utc": "2026-07-04T06:22:41.656669Z",
+          "worker_finished_at_utc": "2026-07-04T06:22:49.792703Z",
+          "result_merge_seconds": 0.0
+        }
+      ]
+    }
+  }
+}

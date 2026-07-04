@@ -1,0 +1,2262 @@
+{
+  "generated_at": "2026-07-04T07:26:24",
+  "passed": true,
+  "baseline": {
+    "article_pages": 131,
+    "amazon_specific_pages": 114,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 114,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "reverse_engineering_97b438": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_captured_operational_51d457": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_captured_operational_51d457_akutan_zero_tactics_43eb27": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_captured_operational_51d457_captured_drone_compo_6752c3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_captured_operational_51d457_captured_radar_ew_69edf0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_captured_operational_51d457_constant_peg_mig_tra_6c2157": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_captured_operational_51d457_field_exploitation_2cb474": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_captured_operational_51d457_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_captured_operational_51d457_missile_seeker_count_709f8f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_captured_threat_trai_2a76bd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_captured_threat_trai_2a76bd_foreign_materiel_dat_40394e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_captured_threat_trai_2a76bd_fort_irwin_fake_sovi_0add76": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_captured_threat_trai_2a76bd_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_captured_threat_trai_2a76bd_modern_threat_ranges_151830": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_captured_threat_trai_2a76bd_opfor_doctrine_equip_d70e4c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_captured_threat_trai_2a76bd_real_gear_crew_insti_14f1e9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_captured_threat_trai_2a76bd_replicas_vs_original_522258": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_countermeasures_from_9e5542": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_countermeasures_from_9e5542_alq144_upkeep_lesson_b1012c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_countermeasures_from_9e5542_decoys_sensor_accept_dbf905": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_countermeasures_from_9e5542_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_countermeasures_from_9e5542_measured_emissions_j_6bd087": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_countermeasures_from_9e5542_palladium_phantom_ta_bf2098": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_countermeasures_from_9e5542_rapid_force_protecti_c08f19": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_countermeasures_from_9e5542_validated_threat_sim_e633fb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_drone_debris_exploit_9e0929": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_drone_debris_exploit_9e0929_foreign_chips_sancti_51f65e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_drone_debris_exploit_9e0929_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_drone_debris_exploit_9e0929_orlan10_kill_chain_bb2d14": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_drone_debris_exploit_9e0929_red_sea_uav_tracing_8613d4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_drone_debris_exploit_9e0929_serial_wrecks_redesi_d105d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_drone_debris_exploit_9e0929_shahed_navigation_sh_f9abed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_drone_debris_exploit_9e0929_war_sanctions_compon_0a6363": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_exploit_vs_copy_c8e898": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_exploit_vs_copy_c8e898_captured_weapon_weak_b2d88b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_exploit_vs_copy_c8e898_have_doughnut_mig21_571320": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_exploit_vs_copy_c8e898_have_drill_mig17_0fd258": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_exploit_vs_copy_c8e898_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_exploit_vs_copy_c8e898_j11_adaptation_886255": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_exploit_vs_copy_c8e898_russian_components_s_6422db": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_exploit_vs_copy_c8e898_tu4_copying_limits_76d8de": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_industrial_learning_1fb526": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_industrial_learning_1fb526_captured_material_le_6d9bb5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_industrial_learning_1fb526_copying_industrial_l_903dc4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_industrial_learning_1fb526_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_industrial_learning_1fb526_jerrycan_logistics_d_979a6b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_industrial_learning_1fb526_missile_debris_stres_500d61": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_industrial_learning_1fb526_sidewinder_factory_l_ca7a38": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_industrial_learning_1fb526_t34_factory_tradeoff_566e8c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_maintenance_clues_c503ae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_mig25_defection_bab7c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_mig25_defection_bab7c4_belenko_intelligence_e34fdb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_mig25_defection_bab7c4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_mig25_defection_bab7c4_japan_mig25_diplomac_c50fe4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_mig25_defection_bab7c4_mig25_design_tradeof_51d8db": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_mig25_defection_bab7c4_mig25_maneuverabilit_3b2ea3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_mig25_defection_bab7c4_mig25_superfighter_m_85c843": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_mig25_defection_bab7c4_vacuum_tube_avionics_5d1af3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_missile_drone_supply_d38175": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_missile_drone_supply_d38175_component_databases_1faf9e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_missile_drone_supply_d38175_debris_procurement_r_6e4486": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_missile_drone_supply_d38175_high_priority_parts_ce8c84": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_missile_drone_supply_d38175_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_missile_drone_supply_d38175_kh69_domestic_substi_c4206b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_missile_drone_supply_d38175_ordinary_electronics_93bcde": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_missile_drone_supply_d38175_shahed_fast_supply_c_849b67": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_missile_seekers_b33be1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_missile_seekers_b33be1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_missile_seekers_b33be1_infrared_flares_limi_22585b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_missile_seekers_b33be1_infrared_scene_model_e95f7c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_missile_seekers_b33be1_missile_warning_fals_b6f322": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_missile_seekers_b33be1_nulka_radar_decoy_e5db43": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_missile_seekers_b33be1_radar_chaff_rejectio_e18fee": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_missile_seekers_b33be1_seeker_fragments_gen_0bab5f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_operation_lusty_391384": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_operation_lusty_391384_ar_234_reconnaissanc_af5b9a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_operation_lusty_391384_captured_german_docu_93722d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_operation_lusty_391384_do_335_design_tradeo_8a7fe0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_operation_lusty_391384_german_experts_livin_3edbb6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_operation_lusty_391384_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_operation_lusty_391384_me_262_exploitation_593baf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_operation_lusty_391384_watsons_whizzers_fer_3f1819": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_project_paperclip_ex_2ce434": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_project_paperclip_ex_2ce434_captured_documents_t_098666": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_project_paperclip_ex_2ce434_fort_bliss_v2_revers_b917e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_project_paperclip_ex_2ce434_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_project_paperclip_ex_2ce434_jioa_paperclip_gover_d23a11": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_project_paperclip_ex_2ce434_paperclip_engineers_d9c9ff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_project_paperclip_ex_2ce434_von_braun_ethics_748c0b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_project_paperclip_ex_2ce434_wright_field_aviatio_e3e713": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_radar_exploitation_5839d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_radar_exploitation_5839d7_antenna_scan_pattern_99e512": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_radar_exploitation_5839d7_emitter_mission_data_c72371": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_radar_exploitation_5839d7_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_radar_exploitation_5839d7_lab_vs_signal_interc_60689e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_radar_exploitation_5839d7_radar_limits_a7a292": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_radar_exploitation_5839d7_radar_mode_escalatio_597988": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_radar_exploitation_5839d7_rwr_threat_calls_55ce15": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_sidewinder_copying_l_82f35b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_sidewinder_copying_l_82f35b_atoll_combat_feel_738618": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_sidewinder_copying_l_82f35b_china_pl2_path_96a2c7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_sidewinder_copying_l_82f35b_copying_vs_mastery_fa59e0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_sidewinder_copying_l_82f35b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_sidewinder_copying_l_82f35b_sidewinder_fuze_less_818928": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_sidewinder_copying_l_82f35b_sidewinder_k13_copy_62206c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_sidewinder_copying_l_82f35b_sidewinder_seeker_li_c6c986": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_tu4_aircraft_copying_21e574": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_tu4_aircraft_copying_21e574_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_tu4_aircraft_copying_21e574_tu4_1947_debut_cee61f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_tu4_aircraft_copying_21e574_tu4_b29_systems_9b16db": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_tu4_aircraft_copying_21e574_tu4_copy_vs_redesign_2ecc01": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_tu4_aircraft_copying_21e574_tu4_drawing_burden_d60291": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_tu4_aircraft_copying_21e574_tu4_metric_standards_03e564": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_tu4_aircraft_copying_21e574_tu4_soviet_substitut_c5f506": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_weapon_firmware_d78947": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_weapon_firmware_d78947_debug_ports_access_p_0567fd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_weapon_firmware_d78947_drone_navigation_beh_2a75f3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_weapon_firmware_d78947_firmware_threat_simu_7fc964": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_weapon_firmware_d78947_firmware_update_mech_8efbb0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_weapon_firmware_d78947_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_weapon_firmware_d78947_maintenance_data_int_c82edf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_weapon_firmware_d78947_threat_signal_librar_35b4b2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_weapon_fragment_meta_e03bb2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_weapon_fragment_meta_e03bb2_alloy_design_priorit_089505": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_weapon_fragment_meta_e03bb2_blast_deformation_cl_bb569c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_weapon_fragment_meta_e03bb2_fracture_surface_clu_098df7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_weapon_fragment_meta_e03bb2_heat_treatment_fragm_f3eb1e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_weapon_fragment_meta_e03bb2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_weapon_fragment_meta_e03bb2_manufacturing_flaws_cb9456": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_weapon_fragment_meta_e03bb2_trustworthy_fragment_076e2b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "current": {
+    "article_pages": 242,
+    "amazon_specific_pages": 211,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 211,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "reverse_engineering_97b438": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_battlefield_recovery_773544": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_battlefield_recovery_773544_battlefield_photolog_a562f4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_battlefield_recovery_773544_capture_tags_intelli_1247cf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_battlefield_recovery_773544_eod_safe_recovery_9f7902": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_battlefield_recovery_773544_field_disassembly_li_e6f8b6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_battlefield_recovery_773544_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_battlefield_recovery_773544_souvenir_stripping_r_eeb33b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_battlefield_recovery_773544_vietnam_cmec_collect_0255bd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_captured_operational_51d457": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_captured_operational_51d457_akutan_zero_tactics_43eb27": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_captured_operational_51d457_captured_drone_compo_6752c3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_captured_operational_51d457_captured_radar_ew_69edf0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_captured_operational_51d457_constant_peg_mig_tra_6c2157": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_captured_operational_51d457_field_exploitation_2cb474": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_captured_operational_51d457_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_captured_operational_51d457_missile_seeker_count_709f8f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_captured_threat_trai_2a76bd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_captured_threat_trai_2a76bd_foreign_materiel_dat_40394e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_captured_threat_trai_2a76bd_fort_irwin_fake_sovi_0add76": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_captured_threat_trai_2a76bd_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_captured_threat_trai_2a76bd_modern_threat_ranges_151830": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_captured_threat_trai_2a76bd_opfor_doctrine_equip_d70e4c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_captured_threat_trai_2a76bd_real_gear_crew_insti_14f1e9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_captured_threat_trai_2a76bd_replicas_vs_original_522258": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_cold_war_technology_a9e4cf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_cold_war_technology_a9e4cf_danish_mig15_diploma_217ead": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_cold_war_technology_a9e4cf_hardware_as_evidence_80454c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_cold_war_technology_a9e4cf_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_cold_war_technology_a9e4cf_mig15_korea_recovery_fe1091": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_cold_war_technology_a9e4cf_mig25_foxbat_myths_64fe20": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_cold_war_technology_a9e4cf_proxy_war_hardware_s_fbe6d6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_cold_war_technology_a9e4cf_sa2_countermeasure_c_f585c0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_component_tracing_sa_863d31": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_component_tracing_sa_863d31_common_dual_use_chip_f5c622": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_component_tracing_sa_863d31_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_component_tracing_sa_863d31_manufacturer_respons_9d8c3a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_component_tracing_sa_863d31_post_invasion_chips_2aca7a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_component_tracing_sa_863d31_serial_number_tracin_dcf097": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_component_tracing_sa_863d31_third_country_reexpo_5321c2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_component_tracing_sa_863d31_ukraine_component_da_28632e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_countermeasures_from_9e5542": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_countermeasures_from_9e5542_alq144_upkeep_lesson_b1012c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_countermeasures_from_9e5542_decoys_sensor_accept_dbf905": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_countermeasures_from_9e5542_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_countermeasures_from_9e5542_measured_emissions_j_6bd087": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_countermeasures_from_9e5542_palladium_phantom_ta_bf2098": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_countermeasures_from_9e5542_rapid_force_protecti_c08f19": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_countermeasures_from_9e5542_validated_threat_sim_e633fb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_documents_vs_hardwar_2fd5db": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_documents_vs_hardwar_2fd5db_captured_manuals_sho_a551f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_documents_vs_hardwar_2fd5db_field_mods_contradic_06249f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_documents_vs_hardwar_2fd5db_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_documents_vs_hardwar_2fd5db_lusty_paper_trail_05e7b2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_documents_vs_hardwar_2fd5db_manuals_battlefield_8ba295": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_documents_vs_hardwar_2fd5db_mig_test_flights_tac_9a7126": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_documents_vs_hardwar_2fd5db_missile_debris_procu_6606fb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_drone_debris_exploit_9e0929": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_drone_debris_exploit_9e0929_foreign_chips_sancti_51f65e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_drone_debris_exploit_9e0929_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_drone_debris_exploit_9e0929_orlan10_kill_chain_bb2d14": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_drone_debris_exploit_9e0929_red_sea_uav_tracing_8613d4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_drone_debris_exploit_9e0929_serial_wrecks_redesi_d105d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_drone_debris_exploit_9e0929_shahed_navigation_sh_f9abed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_drone_debris_exploit_9e0929_war_sanctions_compon_0a6363": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_exploit_vs_copy_c8e898": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_exploit_vs_copy_c8e898_captured_weapon_weak_b2d88b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_exploit_vs_copy_c8e898_have_doughnut_mig21_571320": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_exploit_vs_copy_c8e898_have_drill_mig17_0fd258": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_exploit_vs_copy_c8e898_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_exploit_vs_copy_c8e898_j11_adaptation_886255": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_exploit_vs_copy_c8e898_russian_components_s_6422db": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_exploit_vs_copy_c8e898_tu4_copying_limits_76d8de": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_export_weapon_exploi_fa93bd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_export_weapon_exploi_fa93bd_buyer_use_performanc_f39c25": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_export_weapon_exploi_fa93bd_export_downgrades_e809b0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_export_weapon_exploi_fa93bd_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_export_weapon_exploi_fa93bd_iran_f14_warning_5b1ef5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_export_weapon_exploi_fa93bd_manuals_training_exp_c6bda9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_export_weapon_exploi_fa93bd_sipri_transfer_data_b1db26": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_export_weapon_exploi_fa93bd_spare_parts_exposure_1d96ad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_fme_institutions_febd9d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_fme_institutions_febd9d_army_ground_fme_fe27ae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_fme_institutions_febd9d_dod_fme_governance_700240": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_fme_institutions_febd9d_fme_threat_databases_9a0eb6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_fme_institutions_febd9d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_fme_institutions_febd9d_msic_missile_superco_27a36c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_fme_institutions_febd9d_nasic_air_space_fme_e30511": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_fme_institutions_febd9d_permanent_exploitati_5e863c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_ground_materiel_forc_2d8145": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_ground_materiel_forc_2d8145_captured_ied_warning_eb98d8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_ground_materiel_forc_2d8145_damaged_armour_survi_2173e7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_ground_materiel_forc_2d8145_field_speed_depth_tr_d26734": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_ground_materiel_forc_2d8145_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_ground_materiel_forc_2d8145_real_threat_materiel_bf96d8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_ground_materiel_forc_2d8145_ukraine_trophylab_47d1e9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_ground_materiel_forc_2d8145_uk_russian_armour_st_c2e264": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_hard_to_replicate_459412": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_hard_to_replicate_459412_beyond_blueprints_5e668d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_hard_to_replicate_459412_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_hard_to_replicate_459412_materials_coatings_g_52ed74": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_hard_to_replicate_459412_tacit_weapon_knowhow_ce1f1e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_hard_to_replicate_459412_weapon_quality_contr_9efb28": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_hard_to_replicate_459412_weapon_supply_chains_133600": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_hard_to_replicate_459412_weapon_testing_regim_b98090": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_industrial_learning_1fb526": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_industrial_learning_1fb526_captured_material_le_6d9bb5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_industrial_learning_1fb526_copying_industrial_l_903dc4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_industrial_learning_1fb526_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_industrial_learning_1fb526_jerrycan_logistics_d_979a6b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_industrial_learning_1fb526_missile_debris_stres_500d61": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_industrial_learning_1fb526_sidewinder_factory_l_ca7a38": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_industrial_learning_1fb526_t34_factory_tradeoff_566e8c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_legal_ethical_limits_260c32": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_legal_ethical_limits_260c32_captured_weapons_cus_f1ee3f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_legal_ethical_limits_260c32_capture_vs_looting_ae281d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_legal_ethical_limits_260c32_defectors_with_aircr_cb19ac": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_legal_ethical_limits_260c32_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_legal_ethical_limits_260c32_paperclip_accountabi_fe08e5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_legal_ethical_limits_260c32_pow_technical_interr_b963c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_legal_ethical_limits_260c32_ukraine_component_ev_2e54e8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_maintenance_clues_c503ae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_maintenance_clues_c503ae_abandoned_vehicle_cl_8aa4c7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_maintenance_clues_c503ae_field_modifications_e86757": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_maintenance_clues_c503ae_german_tank_maintena_7dc9ec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_maintenance_clues_c503ae_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_maintenance_clues_c503ae_orlan_drone_parts_221817": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_maintenance_clues_c503ae_repeated_wear_patter_29e16a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_maintenance_clues_c503ae_spares_packaging_8c3e9d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_mig25_defection_bab7c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_mig25_defection_bab7c4_belenko_intelligence_e34fdb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_mig25_defection_bab7c4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_mig25_defection_bab7c4_japan_mig25_diplomac_c50fe4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_mig25_defection_bab7c4_mig25_design_tradeof_51d8db": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_mig25_defection_bab7c4_mig25_maneuverabilit_3b2ea3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_mig25_defection_bab7c4_mig25_superfighter_m_85c843": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_mig25_defection_bab7c4_vacuum_tube_avionics_5d1af3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_missile_drone_supply_d38175": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_missile_drone_supply_d38175_component_databases_1faf9e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_missile_drone_supply_d38175_debris_procurement_r_6e4486": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_missile_drone_supply_d38175_high_priority_parts_ce8c84": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_missile_drone_supply_d38175_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_missile_drone_supply_d38175_kh69_domestic_substi_c4206b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_missile_drone_supply_d38175_ordinary_electronics_93bcde": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_missile_drone_supply_d38175_shahed_fast_supply_c_849b67": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_missile_seekers_b33be1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_missile_seekers_b33be1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_missile_seekers_b33be1_infrared_flares_limi_22585b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_missile_seekers_b33be1_infrared_scene_model_e95f7c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_missile_seekers_b33be1_missile_warning_fals_b6f322": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_missile_seekers_b33be1_nulka_radar_decoy_e5db43": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_missile_seekers_b33be1_radar_chaff_rejectio_e18fee": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_missile_seekers_b33be1_seeker_fragments_gen_0bab5f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_nasic_air_space_fme_e30511": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_nasic_air_space_fme_e30511_embedded_electronics_52bbae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_nasic_air_space_fme_e30511_fme_squadron_workfor_85a4ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_nasic_air_space_fme_e30511_hidden_captured_cata_f4a5dc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_nasic_air_space_fme_e30511_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_nasic_air_space_fme_e30511_real_hardware_measur_7ef166": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_nasic_air_space_fme_e30511_rf_characterization_415c9d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_nasic_air_space_fme_e30511_watson_hall_expansio_fe46a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_operation_lusty_391384": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_operation_lusty_391384_ar_234_reconnaissanc_af5b9a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_operation_lusty_391384_captured_german_docu_93722d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_operation_lusty_391384_do_335_design_tradeo_8a7fe0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_operation_lusty_391384_german_experts_livin_3edbb6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_operation_lusty_391384_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_operation_lusty_391384_me_262_exploitation_593baf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_operation_lusty_391384_watsons_whizzers_fer_3f1819": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_project_paperclip_ex_2ce434": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_project_paperclip_ex_2ce434_captured_documents_t_098666": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_project_paperclip_ex_2ce434_fort_bliss_v2_revers_b917e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_project_paperclip_ex_2ce434_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_project_paperclip_ex_2ce434_jioa_paperclip_gover_d23a11": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_project_paperclip_ex_2ce434_paperclip_engineers_d9c9ff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_project_paperclip_ex_2ce434_von_braun_ethics_748c0b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_project_paperclip_ex_2ce434_wright_field_aviatio_e3e713": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_radar_exploitation_5839d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_radar_exploitation_5839d7_antenna_scan_pattern_99e512": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_radar_exploitation_5839d7_emitter_mission_data_c72371": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_radar_exploitation_5839d7_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_radar_exploitation_5839d7_lab_vs_signal_interc_60689e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_radar_exploitation_5839d7_radar_limits_a7a292": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_radar_exploitation_5839d7_radar_mode_escalatio_597988": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_radar_exploitation_5839d7_rwr_threat_calls_55ce15": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_sidewinder_copying_l_82f35b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_sidewinder_copying_l_82f35b_atoll_combat_feel_738618": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_sidewinder_copying_l_82f35b_china_pl2_path_96a2c7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_sidewinder_copying_l_82f35b_copying_vs_mastery_fa59e0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_sidewinder_copying_l_82f35b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_sidewinder_copying_l_82f35b_sidewinder_fuze_less_818928": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_sidewinder_copying_l_82f35b_sidewinder_k13_copy_62206c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_sidewinder_copying_l_82f35b_sidewinder_seeker_li_c6c986": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_technology_defection_c0645b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_technology_defection_c0645b_belenko_mig25_surpri_7febe1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_technology_defection_c0645b_belenko_notebook_doc_8bb338": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_technology_defection_c0645b_defection_rewards_as_e1fe8c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_technology_defection_c0645b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_technology_defection_c0645b_mig15_postwar_testin_2dc574": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_technology_defection_c0645b_pilot_knowledge_vs_w_b75c75": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_technology_defection_c0645b_radfa_mig21_exploita_23dcfa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_threat_inflation_1006bd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_threat_inflation_1006bd_fme_corrects_myths_b62ddb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_threat_inflation_1006bd_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_threat_inflation_1006bd_inspection_hidden_tr_5378db": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_threat_inflation_1006bd_mig21_testing_tactic_66fb1a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_threat_inflation_1006bd_mig25_superfighter_m_85c843": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_threat_inflation_1006bd_visible_strengths_hi_1c45df": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_threat_inflation_1006bd_worst_case_threat_in_e7d943": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_threat_replicas_simu_04f4b5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_threat_replicas_simu_04f4b5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_threat_replicas_simu_04f4b5_mobile_range_threat_bc7b9a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_threat_replicas_simu_04f4b5_radar_emitters_pilot_fbd917": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_threat_replicas_simu_04f4b5_replica_realism_cost_7e5b20": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_threat_replicas_simu_04f4b5_sensor_targets_machi_efdf80": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_threat_replicas_simu_04f4b5_surrogate_armored_ve_b0764e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_threat_replicas_simu_04f4b5_threat_libraries_rep_68d4d3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_tu4_aircraft_copying_21e574": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_tu4_aircraft_copying_21e574_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_tu4_aircraft_copying_21e574_tu4_1947_debut_cee61f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_tu4_aircraft_copying_21e574_tu4_b29_systems_9b16db": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_tu4_aircraft_copying_21e574_tu4_copy_vs_redesign_2ecc01": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_tu4_aircraft_copying_21e574_tu4_drawing_burden_d60291": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_tu4_aircraft_copying_21e574_tu4_metric_standards_03e564": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_tu4_aircraft_copying_21e574_tu4_soviet_substitut_c5f506": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_weapon_firmware_d78947": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_weapon_firmware_d78947_debug_ports_access_p_0567fd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_weapon_firmware_d78947_drone_navigation_beh_2a75f3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_weapon_firmware_d78947_firmware_threat_simu_7fc964": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_weapon_firmware_d78947_firmware_update_mech_8efbb0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_weapon_firmware_d78947_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_weapon_firmware_d78947_maintenance_data_int_c82edf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_weapon_firmware_d78947_threat_signal_librar_35b4b2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_weapon_fragment_meta_e03bb2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_weapon_fragment_meta_e03bb2_alloy_design_priorit_089505": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_weapon_fragment_meta_e03bb2_blast_deformation_cl_bb569c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_weapon_fragment_meta_e03bb2_fracture_surface_clu_098df7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_weapon_fragment_meta_e03bb2_heat_treatment_fragm_f3eb1e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_weapon_fragment_meta_e03bb2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_weapon_fragment_meta_e03bb2_manufacturing_flaws_cb9456": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "reverse_engineering_97b438_weapon_fragment_meta_e03bb2_trustworthy_fragment_076e2b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "shared_pages_compared": 131,
+  "regressions": []
+}

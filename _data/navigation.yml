@@ -1,0 +1,665 @@
+sidebar_generated:
+- title: Foreign Materiel
+  title_full: What Captured Weapons Really Reveal
+  url: /reverse-engineering-foreign-military/
+  children:
+  - title: Battlefield Intel
+    title_full: What Captured Weapons Tell Commanders
+    url: /battlefield-intel/
+    children:
+    - title: Akutan Zero
+      title_full: What the Akutan Zero Taught Pilots
+      url: /akutan-zero/
+    - title: Constant Peg
+      title_full: When Captured Mi Gs Became the Classroom
+      url: /constant-peg/
+    - title: Drone Parts
+      title_full: What Captured Drones Reveal Fast
+      url: /drone-parts/
+    - title: Field Exploit
+      title_full: Why First Inspection Can Matter Most
+      url: /field-exploit/
+    - title: Missile Seekers
+      title_full: What a Captured Missile Gives Away
+      url: /missile-seekers-6738fc/
+    - title: Radar Lessons
+      title_full: How Captured Radars Change the Fight
+      url: /radar-lessons/
+  - title: Cold War Race
+    title_full: Why the Cold War Prized Captured Machines
+    url: /cold-war-race/
+    children:
+    - title: Danish Mi G
+      title_full: When a defected Mi G became a diplomatic problem
+      url: /danish-mi-g/
+    - title: Hardware Evidence
+      title_full: Why real machines beat Cold War rumors
+      url: /hardware-evidence/
+    - title: Mi G 15 Recovery
+      title_full: How a salvaged Mi G 15 became an intelligence prize
+      url: /mi-g-15-recovery/
+    - title: Mi G 25 Myths
+      title_full: Did the Mi G 25 deserve its terrifying reputation?
+      url: /mi-g-25-myths/
+    - title: Proxy War Finds
+      title_full: How proxy wars fed the hardware chase
+      url: /proxy-war-finds/
+    - title: SA 2 Clues
+      title_full: Why small SA 2 clues mattered in air combat
+      url: /sa-2-clues/
+  - title: Countermeasures
+    title_full: Why Countermeasures Need Real Hardware
+    url: /countermeasures/
+    children:
+    - title: ALQ 144
+      title_full: When a good jammer is not enough
+      url: /alq-144/
+    - title: Decoys
+      title_full: Why some decoys fool sensors and others fail
+      url: /decoys/
+    - title: Palladium
+      title_full: When fake aircraft tested real radars
+      url: /palladium/
+    - title: Rapid Exploit
+      title_full: How captured weapons become urgent protection data
+      url: /rapid-exploit/
+    - title: Signals
+      title_full: Why jammers need the enemy's real signal
+      url: /signals/
+    - title: Threat Sims
+      title_full: Can a simulator stand in for the enemy?
+      url: /threat-sims/
+  - title: Defections
+    title_full: When Defectors Bring the Hardware
+    url: /defections/
+    children:
+    - title: Defection Deals
+      title_full: The Deals Behind Stolen Enemy Aircraft
+      url: /defection-deals/
+    - title: Mi G 15 Escape
+      title_full: The Mi G 15 That Arrived After the War
+      url: /mi-g-15-escape/
+    - title: Mi G 25 Shock
+      title_full: The Foxbat That Changed Western Assumptions
+      url: /mi-g-25-shock/
+    - title: Pilot Notebook
+      title_full: The Notebook That Came With the Foxbat
+      url: /pilot-notebook/
+    - title: Pilot Value
+      title_full: Why the Pilot Was Part of the Weapon
+      url: /pilot-value/
+    - title: Radfa Flight
+      title_full: How Israel Got a Mi G 21 to Test
+      url: /radfa-flight/
+  - title: Docs vs Hardware
+    title_full: Paper Plans or Real Machines?
+    url: /docs-vs-hardware/
+    children:
+    - title: Field Mods
+      title_full: When Captured Gear Rewrites the Manual
+      url: /field-mods-00bb84/
+    - title: LUSTY Papers
+      title_full: Why Captured Jets Needed Paper Trails
+      url: /lusty-papers/
+    - title: Maintenance Truth
+      title_full: When Manuals Meet Battlefield Wear
+      url: /maintenance-truth/
+    - title: Mi G Tactics
+      title_full: How Flying Enemy Jets Changed Tactics
+      url: /mi-g-tactics/
+    - title: Missile Debris
+      title_full: What Missile Debris Says About Supply Chains
+      url: /missile-debris/
+    - title: Technical Papers
+      title_full: How Captured Manuals Speed Up Exploitation
+      url: /technical-papers/
+  - title: Drone Debris
+    title_full: What Crashed Drones Can Reveal
+    url: /drone-debris/
+    children:
+    - title: Chip Trails
+      title_full: Why Foreign Chips Keep Appearing in Drones
+      url: /chip-trails/
+    - title: Component Map
+      title_full: How Drone Parts Become a Supply Chain Map
+      url: /component-map/
+    - title: Orlan 10
+      title_full: How Orlan 10 Wreckage Maps a Kill Chain
+      url: /orlan-10/
+    - title: Rapid Redesign
+      title_full: When Drone Wrecks Show Design Evolution
+      url: /rapid-redesign/
+    - title: Red Sea Debris
+      title_full: How Red Sea Drone Parts Trace Proxy Arsenals
+      url: /red-sea-debris/
+    - title: Shahed Upgrades
+      title_full: What Shahed Wreckage Reveals About Smarter Drones
+      url: /shahed-upgrades/
+  - title: Ethics
+    title_full: Where Captured Technology Gets Complicated
+    url: /ethics/
+    children:
+    - title: Component Trails
+      title_full: What Captured Components Can Reveal
+      url: /component-trails/
+    - title: Custody Trail
+      title_full: Captured Weapons Are Evidence Too
+      url: /custody-trail/
+    - title: Defector Consent
+      title_full: When Defection Brings the Weapon Too
+      url: /defector-consent/
+    - title: Looting Line
+      title_full: When Does Capture Become Looting?
+      url: /looting-line/
+    - title: Paperclip
+      title_full: The Cost of Recruiting Enemy Scientists
+      url: /paperclip-516adb/
+    - title: POW Limits
+      title_full: Prisoners Are Not Access Keys
+      url: /pow-limits/
+  - title: Exploit vs Copy
+    title_full: Is Reverse Engineering Just Copying?
+    url: /exploit-vs-copy/
+    children:
+    - title: J 11 Adaptation
+      title_full: When Copying Becomes Domestic Redesign
+      url: /j-11-adaptation/
+    - title: Mi G 17 Lessons
+      title_full: What The Mi G 17 Taught US Pilots
+      url: /mi-g-17-lessons/
+    - title: Mi G 21 Tests
+      title_full: Why The US Tested A Mi G 21
+      url: /mi-g-21-tests/
+    - title: Supply Chains
+      title_full: What Weapon Debris Reveals About Supply Chains
+      url: /supply-chains-68339b/
+    - title: Tu 4 Copy
+      title_full: Why Copying The B 29 Was Hard
+      url: /tu-4-copy-8ff315/
+    - title: Weaknesses
+      title_full: What Captured Weapons Reveal About Defeating Them
+      url: /weaknesses/
+  - title: Export Systems
+    title_full: What Export Weapons Give Away
+    url: /export-systems/
+    children:
+    - title: Downgrades
+      title_full: What Missing Features Reveal About Weapons
+      url: /downgrades/
+    - title: Iran F 14
+      title_full: When An Export Fighter Outlives An Alliance
+      url: /iran-f-14/
+    - title: Real Use
+      title_full: What Buyers Reveal By Using Weapons
+      url: /real-use/
+    - title: SIPRI Data
+      title_full: Mapping Who Got Which Weapons
+      url: /sipri-data/
+    - title: Spare Parts
+      title_full: Why Spare Parts Can Give Secrets Away
+      url: /spare-parts/
+    - title: Training
+      title_full: The Know How Hidden Inside Arms Sales
+      url: /training/
+  - title: Firmware
+    title_full: The Software Hidden Inside Weapons
+    url: /firmware/
+    children:
+    - title: Debug Access
+      title_full: The Hidden Connectors That Give Up Firmware
+      url: /debug-access/
+    - title: Drone Logic
+      title_full: What Drone Firmware Reveals About Real Flight Behavior
+      url: /drone-logic/
+    - title: Service Data
+      title_full: Why Maintenance Records Matter as Much as Code
+      url: /service-data/
+    - title: Threat Libraries
+      title_full: How Threat Libraries Reveal What Systems Recognize
+      url: /threat-libraries/
+    - title: Threat Modeling
+      title_full: Why Real Firmware Makes Better Threat Simulators
+      url: /threat-modeling/
+    - title: Update Paths
+      title_full: Can Operators Change the System in the Field
+      url: /update-paths/
+  - title: Ground Systems
+    title_full: How Captured Ground Weapons Protect Troops
+    url: /ground-systems/
+    children:
+    - title: Damaged Armor
+      title_full: What Wrecked Armour Teaches About Survival
+      url: /damaged-armor/
+    - title: IED Warnings
+      title_full: What a Captured IED Can Warn Troops About
+      url: /ied-warnings/
+    - title: Real Training
+      title_full: Why Real Enemy Hardware Changes Training
+      url: /real-training/
+    - title: Speed vs Depth
+      title_full: When Fast Warnings Beat Perfect Answers
+      url: /speed-vs-depth/
+    - title: Trophy Lab
+      title_full: From Russian Trophies to Allied Countermeasures
+      url: /trophy-lab/
+    - title: UK Armour Study
+      title_full: Why Britain Took Apart Russian Armour
+      url: /uk-armour-study/
+  - title: Hard to Copy
+    title_full: Why Capturing a Weapon Is Not Enough
+    url: /hard-to-copy/
+    children:
+    - title: Beyond Blueprints
+      title_full: Why a weapon copy needs more than drawings
+      url: /beyond-blueprints/
+    - title: Material Gaps
+      title_full: Why the same alloy is not the same weapon
+      url: /material-gaps/
+    - title: Quality Control
+      title_full: When a tiny defect ruins a weapon copy
+      url: /quality-control/
+    - title: Supply Chains
+      title_full: The parts trail inside captured weapons
+      url: /supply-chains-f92c6f/
+    - title: Tacit Know How
+      title_full: The invisible know how inside advanced weapons
+      url: /tacit-know-how/
+    - title: Testing Regimes
+      title_full: Why a working prototype is not enough
+      url: /testing-regimes/
+  - title: Industrial Learning From Captured Weapon...
+    title_full: What Factories Learn From Enemy Weapons
+    url: /industrial-learning-from-captured/
+    children:
+    - title: Copying Limits
+      title_full: Why Blueprints Are Not Enough
+      url: /copying-limits/
+    - title: Debris Clues
+      title_full: How Wreckage Maps Industrial Pressure
+      url: /debris-clues/
+    - title: Jerrycan
+      title_full: Why a Fuel Can Became Industrial Intelligence
+      url: /jerrycan/
+    - title: Material Ledger
+      title_full: What Enemy Materials Reveal About Factories
+      url: /material-ledger/
+    - title: Sidewinder
+      title_full: The Missile That Became a Factory Lesson
+      url: /sidewinder-6a5e7c/
+    - title: T 34 Tradeoffs
+      title_full: What T 34 Wrecks Taught Factories
+      url: /t-34-tradeoffs/
+  - title: Intel Centers
+    title_full: Why Exploitation Became an Institution
+    url: /intel-centers/
+    children:
+    - title: Do D Governance
+      title_full: Who Decides What Captured Weapons Teach
+      url: /do-d-governance/
+    - title: Ground Systems
+      title_full: How Foreign Armor Becomes Threat Realism
+      url: /ground-systems-21812d/
+    - title: MSIC Computing
+      title_full: When Missile Exploitation Needs Supercomputers
+      url: /msic-computing/
+    - title: NASIC Mission
+      title_full: Inside the Air and Space Exploitation Mission
+      url: /nasic-mission/
+    - title: Permanent Centers
+      title_full: Why Captured Weapons Need Permanent Homes
+      url: /permanent-centers/
+    - title: Threat Databases
+      title_full: The Afterlife of Captured Weapon Tests
+      url: /threat-databases/
+  - title: Maintenance
+    title_full: What Repairs Reveal About an Army
+    url: /maintenance/
+    children:
+    - title: Abandoned Vehicles
+      title_full: Why Intact Vehicles Get Left Behind
+      url: /abandoned-vehicles/
+    - title: Field Mods
+      title_full: When Field Repairs Rewrite the Design
+      url: /field-mods/
+    - title: German Tanks
+      title_full: When Tank Repair Systems Break Under War
+      url: /german-tanks/
+    - title: Orlan Clues
+      title_full: What Orlan Drone Parts Really Reveal
+      url: /orlan-clues/
+    - title: Spares
+      title_full: The Intelligence Hidden in Spare Parts
+      url: /spares/
+    - title: Wear Patterns
+      title_full: What Repeated Wear Says About Enemy Readiness
+      url: /wear-patterns/
+  - title: Materials
+    title_full: What Metal Fragments Tell Analysts
+    url: /materials/
+    children:
+    - title: Alloy Choices
+      title_full: What the alloy says about the weapon
+      url: /alloy-choices/
+    - title: Blast Deform
+      title_full: What blasts do inside metal fragments
+      url: /blast-deform/
+    - title: Factory Flaws
+      title_full: The factory clues inside battlefield debris
+      url: /factory-flaws/
+    - title: Fracture Clues
+      title_full: Reading the break in a weapon fragment
+      url: /fracture-clues/
+    - title: Heat Treatment
+      title_full: When good steel is processed badly
+      url: /heat-treatment/
+    - title: Trustworthy Tests
+      title_full: How labs keep fragment evidence honest
+      url: /trustworthy-tests/
+  - title: Mi G 25
+    title_full: What the Mi G 25 Really Revealed
+    url: /mi-g-25/
+    children:
+    - title: Agility Limits
+      title_full: How Agile Was the Mi G 25 Really?
+      url: /agility-limits/
+    - title: Belenko Flight
+      title_full: How One Defection Opened the Foxbat
+      url: /belenko-flight/
+    - title: Design Tradeoffs
+      title_full: What the Mi G 25's Structure Really Revealed
+      url: /design-tradeoffs/
+    - title: Japan Crisis
+      title_full: Why Returning the Mi G 25 Was So Complicated
+      url: /japan-crisis/
+    - title: Super Fighter Myth
+      title_full: Why Did the Mi G 25 Seem So Unstoppable?
+      url: /super-fighter-myth/
+    - title: Vacuum Tubes
+      title_full: Were the Mi G 25's Electronics Really Obsolete?
+      url: /vacuum-tubes/
+  - title: Missile Seekers
+    title_full: How Missile Seekers Are Studied
+    url: /missile-seekers/
+    children:
+    - title: Chaff Limits
+      title_full: When Chaff Stops Looking Like a Ship
+      url: /chaff-limits/
+    - title: Flares
+      title_full: Why Hotter Flares Are Not Always Better
+      url: /flares/
+    - title: Fragments
+      title_full: What Broken Missile Seekers Can Still Tell
+      url: /fragments/
+    - title: IR Scenes
+      title_full: Testing Decoys Through the Missile's Eyes
+      url: /ir-scenes/
+    - title: Nulka
+      title_full: Can a Flying Decoy Look Like a Ship?
+      url: /nulka/
+    - title: Warnings
+      title_full: The Cost of Crying Missile Too Often
+      url: /warnings/
+  - title: NASIC
+    title_full: Inside Air and Space Exploitation
+    url: /nasic/
+    children:
+    - title: Embedded Tech
+      title_full: What Circuit Boards Can Give Away
+      url: /embedded-tech/
+    - title: FME Squadron
+      title_full: Inside NASIC's Exploitation Team
+      url: /fme-squadron/
+    - title: Hidden Catalogue
+      title_full: Why NASIC's Captured Systems Stay Unnamed
+      url: /hidden-catalogue/
+    - title: Real Hardware
+      title_full: Why Captured Hardware Beats Guesswork
+      url: /real-hardware/
+    - title: RF Testing
+      title_full: What Foreign Signals Reveal
+      url: /rf-testing/
+    - title: Watson Hall
+      title_full: What More Lab Space Made Possible
+      url: /watson-hall/
+  - title: Operation LUSTY
+    title_full: The Race for German Secret Technology
+    url: /operation-lusty/
+    children:
+    - title: Ar 234
+      title_full: Why the Ar 234 was more than a trophy
+      url: /ar-234/
+    - title: Do 335
+      title_full: The fast German aircraft that proved tradeoffs matter
+      url: /do-335/
+    - title: Documents
+      title_full: Why captured papers mattered as much as jets
+      url: /documents/
+    - title: Experts
+      title_full: The human side of reverse engineering aircraft
+      url: /experts/
+    - title: Me 262
+      title_full: What the Me 262 taught American intelligence
+      url: /me-262/
+    - title: Whizzers
+      title_full: How Watson's Whizzers flew enemy aircraft home
+      url: /whizzers/
+  - title: Paperclip
+    title_full: When Reverse Engineering Needed Engineers
+    url: /paperclip/
+    children:
+    - title: Document Haul
+      title_full: When Captured Files Needed Human Interpreters
+      url: /document-haul/
+    - title: Human Know How
+      title_full: Why Captured Hardware Was Not Enough
+      url: /human-know-how/
+    - title: JIOA Control
+      title_full: Who Managed Paperclip's Imported Scientists?
+      url: /jioa-control/
+    - title: V 2 Tests
+      title_full: How America Learned From the V 2
+      url: /v-2-tests/
+    - title: Von Braun
+      title_full: The Rocket Genius Problem Paperclip Created
+      url: /von-braun/
+    - title: Wright Field
+      title_full: Paperclip Was Not Only About Rockets
+      url: /wright-field/
+  - title: Radar Signatures
+    title_full: What Captured Radars Give Away
+    url: /radar-signatures/
+    children:
+    - title: Emitter Libraries
+      title_full: From Captured Pulses to Mission Data
+      url: /emitter-libraries/
+    - title: Lab vs Signals
+      title_full: Why One Intercept Is Not Enough
+      url: /lab-vs-signals/
+    - title: Mode Changes
+      title_full: When a Radar Becomes a Real Threat
+      url: /mode-changes/
+    - title: Radar Limits
+      title_full: The Weaknesses a Radar Cannot Hide
+      url: /radar-limits/
+    - title: Scan Patterns
+      title_full: The Clues Hidden in a Radar Beam
+      url: /scan-patterns/
+    - title: Threat Calls
+      title_full: Why Radar Warnings Get More Specific
+      url: /threat-calls/
+  - title: Recovery Teams
+    title_full: How Captured Hardware Reaches the Lab
+    url: /recovery-teams/
+    children:
+    - title: Capture Tags
+      title_full: Why the Tag Can Matter as Much as the Weapon
+      url: /capture-tags/
+    - title: EOD Safety
+      title_full: Making Captured Weapons Safe Without Ruining the Clues
+      url: /eod-safety/
+    - title: Photologs
+      title_full: The Photos That Save a Wreck's Original Story
+      url: /photologs/
+    - title: Stop Disassembly
+      title_full: Where Field Exploitation Should Stop
+      url: /stop-disassembly/
+    - title: Stop Stripping
+      title_full: When Souvenirs Destroy the Intelligence Story
+      url: /stop-stripping/
+    - title: Vietnam CMEC
+      title_full: How Vietnam Turned Captured Gear Into a System
+      url: /vietnam-cmec/
+  - title: Replicas
+    title_full: When a Replica Is Good Enough
+    url: /replicas/
+    children:
+    - title: Fake armor
+      title_full: The fake armor soldiers learn to spot
+      url: /fake-armor/
+    - title: Radar emitters
+      title_full: When a fake radar feels real enough
+      url: /radar-emitters/
+    - title: Range simulators
+      title_full: Why ranges use mobile fake threats
+      url: /range-simulators/
+    - title: Realism costs
+      title_full: How real does a fake threat need to be?
+      url: /realism-costs/
+    - title: Sensor targets
+      title_full: When the machine is the audience
+      url: /sensor-targets/
+    - title: Threat libraries
+      title_full: The data behind realistic fake enemies
+      url: /threat-libraries-fa26f5/
+  - title: Sanctions
+    title_full: How Weapon Parts Trace Sanctions Gaps
+    url: /sanctions/
+    children:
+    - title: Common Chips
+      title_full: Why Ordinary Chips Become Military Bottlenecks
+      url: /common-chips/
+    - title: Company Risk
+      title_full: When a Logo in a Weapon Is Not Enough
+      url: /company-risk/
+    - title: Databases
+      title_full: Why Ukraine Publishes Russia's Foreign Components
+      url: /databases-1ae59c/
+    - title: New Chips
+      title_full: Why Post Invasion Chips Are Harder to Explain
+      url: /new-chips/
+    - title: Re Exports
+      title_full: How Re Export Chains Keep Parts Moving
+      url: /re-exports/
+    - title: Serial Leads
+      title_full: How One Serial Number Can Start a Sanctions Case
+      url: /serial-leads/
+  - title: Sidewinder
+    title_full: Can a Missile Be Copied Whole?
+    url: /sidewinder/
+    children:
+    - title: Combat Feel
+      title_full: When a Copy Looks Right but Fights Differently
+      url: /combat-feel/
+    - title: Copy vs Mastery
+      title_full: Copying a Missile Is Not Mastering It
+      url: /copy-vs-mastery/
+    - title: Fuze Lessons
+      title_full: The Hidden Problem of Making Missiles Explode
+      url: /fuze-lessons/
+    - title: K 13 Copy
+      title_full: How One Sidewinder Became a Soviet Missile
+      url: /k-13-copy/
+    - title: PL 2 Path
+      title_full: Why China's Sidewinder Copy Took Years
+      url: /pl-2-path/
+    - title: Seeker Limits
+      title_full: Why the Sidewinder Seeker Was Hard to Copy
+      url: /seeker-limits/
+  - title: Supply Chains
+    title_full: What Missile Debris Says About Supply Chains
+    url: /supply-chains/
+    children:
+    - title: Databases
+      title_full: Can Wreckage Become a Searchable Sanctions Map?
+      url: /databases/
+    - title: Kh 69 Shift
+      title_full: When Sanctions Leave Marks Inside a Missile
+      url: /kh-69-shift/
+    - title: Ordinary Parts
+      title_full: Why Mundane Chips Matter So Much
+      url: /ordinary-parts/
+    - title: Priority Lists
+      title_full: How Debris Shapes Export Control Lists
+      url: /priority-lists/
+    - title: Procurement Trails
+      title_full: How Wreckage Exposes a Living Supply Chain
+      url: /procurement-trails/
+    - title: Shahed Parts
+      title_full: Why Drone Parts Can Move So Fast
+      url: /shahed-parts/
+  - title: Threat Myths
+    title_full: When Enemy Weapons Look Stronger Than They Are
+    url: /threat-myths/
+    children:
+    - title: False Strengths
+      title_full: When Impressive Specs Hide Weaknesses
+      url: /false-strengths/
+    - title: FME Reality
+      title_full: How Captured Hardware Cuts Through Myth
+      url: /fme-reality/
+    - title: Hidden Tradeoffs
+      title_full: The Details Parade Photos Cannot Reveal
+      url: /hidden-tradeoffs/
+    - title: Mi G 21 Tactics
+      title_full: How Testing Made the Mi G 21 Beatable
+      url: /mi-g-21-tactics/
+    - title: Mi G 25 Myth
+      title_full: Why the Mi G 25 Looked Scarier Than It Was
+      url: /mi-g-25-myth/
+    - title: Worst Cases
+      title_full: When Caution Turns Into Threat Inflation
+      url: /worst-cases/
+  - title: Threat Training
+    title_full: How Captured Weapons Change Training
+    url: /threat-training/
+    children:
+    - title: Crew Instincts
+      title_full: Why Real Threat Gear Beats Slides
+      url: /crew-instincts/
+    - title: Fort Irwin
+      title_full: How Fake Soviet Tanks Changed Army Training
+      url: /fort-irwin/
+    - title: Fresh Data
+      title_full: How Threat Training Goes Stale
+      url: /fresh-data/
+    - title: Modern Ranges
+      title_full: The New Threat Range Is Electronic
+      url: /modern-ranges/
+    - title: OPFOR Doctrine
+      title_full: The Enemy Vehicle Is Not Enough
+      url: /opfor-doctrine/
+    - title: Replicas
+      title_full: When Replicas Train Better Than Originals
+      url: /replicas-f2a7ea/
+  - title: Tu 4 Copy
+    title_full: Why Copying a Bomber Was Hard
+    url: /tu-4-copy/
+    children:
+    - title: Copy vs Redesign
+      title_full: Was the Tu 4 really an exact copy?
+      url: /copy-vs-redesign/
+    - title: Drawing Burden
+      title_full: The paperwork needed to copy a bomber
+      url: /drawing-burden/
+    - title: Metric Problem
+      title_full: Why measurements made copying harder
+      url: /metric-problem/
+    - title: Soviet Substitutes
+      title_full: What the Soviets had to replace
+      url: /soviet-substitutes/
+    - title: Systems Problem
+      title_full: The hidden systems inside the B 29 copy
+      url: /systems-problem/
+    - title: Tushino Shock
+      title_full: The airshow that revealed the Tu 4
+      url: /tushino-shock/
