@@ -428,89 +428,72 @@ For fragment exploitation, interlaboratory verification is particularly valuable
 The most persuasive fragment analysis is rarely the one with the most sophisticated instrument. It is the one supported by a transparent chain of evidence. Calibration records show that equipment was functioning correctly. Certified reference materials demonstrate accuracy. Traceability links measurements to recognised standards. Measurement uncertainty defines the limits of confidence. Accreditation and proficiency testing provide independent checks on laboratory performance. Together, these practices transform a metal fragment from a piece of debris into evidence that can withstand technical challenge and support high-consequence decisions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/metrology/metrological-traceability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[nist.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">It is not</span><span class="citation-popover-snippet">Metrological Traceability: Frequently Asked Questions and...It is important to note that traceability is the property of the result...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to How labs keep fragment evidence honest. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How labs keep fragment evidence honest. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Measurement+Uncertainty+by+Ronald+H.+Dieck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Measurement Uncertainty on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FXFYAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Measurement Uncertainty" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Measurement+Uncertainty+by+Ronald+H.+Dieck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Measurement Uncertainty">Measurement Uncertainty</a>
-</h4>
-<p class="fr-book-author">By Ronald H. Dieck</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Metallurgy+for+the+Non-metallurgist+Arthur+C.+Reardon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Metallurgy for the Non-metallurgist on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XdxkxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Metallurgy for the Non-metallurgist" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Metallurgy+for+the+Non-metallurgist+Arthur+C.+Reardon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Metallurgy for the Non-metallurgist">Metallurgy for the Non-metallurgist</a>
+        </h4>
+        <p class="fr-book-author">By Arthur C. Reardon</p>
         
-<p class="fr-book-desc">Directly addresses traceability, calibration and defensible measurements.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Measurement+Uncertainty+by+Ronald+H.+Dieck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides context for laboratory examination of metal fragments.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Metallurgy+for+the+Non-metallurgist+Arthur+C.+Reardon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Statistics+for+Experimenters+by+George+E.+P.+Box&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Statistics for Experimenters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bZ9bEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Statistics for Experimenters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Statistics+for+Experimenters+by+George+E.+P.+Box&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Statistics for Experimenters">Statistics for Experimenters</a>
-</h4>
-<p class="fr-book-author">By George E. P. Box, J. Stuart Hunter et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Measurement+Uncertainty+Ronald+H.+Dieck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Measurement Uncertainty on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FXFYAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Measurement Uncertainty" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Measurement+Uncertainty+Ronald+H.+Dieck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Measurement Uncertainty">Measurement Uncertainty</a>
+        </h4>
+        <p class="fr-book-author">By Ronald H. Dieck</p>
         
-<p class="fr-book-desc">Supports validation and interpretation of laboratory results.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Statistics+for+Experimenters+by+George+E.+P.+Box&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses traceability, calibration and defensible measurements.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Measurement+Uncertainty+Ronald+H.+Dieck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Metallurgy+for+the+Non-metallurgist+by+Arthur+C.+Reardon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Metallurgy for the Non-metallurgist on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XdxkxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Metallurgy for the Non-metallurgist" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Metallurgy+for+the+Non-metallurgist+by+Arthur+C.+Reardon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Metallurgy for the Non-metallurgist">Metallurgy for the Non-metallurgist</a>
-</h4>
-<p class="fr-book-author">By Arthur C. Reardon</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Statistics+for+Experimenters+George+E.+P.+Box&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Statistics for Experimenters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bZ9bEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Statistics for Experimenters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Statistics+for+Experimenters+George+E.+P.+Box&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Statistics for Experimenters">Statistics for Experimenters</a>
+        </h4>
+        <p class="fr-book-author">By George E. P. Box, J. Stuart Hunter et al.</p>
         
-<p class="fr-book-desc">Provides context for laboratory examination of metal fragments.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Metallurgy+for+the+Non-metallurgist+by+Arthur+C.+Reardon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Supports validation and interpretation of laboratory results.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Statistics+for+Experimenters+George+E.+P.+Box&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Measurement+Uncertainty%3A+Methods+and+Applications+Ronald+H.+Dieck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Measurement Uncertainty: Methods and Applications on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Measurement+Uncertainty%3A+Methods+and+Applications+Ronald+H.+Dieck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Measurement Uncertainty: Methods and Applications">Measurement Uncertainty: Methods and Applications</a>
-</h4>
-<p class="fr-book-author">By Ronald H. Dieck</p>
-        
-<p class="fr-book-desc">Directly addresses traceability, calibration and defensible measurements.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Measurement+Uncertainty%3A+Methods+and+Applications+Ronald+H.+Dieck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Measurement+Uncertainty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Measurement Uncertainty</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Statistics+for+Experimenters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Statistics for Experimenters</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Metallurgy+for+the+Non+metallurgist&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Metallurgy for the Non metallurgist</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Metallurgy+for+the+Non+metallurgist&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Metallurgy for the Non metallurgist</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Measurement+Uncertainty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Measurement Uncertainty</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Statistics+for+Experimenters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Statistics for Experimenters</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

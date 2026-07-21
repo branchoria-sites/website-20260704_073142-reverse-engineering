@@ -372,89 +372,89 @@ For analysts reverse engineering foreign military technology, that lesson is mor
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to What blasts do inside metal fragments. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What blasts do inside metal fragments. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mechanical+Metallurgy+by+George+Dieter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mechanical Metallurgy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h5dRAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mechanical Metallurgy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Mechanical+Metallurgy+by+George+Dieter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mechanical Metallurgy">Mechanical Metallurgy</a>
-</h4>
-<p class="fr-book-author">By George Dieter, George Ellwood Dieter</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Metallurgy+for+the+Non-metallurgist+Arthur+C.+Reardon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Metallurgy for the Non-metallurgist on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XdxkxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Metallurgy for the Non-metallurgist" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Metallurgy+for+the+Non-metallurgist+Arthur+C.+Reardon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Metallurgy for the Non-metallurgist">Metallurgy for the Non-metallurgist</a>
+        </h4>
+        <p class="fr-book-author">By Arthur C. Reardon</p>
         
-<p class="fr-book-desc">Explains plastic deformation, hardening and material response to stress.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Mechanical+Metallurgy+by+George+Dieter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides practical background for reading damage signatures in fragments.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Metallurgy+for+the+Non-metallurgist+Arthur+C.+Reardon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Metallurgy+for+the+Non-metallurgist+by+Arthur+C.+Reardon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Metallurgy for the Non-metallurgist on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XdxkxgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Metallurgy for the Non-metallurgist" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Metallurgy+for+the+Non-metallurgist+by+Arthur+C.+Reardon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Metallurgy for the Non-metallurgist">Metallurgy for the Non-metallurgist</a>
-</h4>
-<p class="fr-book-author">By Arthur C. Reardon</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mechanical+Metallurgy+George+Dieter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mechanical Metallurgy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h5dRAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mechanical Metallurgy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Mechanical+Metallurgy+George+Dieter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mechanical Metallurgy">Mechanical Metallurgy</a>
+        </h4>
+        <p class="fr-book-author">By George Dieter, George Ellwood Dieter</p>
         
-<p class="fr-book-desc">Provides practical background for reading damage signatures in fragments.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Metallurgy+for+the+Non-metallurgist+by+Arthur+C.+Reardon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains plastic deformation, hardening and material response to stress.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Mechanical+Metallurgy+George+Dieter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Failure+Analysis+of+Engineering+Materials+by+Charles+R.+Brooks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Failure Analysis of Engineering Materials on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3c_R6mobsHoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Failure Analysis of Engineering Materials" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Failure+Analysis+of+Engineering+Materials+by+Charles+R.+Brooks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Failure Analysis of Engineering Materials">Failure Analysis of Engineering Materials</a>
-</h4>
-<p class="fr-book-author">By Charles R. Brooks, Ashok Choudhury</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Failure+Analysis+of+Engineering+Materials+Charles+R.+Brooks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Failure Analysis of Engineering Materials on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3c_R6mobsHoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Failure Analysis of Engineering Materials" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Failure+Analysis+of+Engineering+Materials+Charles+R.+Brooks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Failure Analysis of Engineering Materials">Failure Analysis of Engineering Materials</a>
+        </h4>
+        <p class="fr-book-author">By Charles R. Brooks, Ashok Choudhury</p>
         
-<p class="fr-book-desc">Helps interpret deformation, overload and fracture evidence.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Failure+Analysis+of+Engineering+Materials+by+Charles+R.+Brooks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps interpret deformation, overload and fracture evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Failure+Analysis+of+Engineering+Materials+Charles+R.+Brooks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deformation+and+Fracture+Mechanics+of+Engineering+Materials+by+Richard+W.+Hertzberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deformation and Fracture Mechanics of Engineering Materials on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=43ntDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deformation and Fracture Mechanics of Engineering Materials" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Deformation+and+Fracture+Mechanics+of+Engineering+Materials+by+Richard+W.+Hertzberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deformation and Fracture Mechanics of Engineering Materials">Deformation and Fracture Mechanics of Engineering Materials</a>
-</h4>
-<p class="fr-book-author">By Richard W. Hertzberg, Richard P. Vinci et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deformation+and+Fracture+Mechanics+of+Engineering+Materials+Richard+W.+Hertzberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deformation and Fracture Mechanics of Engineering Materials on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=43ntDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deformation and Fracture Mechanics of Engineering Materials" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Deformation+and+Fracture+Mechanics+of+Engineering+Materials+Richard+W.+Hertzberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deformation and Fracture Mechanics of Engineering Materials">Deformation and Fracture Mechanics of Engineering Materials</a>
+        </h4>
+        <p class="fr-book-author">By Richard W. Hertzberg, Richard P. Vinci et al.</p>
         
-<p class="fr-book-desc">Directly addresses deformation and fracture processes.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Deformation+and+Fracture+Mechanics+of+Engineering+Materials+by+Richard+W.+Hertzberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses deformation and fracture processes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Deformation+and+Fracture+Mechanics+of+Engineering+Materials+Richard+W.+Hertzberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mechanical+Metallurgy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mechanical Metallurgy</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Metallurgy+for+the+Non+metallurgist&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Metallurgy for the Non metallurgist</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Failure+Analysis+of+Engineering+Materials&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Failure Analysis of Engineering Materials</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Metallurgy+for+the+Non+metallurgist&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Metallurgy for the Non metallurgist</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mechanical+Metallurgy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mechanical Metallurgy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Failure+Analysis+of+Engineering+Materials&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Failure Analysis of Engineering Materials</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
