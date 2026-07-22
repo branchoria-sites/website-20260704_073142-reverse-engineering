@@ -399,7 +399,7 @@ In practice, this means that [reverse engineering foreign military technology]({
           <a href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
         </h4>
         <p class="fr-book-author">By Paul Scharre</p>
-        
+
         <p class="fr-book-desc">Addresses drones and autonomous technologies central to modern threat ranges.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Army+of+None+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -416,27 +416,10 @@ In practice, this means that [reverse engineering foreign military technology]({
           <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
         </h4>
         <p class="fr-book-author">By Christian Brose</p>
-        
+
         <p class="fr-book-desc">Focuses on sensor networks, targeting, and evolving battlefield realities.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Likewar+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Likewar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=URFxDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Likewar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Likewar+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Likewar">Likewar</a>
-        </h4>
-        <p class="fr-book-author">By Peter Warren Singer, Emerson T. Brooking</p>
-        
-        <p class="fr-book-desc">Explores information environments that increasingly shape military training realism.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Likewar+Peter+Warren+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -450,7 +433,7 @@ In practice, this means that [reverse engineering foreign military technology]({
           <a href="https://www.amazon.com/s?k=Electronic+Warfare+in+the+Information+Age+D.+Curtis+Schleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Electronic Warfare in the Information Age">Electronic Warfare in the Information Age</a>
         </h4>
         <p class="fr-book-author">By D. Curtis Schleher</p>
-        
+
         <p class="fr-book-desc">Directly covers electronic threats that modern ranges must reproduce.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Electronic+Warfare+in+the+Information+Age+D.+Curtis+Schleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -459,9 +442,26 @@ In practice, this means that [reverse engineering foreign military technology]({
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+Fleet+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost Fleet on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7Pu7DQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost Fleet" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ghost+Fleet+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Fleet">Ghost Fleet</a>
+        </h4>
+        <p class="fr-book-author">By P.W. Singer, August Cole</p>
+
+        <p class="fr-book-desc">Illustrates electronic warfare, drones, and networked conflict concepts.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ghost+Fleet+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Likewar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Likewar</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Electronic+Warfare+in+the+Information+Age&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Electronic Warfare in the Information Age</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

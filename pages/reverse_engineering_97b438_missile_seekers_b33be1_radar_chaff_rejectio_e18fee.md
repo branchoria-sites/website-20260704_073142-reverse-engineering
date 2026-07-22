@@ -428,7 +428,7 @@ The central lesson is that modern radar seekers increasingly treat chaff as a hy
           <a href="https://www.amazon.com/s?k=Introduction+to+Airborne+Radar+George+W.+Stimson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Airborne Radar">Introduction to Airborne Radar</a>
         </h4>
         <p class="fr-book-author">By George W. Stimson</p>
-        
+
         <p class="fr-book-desc">Covers radar returns, tracking and clutter concepts behind chaff rejection.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+Airborne+Radar+George+W.+Stimson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -445,7 +445,7 @@ The central lesson is that modern radar seekers increasingly treat chaff as a hy
           <a href="https://www.amazon.com/s?k=Tactical+Missile+Design+Eugene+L.+Fleeman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tactical Missile Design">Tactical Missile Design</a>
         </h4>
         <p class="fr-book-author">By Eugene L. Fleeman</p>
-        
+
         <p class="fr-book-desc">Frames chaff rejection as part of missile seeker and terminal engagement design.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Tactical+Missile+Design+Eugene+L.+Fleeman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -456,16 +456,16 @@ The central lesson is that modern radar seekers increasingly treat chaff as a hy
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Radar+Handbook%2C+Third+Edition+Merrill+I+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Radar Handbook, Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QzPHwAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Radar Handbook, Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Electronic+Warfare+and+Radar+Systems+Engineering+Handbook+Scott+O%27Neill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Electronic Warfare and Radar Systems Engineering Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qWwEngEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Electronic Warfare and Radar Systems Engineering Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Radar+Handbook%2C+Third+Edition+Merrill+I+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Radar Handbook, Third Edition">Radar Handbook, Third Edition</a>
+          <a href="https://www.amazon.com/s?k=Electronic+Warfare+and+Radar+Systems+Engineering+Handbook+Scott+O%27Neill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Electronic Warfare and Radar Systems Engineering Handbook">Electronic Warfare and Radar Systems Engineering Handbook</a>
         </h4>
-        <p class="fr-book-author">By Merrill I Skolnik</p>
-        
-        <p class="fr-book-desc">Provides deep radar background for understanding discrimination, Doppler and target tracking.</p>
+        <p class="fr-book-author">By Scott O&#x27;Neill, Naval Air Wafare Center Weapons Dvn et al.</p>
+
+        <p class="fr-book-desc">Includes applied radar and EW concepts relevant to chaff, jamming and counter-countermeasures.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Radar+Handbook%2C+Third+Edition+Merrill+I+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Electronic+Warfare+and+Radar+Systems+Engineering+Handbook+Scott+O%27Neill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -473,16 +473,16 @@ The central lesson is that modern radar seekers increasingly treat chaff as a hy
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=EW+101+David+Adamy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open EW 101 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Radar+Handbook+Merrill+I.+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Radar Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=EW+101+David+Adamy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="EW 101">EW 101</a>
+          <a href="https://www.amazon.com/s?k=Radar+Handbook+Merrill+I.+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Radar Handbook">Radar Handbook</a>
         </h4>
-        <p class="fr-book-author">By David Adamy</p>
-        
-        <p class="fr-book-desc">Explains radar countermeasures, deception and the logic of threat-system response.</p>
+        <p class="fr-book-author">By Merrill I. Skolnik</p>
+
+        <p class="fr-book-desc">Provides deep radar background for understanding discrimination, Doppler and target tracking.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=EW+101+David+Adamy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Radar+Handbook+Merrill+I.+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -490,7 +490,7 @@ The central lesson is that modern radar seekers increasingly treat chaff as a hy
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Airborne+Radar+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Airborne Radar books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tactical+Missile+Design&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tactical Missile Design</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Radar+%2C+Third+Edition+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Radar , Third Edition books</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Airborne+Radar+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Airborne Radar books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tactical+Missile+Design&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tactical Missile Design</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Electronic+Warfare+and+Radar+Systems+Engineering+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Electronic Warfare and Radar Systems Engineering books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

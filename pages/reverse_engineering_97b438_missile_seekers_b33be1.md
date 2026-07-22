@@ -578,7 +578,7 @@ The strongest evidence points to a constant contest rather than a permanent solu
           <a href="https://www.amazon.com/s?k=Tactical+Missile+Design+Eugene+L.+Fleeman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tactical Missile Design">Tactical Missile Design</a>
         </h4>
         <p class="fr-book-author">By Eugene L. Fleeman</p>
-        
+
         <p class="fr-book-desc">Covers missile architecture, guidance, seekers, propulsion and performance tradeoffs relevant to understanding seeker exploitation at a s...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Tactical+Missile+Design+Eugene+L.+Fleeman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -595,7 +595,7 @@ The strongest evidence points to a constant contest rather than a permanent solu
           <a href="https://www.amazon.com/s?k=Introduction+to+Airborne+Radar+George+W.+Stimson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Airborne Radar">Introduction to Airborne Radar</a>
         </h4>
         <p class="fr-book-author">By George W. Stimson</p>
-        
+
         <p class="fr-book-desc">Gives accessible grounding in radar principles needed to understand radar-guided seekers.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Introduction+to+Airborne+Radar+George+W.+Stimson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -612,7 +612,7 @@ The strongest evidence points to a constant contest rather than a permanent solu
           <a href="https://www.amazon.com/s?k=Missile+Guidance+and+Control+Systems+George+M.+Siouris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missile Guidance and Control Systems">Missile Guidance and Control Systems</a>
         </h4>
         <p class="fr-book-author">By George M. Siouris</p>
-        
+
         <p class="fr-book-desc">Explains the guidance and control context in which radar and infrared seekers operate.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Missile+Guidance+and+Control+Systems+George+M.+Siouris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -623,16 +623,16 @@ The strongest evidence points to a constant contest rather than a permanent solu
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=EW+101+David+Adamy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open EW 101 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Radar+Handbook+Merrill+I.+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Radar Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=EW+101+David+Adamy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="EW 101">EW 101</a>
+          <a href="https://www.amazon.com/s?k=Radar+Handbook+Merrill+I.+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Radar Handbook">Radar Handbook</a>
         </h4>
-        <p class="fr-book-author">By David Adamy</p>
-        
-        <p class="fr-book-desc">Introduces jamming, detection, countermeasures and threat-system thinking around seeker behaviour.</p>
+        <p class="fr-book-author">By Merrill I. Skolnik</p>
+
+        <p class="fr-book-desc">Provides authoritative radar fundamentals behind radar seekers, tracking and countermeasure analysis.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=EW+101+David+Adamy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Radar+Handbook+Merrill+I.+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

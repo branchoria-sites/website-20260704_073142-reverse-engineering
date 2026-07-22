@@ -375,7 +375,7 @@ For organisations training against foreign military technology, replicas turn a 
           <a href="https://www.amazon.com/s?k=Military+Misfortunes+Eliot+A.+Cohen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Military Misfortunes">Military Misfortunes</a>
         </h4>
         <p class="fr-book-author">By Eliot A. Cohen, John Gooch</p>
-        
+
         <p class="fr-book-desc">Addresses organizational choices between realism, resources, and effectiveness.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Military+Misfortunes+Eliot+A.+Cohen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,10 +392,27 @@ For organisations training against foreign military technology, replicas turn a 
           <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kill Chain">The Kill Chain</a>
         </h4>
         <p class="fr-book-author">By Christian Brose</p>
-        
+
         <p class="fr-book-desc">Discusses translating technical understanding into scalable military capability.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Kill+Chain+Christian+Brose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Team+of+Teams+Stanley+McChrystal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Team of Teams on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iszxDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Team of Teams" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Team+of+Teams+Stanley+McChrystal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Team of Teams">Team of Teams</a>
+        </h4>
+        <p class="fr-book-author">By Stanley McChrystal, Tantum Collins et al.</p>
+
+        <p class="fr-book-desc">Useful for understanding how lessons from limited assets can scale across organizations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Team+of+Teams+Stanley+McChrystal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -409,7 +426,7 @@ For organisations training against foreign military technology, replicas turn a 
           <a href="https://www.amazon.com/s?k=Ghost+Fleet+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Fleet">Ghost Fleet</a>
         </h4>
         <p class="fr-book-author">By P.W. Singer, August Cole</p>
-        
+
         <p class="fr-book-desc">Illustrates realistic simulation and threat representation concepts.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghost+Fleet+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,26 +435,9 @@ For organisations training against foreign military technology, replicas turn a 
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Military+Adaptation+in+War+Williamson+Murray&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Military Adaptation in War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VnwbwaxH41sC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Military Adaptation in War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Military+Adaptation+in+War+Williamson+Murray&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Military Adaptation in War">Military Adaptation in War</a>
-        </h4>
-        <p class="fr-book-author">By Williamson Murray</p>
-        
-        <p class="fr-book-desc">Explains how militaries convert limited observations into broad training systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Military+Adaptation+in+War+Williamson+Murray&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Military+Misfortunes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Military Misfortunes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+Fleet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost Fleet</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Military+Misfortunes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Military Misfortunes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kill+Chain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kill Chain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Team+of+Teams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Team of Teams</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

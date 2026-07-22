@@ -565,7 +565,7 @@ The lasting lesson is not that imported experts can replace domestic research. A
           <a href="https://www.amazon.com/s?k=Project+Paperclip+Clarence+G.+Lasby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Paperclip">Project Paperclip</a>
         </h4>
         <p class="fr-book-author">By Clarence G. Lasby</p>
-        
+
         <p class="fr-book-desc">Comprehensive narrative of Paperclip, its goals and controversies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Project+Paperclip+Clarence+G.+Lasby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -576,16 +576,16 @@ The lasting lesson is not that imported experts can replace domestic research. A
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Operation+Paperclip+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Operation Paperclip on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=moNfEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Operation Paperclip" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+          <a href="https://www.amazon.com/s?k=Operation+Paperclip+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation Paperclip">Operation Paperclip</a>
         </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-        
-        <p class="fr-book-desc">Explains how advanced aerospace systems are evaluated, developed and understood in competitive military environments.</p>
+        <p class="fr-book-author">By Annie Jacobsen</p>
+
+        <p class="fr-book-desc">Covers administration, recruitment and strategic motivations.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Operation+Paperclip+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -599,7 +599,7 @@ The lasting lesson is not that imported experts can replace domestic research. A
           <a href="https://www.amazon.com/s?k=Von+Braun+Michael+J.+Neufeld&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Von Braun">Von Braun</a>
         </h4>
         <p class="fr-book-author">By Michael J. Neufeld</p>
-        
+
         <p class="fr-book-desc">Explores technical achievements and ethical questions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Von+Braun+Michael+J.+Neufeld&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -616,7 +616,7 @@ The lasting lesson is not that imported experts can replace domestic research. A
           <a href="https://www.amazon.com/s?k=Rocket+Boys+Homer+H.+Hickam&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocket Boys">Rocket Boys</a>
         </h4>
         <p class="fr-book-author">By Homer H. Hickam</p>
-        
+
         <p class="fr-book-desc">Connects readers to the American rocket culture influenced by postwar developments.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Rocket+Boys+Homer+H.+Hickam&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -627,7 +627,7 @@ The lasting lesson is not that imported experts can replace domestic research. A
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Paperclip&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Paperclip</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Von+Braun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Von Braun</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Paperclip&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Paperclip</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Operation+Paperclip&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Operation Paperclip</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Von+Braun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Von Braun</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

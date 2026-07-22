@@ -382,7 +382,7 @@ Captured wreckage could answer questions about construction and performance. Def
           <a href="https://www.amazon.com/s?k=Red+Eagles+Steve+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Red Eagles">Red Eagles</a>
         </h4>
         <p class="fr-book-author">By Steve Davies</p>
-        
+
         <p class="fr-book-desc">Demonstrates how pilot knowledge enhanced technical evaluation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Red+Eagles+Steve+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ Captured wreckage could answer questions about construction and performance. Def
           <a href="https://www.amazon.com/s?k=MiG+Pilot+John+Barron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="MiG Pilot">MiG Pilot</a>
         </h4>
         <p class="fr-book-author">By John Barron</p>
-        
+
         <p class="fr-book-desc">Shows the value of operator insight beyond hardware examination.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=MiG+Pilot+John+Barron&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,16 +410,16 @@ Captured wreckage could answer questions about construction and performance. Def
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Intelligence+Henry+A.+Crumpton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bJ2JDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Boyd+Robert+Coram&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Boyd on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wWHIpt3EowQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Boyd" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Intelligence+Henry+A.+Crumpton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Intelligence">The Art of Intelligence</a>
+          <a href="https://www.amazon.com/s?k=Boyd+Robert+Coram&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Boyd">Boyd</a>
         </h4>
-        <p class="fr-book-author">By Henry A. Crumpton</p>
-        
-        <p class="fr-book-desc">Discusses the human dimension of intelligence gathering and analysis.</p>
+        <p class="fr-book-author">By Robert Coram</p>
+
+        <p class="fr-book-desc">Highlights how pilots interpret and exploit aircraft performance.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Intelligence+Henry+A.+Crumpton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Boyd+Robert+Coram&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -433,7 +433,7 @@ Captured wreckage could answer questions about construction and performance. Def
           <a href="https://www.amazon.com/s?k=Spycraft+Robert+Wallace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spycraft">Spycraft</a>
         </h4>
         <p class="fr-book-author">By Robert Wallace</p>
-        
+
         <p class="fr-book-desc">Explains extracting knowledge from human sources.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Spycraft+Robert+Wallace&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -444,7 +444,7 @@ Captured wreckage could answer questions about construction and performance. Def
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Red+Eagles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Red Eagles</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=MiG+Pilot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">MiG Pilot</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Intelligence</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Red+Eagles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Red Eagles</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=MiG+Pilot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">MiG Pilot</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Boyd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Boyd</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

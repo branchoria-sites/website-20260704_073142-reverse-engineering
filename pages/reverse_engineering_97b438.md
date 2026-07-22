@@ -559,16 +559,16 @@ The enduring lesson is sober rather than sensational. Foreign military technolog
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Boyd+Robert+Coram&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Boyd on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wWHIpt3EowQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Boyd" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Boyd+Robert+Coram&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Boyd">Boyd</a>
+          <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
         </h4>
-        <p class="fr-book-author">By Robert Coram</p>
-        
-        <p class="fr-book-desc">Focuses on understanding adversary systems and turning technical knowledge into operational advantage.</p>
+        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+
+        <p class="fr-book-desc">Explains how advanced aerospace systems are evaluated, developed and understood in competitive military environments.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Boyd+Robert+Coram&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -576,16 +576,16 @@ The enduring lesson is sober rather than sensational. Foreign military technolog
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain%3A+An+Uncensored+History+of+DARPA%2C+America%27s+Top-Secret+Military+Research+Agency+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain: An Uncensored History of DARPA, America&#x27;s Top-Secret Military Research Agency on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8402971-M.jpg" alt="Cover for The Pentagon&#x27;s Brain: An Uncensored History of DARPA, America&#x27;s Top-Secret Military Research Agency" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
+          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain%3A+An+Uncensored+History+of+DARPA%2C+America%27s+Top-Secret+Military+Research+Agency+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain: An Uncensored History of DARPA, America&#x27;s Top-Secret Military Research Agency">The Pentagon&#x27;s Brain: An Uncensored History of DARPA, America...</a>
         </h4>
         <p class="fr-book-author">By Annie Jacobsen</p>
-        
+
         <p class="fr-book-desc">Provides context on how governments exploit technology and intelligence for defense purposes.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain%3A+An+Uncensored+History+of+DARPA%2C+America%27s+Top-Secret+Military+Research+Agency+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -599,7 +599,7 @@ The enduring lesson is sober rather than sensational. Foreign military technolog
           <a href="https://www.amazon.com/s?k=The+Craft+of+Intelligence+Allen+Dulles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Craft of Intelligence">The Craft of Intelligence</a>
         </h4>
         <p class="fr-book-author">By Allen Dulles</p>
-        
+
         <p class="fr-book-desc">Helps readers understand how intelligence organizations turn information into actionable knowledge.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Craft+of+Intelligence+Allen+Dulles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -616,7 +616,7 @@ The enduring lesson is sober rather than sensational. Foreign military technolog
           <a href="https://www.amazon.com/s?k=Spycraft+Robert+Wallace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spycraft">Spycraft</a>
         </h4>
         <p class="fr-book-author">By Robert Wallace</p>
-        
+
         <p class="fr-book-desc">Covers technical intelligence collection and exploitation methods.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Spycraft+Robert+Wallace&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -627,7 +627,7 @@ The enduring lesson is sober rather than sensational. Foreign military technolog
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Boyd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Boyd</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Craft+of+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Craft of Intelligence</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain%3A+An+Uncensored+History+of+DARPA%2C+America%27s+Top+Secret+Military+Research+Agency&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pentagon&#x27;s Brain: An Uncensored History of DARPA, America&#x27;s Top Secret Military Research Agency</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Craft+of+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Craft of Intelligence</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

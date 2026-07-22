@@ -392,16 +392,16 @@ That is the practical value of reverse-engineered radar knowledge. Intelligence 
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Electronic+Warfare+Modeling+David+Adamy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Electronic Warfare Modeling on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=pPbJcvdQrpkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Introduction to Electronic Warfare Modeling" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Electronic+Warfare+Modeling+David+Adamy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Electronic Warfare Modeling">Introduction to Electronic Warfare Modeling</a>
+          <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
         </h4>
-        <p class="fr-book-author">By David Adamy</p>
-        
-        <p class="fr-book-desc">Directly addresses radar emissions, signals, and threat simulation.</p>
+        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+
+        <p class="fr-book-desc">Provides practical context for testing and aircraft survivability.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Introduction+to+Electronic+Warfare+Modeling+David+Adamy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Skunk+Works+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -415,7 +415,7 @@ That is the practical value of reverse-engineered radar knowledge. Intelligence 
           <a href="https://www.amazon.com/s?k=Radar+Principles+Nadav+Levanon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Radar Principles">Radar Principles</a>
         </h4>
         <p class="fr-book-author">By Nadav Levanon</p>
-        
+
         <p class="fr-book-desc">Covers the signal characteristics replicated by training emitters.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Radar+Principles+Nadav+Levanon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -432,7 +432,7 @@ That is the practical value of reverse-engineered radar knowledge. Intelligence 
           <a href="https://www.amazon.com/s?k=Boyd+Robert+Coram&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Boyd">Boyd</a>
         </h4>
         <p class="fr-book-author">By Robert Coram</p>
-        
+
         <p class="fr-book-desc">Relevant to pilot decision cycles under threat.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Boyd+Robert+Coram&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -443,16 +443,16 @@ That is the practical value of reverse-engineered radar knowledge. Intelligence 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TnkVBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pentagon&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain%3A+An+Uncensored+History+of+DARPA%2C+America%27s+Top-Secret+Military+Research+Agency+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pentagon&#x27;s Brain: An Uncensored History of DARPA, America&#x27;s Top-Secret Military Research Agency on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8402971-M.jpg" alt="Cover for The Pentagon&#x27;s Brain: An Uncensored History of DARPA, America&#x27;s Top-Secret Military Research Agency" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
+          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain%3A+An+Uncensored+History+of+DARPA%2C+America%27s+Top-Secret+Military+Research+Agency+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain: An Uncensored History of DARPA, America&#x27;s Top-Secret Military Research Agency">The Pentagon&#x27;s Brain: An Uncensored History of DARPA, America...</a>
         </h4>
         <p class="fr-book-author">By Annie Jacobsen</p>
-        
+
         <p class="fr-book-desc">Discusses defense research supporting realistic training systems.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain%3A+An+Uncensored+History+of+DARPA%2C+America%27s+Top-Secret+Military+Research+Agency+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -460,7 +460,7 @@ That is the practical value of reverse-engineered radar knowledge. Intelligence 
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Electronic+Warfare+Modeling+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Electronic Warfare Modeling books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Radar+Principles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Radar Principles</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Boyd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Boyd</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Radar+Principles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Radar Principles</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Boyd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Boyd</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
