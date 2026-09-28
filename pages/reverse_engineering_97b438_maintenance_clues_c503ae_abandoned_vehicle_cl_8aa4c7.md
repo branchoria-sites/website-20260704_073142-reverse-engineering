@@ -804,7 +804,7 @@ The most reliable conclusions emerge when technical examination of the captured 
 4.<a id="endnote-4"></a>
    Source: safety.army.mil  
    Title: mil Untitled  
-   Link:<a href="https://safety.army.mil/Portals/0/[Documents" target="_blank" rel="noopener noreferrer nofollow">https://safety.army.mil/Portals/0/[Documents</a>  
+   Link:<a href="https://safety.army.mil/https://safety.army.mil/" target="_blank" rel="noopener noreferrer nofollow">https://safety.army.mil/https://safety.army.mil/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Army SafetyFailure or malfunction of rotor or prop assembles, hubs, blades, etc. Excludes other power/drive train part failures;. e.g. ge...</p></details>
 
 5.<a id="endnote-5"></a>
