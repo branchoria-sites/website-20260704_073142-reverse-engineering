@@ -851,7 +851,7 @@ In that sense, EOD teams do more than make captured weapons safe. They preserve 
 
 6.<a id="endnote-6"></a>
    Source: safety.army.mil  
-   Link:<a href="https://safety.army.mil/https://safety.army.mil/" target="_blank" rel="noopener noreferrer nofollow">https://safety.army.mil/https://safety.army.mil/</a>  
+   Link:<a href="https://safety.army.mil/" target="_blank" rel="noopener noreferrer nofollow">https://safety.army.mil/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>army.mil[PDF] U.S. ARMY EXPLOSIVES SAFETY HANDBOOKTheir responsibilities include protecting personnel and property from the potentially h...</p></details>
 
 7.<a id="endnote-7"></a>

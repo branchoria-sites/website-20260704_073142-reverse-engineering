@@ -787,7 +787,7 @@ Reverse engineering can uncover dimensions, [materials]({{ 'materials/' | relati
 4.<a id="endnote-4"></a>
    Source: safety.army.mil  
    Title: This inspection is  
-   Link:<a href="https://safety.army.mil/https://safety.army.mil/" target="_blank" rel="noopener noreferrer nofollow">https://safety.army.mil/https://safety.army.mil/</a>  
+   Link:<a href="https://safety.army.mil/" target="_blank" rel="noopener noreferrer nofollow">https://safety.army.mil/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Ammunition Surveillance Procedures - Army SafetyDecember 5, 2016 — 22 Nov 2016 — Large rocket and guided missile inspection, m...</p></details>
    Published: December 5, 2016  
 
