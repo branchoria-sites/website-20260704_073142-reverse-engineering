@@ -7,7 +7,8 @@ nav_short_title: Sub-Topic Index
 permalink: /reverse-engineering-97b438-industrial/
 description: Focused pages that expand on Industrial Learning From Captured Weapon
   Design.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: reverse_engineering_97b438_industrial_learning_1fb526
 parent_title: Industrial Learning From Captured Weapon Design

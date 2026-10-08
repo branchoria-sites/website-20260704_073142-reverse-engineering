@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /reverse-engineering-97b438-missile/
 description: Focused pages that expand on Supply Chains.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: reverse_engineering_97b438_missile_drone_supply_d38175
 parent_title: Supply Chains

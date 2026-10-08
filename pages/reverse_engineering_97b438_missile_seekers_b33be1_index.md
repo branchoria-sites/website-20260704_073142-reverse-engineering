@@ -6,7 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /reverse-engineering-97b438-missile/
 description: Focused pages that expand on Missile Seekers.
-date: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: reverse_engineering_97b438_missile_seekers_b33be1
 parent_title: Missile Seekers
