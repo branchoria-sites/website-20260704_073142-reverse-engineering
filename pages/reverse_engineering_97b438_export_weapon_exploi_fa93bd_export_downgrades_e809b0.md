@@ -266,6 +266,7 @@ next_link:
   short_title: Iran F 14
   heading_title: When An Export Fighter Outlives An Alliance
 date: '2026-07-04 07:23:19 '
+last_modified_at: '2026-07-04 07:23:19 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_export_weapon_exploi_fa93bd_export_downgrades_e809b0-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_export_weapon_exploi_fa93bd_export_downgrades_e809b0-Illustration-1.webp

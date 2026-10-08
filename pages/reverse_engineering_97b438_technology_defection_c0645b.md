@@ -440,6 +440,7 @@ next_link:
   short_title: Docs vs Hardware
   heading_title: Paper Plans or Real Machines?
 date: '2026-07-04 07:22:12 '
+last_modified_at: '2026-07-04 07:22:12 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_technology_defection_c0645b-overview-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_technology_defection_c0645b-overview.webp

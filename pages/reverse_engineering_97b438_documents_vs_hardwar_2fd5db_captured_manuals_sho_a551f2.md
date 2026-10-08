@@ -266,6 +266,7 @@ prev_link:
   short_title: Missile Debris
   heading_title: What Missile Debris Says About Supply Chains
 date: '2026-07-04 07:24:48 '
+last_modified_at: '2026-07-04 07:24:48 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_documents_vs_hardwar_2fd5db_captured_manuals_sho_a551f2-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_documents_vs_hardwar_2fd5db_captured_manuals_sho_a551f2-Illustration-1.webp

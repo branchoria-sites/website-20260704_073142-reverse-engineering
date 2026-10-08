@@ -266,6 +266,7 @@ next_link:
   short_title: Mi G 15 Escape
   heading_title: The Mi G 15 That Arrived After the War
 date: '2026-07-04 07:25:23 '
+last_modified_at: '2026-07-04 07:25:23 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_technology_defection_c0645b_defection_rewards_as_e1fe8c-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_technology_defection_c0645b_defection_rewards_as_e1fe8c-Illustration-1.webp

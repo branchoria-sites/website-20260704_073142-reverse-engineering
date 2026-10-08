@@ -440,6 +440,7 @@ next_link:
   short_title: Firmware
   heading_title: The Software Hidden Inside Weapons
 date: '2026-07-04 07:22:06 '
+last_modified_at: '2026-07-04 07:22:06 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_export_weapon_exploi_fa93bd-overview-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_export_weapon_exploi_fa93bd-overview.webp

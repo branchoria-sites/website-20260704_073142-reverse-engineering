@@ -272,6 +272,7 @@ next_link:
   short_title: Mi G 15 Recovery
   heading_title: How a salvaged Mi G 15 became an intelligence prize
 date: '2026-07-04 07:23:47 '
+last_modified_at: '2026-07-04 07:23:47 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_cold_war_technology_a9e4cf_hardware_as_evidence_80454c-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_cold_war_technology_a9e4cf_hardware_as_evidence_80454c-Illustration-1.webp

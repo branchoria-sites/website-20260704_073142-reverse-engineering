@@ -272,6 +272,7 @@ next_link:
   short_title: Radfa Flight
   heading_title: How Israel Got a Mi G 21 to Test
 date: '2026-07-04 07:25:25 '
+last_modified_at: '2026-07-04 07:25:25 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_technology_defection_c0645b_pilot_knowledge_vs_w_b75c75-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_technology_defection_c0645b_pilot_knowledge_vs_w_b75c75-Illustration-1.webp

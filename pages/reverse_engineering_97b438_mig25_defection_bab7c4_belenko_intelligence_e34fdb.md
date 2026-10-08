@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-03 23:47:37'
+last_modified_at: '2026-07-03 23:47:37'
 parent_title: What the Mi G 25 Really Revealed
 parent_permalink: /mi-g-25/
 parent_nav_short_title: Mi G 25

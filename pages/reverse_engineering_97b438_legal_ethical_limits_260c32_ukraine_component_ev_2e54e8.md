@@ -266,6 +266,7 @@ next_link:
   short_title: Custody Trail
   heading_title: Captured Weapons Are Evidence Too
 date: '2026-07-04 07:25:11 '
+last_modified_at: '2026-07-04 07:25:11 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_legal_ethical_limits_260c32_ukraine_component_ev_2e54e8-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_legal_ethical_limits_260c32_ukraine_component_ev_2e54e8-Illustration-1.webp

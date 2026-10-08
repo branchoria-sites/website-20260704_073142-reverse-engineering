@@ -272,6 +272,7 @@ next_link:
   short_title: Mi G 25 Shock
   heading_title: The Foxbat That Changed Western Assumptions
 date: '2026-07-04 07:25:24 '
+last_modified_at: '2026-07-04 07:25:24 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_technology_defection_c0645b_mig15_postwar_testin_2dc574-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_technology_defection_c0645b_mig15_postwar_testin_2dc574-Illustration-1.webp

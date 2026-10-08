@@ -272,6 +272,7 @@ next_link:
   short_title: Speed vs Depth
   heading_title: When Fast Warnings Beat Perfect Answers
 date: '2026-07-04 07:25:05 '
+last_modified_at: '2026-07-04 07:25:05 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_ground_materiel_forc_2d8145_real_threat_materiel_bf96d8-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_ground_materiel_forc_2d8145_real_threat_materiel_bf96d8-Illustration-1.webp

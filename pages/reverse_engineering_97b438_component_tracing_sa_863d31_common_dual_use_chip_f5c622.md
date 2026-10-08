@@ -266,6 +266,7 @@ next_link:
   short_title: Company Risk
   heading_title: When a Logo in a Weapon Is Not Enough
 date: '2026-07-04 07:24:38 '
+last_modified_at: '2026-07-04 07:24:38 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_component_tracing_sa_863d31_common_dual_use_chip_f5c622-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_component_tracing_sa_863d31_common_dual_use_chip_f5c622-Illustration-1.webp

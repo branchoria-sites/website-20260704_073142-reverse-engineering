@@ -222,6 +222,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-03 23:46:22'
+last_modified_at: '2026-07-03 23:46:22'
 child_links:
 - basename: reverse_engineering_97b438_captured_operational_51d457
   title: Battlefield Intel | Reverse Engineering Foreign Military Technology

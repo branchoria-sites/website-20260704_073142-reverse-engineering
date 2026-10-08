@@ -266,6 +266,7 @@ next_link:
   short_title: IED Warnings
   heading_title: What a Captured IED Can Warn Troops About
 date: '2026-07-04 07:25:02 '
+last_modified_at: '2026-07-04 07:25:02 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_ground_materiel_forc_2d8145_damaged_armour_survi_2173e7-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_ground_materiel_forc_2d8145_damaged_armour_survi_2173e7-Illustration-1.webp

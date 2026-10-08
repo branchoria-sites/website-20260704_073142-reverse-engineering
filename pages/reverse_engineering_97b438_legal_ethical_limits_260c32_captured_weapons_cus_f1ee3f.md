@@ -272,6 +272,7 @@ next_link:
   short_title: Defector Consent
   heading_title: When Defection Brings the Weapon Too
 date: '2026-07-04 07:25:07 '
+last_modified_at: '2026-07-04 07:25:07 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_legal_ethical_limits_260c32_captured_weapons_cus_f1ee3f-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_legal_ethical_limits_260c32_captured_weapons_cus_f1ee3f-Illustration-1.webp

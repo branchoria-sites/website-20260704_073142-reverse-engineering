@@ -266,6 +266,7 @@ next_link:
   short_title: Material Gaps
   heading_title: Why the same alloy is not the same weapon
 date: '2026-07-04 07:22:24 '
+last_modified_at: '2026-07-04 07:22:24 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_hard_to_replicate_459412_beyond_blueprints_5e668d-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_hard_to_replicate_459412_beyond_blueprints_5e668d-Illustration-1.webp

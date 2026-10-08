@@ -266,6 +266,7 @@ next_link:
   short_title: FME Squadron
   heading_title: Inside NASIC's Exploitation Team
 date: '2026-07-04 07:24:09 '
+last_modified_at: '2026-07-04 07:24:09 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_nasic_air_space_fme_e30511_embedded_electronics_52bbae-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_nasic_air_space_fme_e30511_embedded_electronics_52bbae-Illustration-1.webp

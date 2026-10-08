@@ -272,6 +272,7 @@ next_link:
   short_title: SA 2 Clues
   heading_title: Why small SA 2 clues mattered in air combat
 date: '2026-07-04 07:23:49 '
+last_modified_at: '2026-07-04 07:23:49 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_cold_war_technology_a9e4cf_proxy_war_hardware_s_fbe6d6-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_cold_war_technology_a9e4cf_proxy_war_hardware_s_fbe6d6-Illustration-1.webp

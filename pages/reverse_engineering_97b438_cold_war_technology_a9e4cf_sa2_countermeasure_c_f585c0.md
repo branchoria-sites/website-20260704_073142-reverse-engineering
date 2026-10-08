@@ -266,6 +266,7 @@ prev_link:
   short_title: Proxy War Finds
   heading_title: How proxy wars fed the hardware chase
 date: '2026-07-04 07:23:50 '
+last_modified_at: '2026-07-04 07:23:50 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_cold_war_technology_a9e4cf_sa2_countermeasure_c_f585c0-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_cold_war_technology_a9e4cf_sa2_countermeasure_c_f585c0-Illustration-1.webp

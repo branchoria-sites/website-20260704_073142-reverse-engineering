@@ -272,6 +272,7 @@ next_link:
   short_title: German Tanks
   heading_title: When Tank Repair Systems Break Under War
 date: '2026-07-04 07:23:05 '
+last_modified_at: '2026-07-04 07:23:05 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_maintenance_clues_c503ae_field_modifications_e86757-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_maintenance_clues_c503ae_field_modifications_e86757-Illustration-1.webp

@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-03 23:47:31'
+last_modified_at: '2026-07-03 23:47:31'
 parent_title: When Reverse Engineering Needed Engineers
 parent_permalink: /paperclip/
 parent_nav_short_title: Paperclip

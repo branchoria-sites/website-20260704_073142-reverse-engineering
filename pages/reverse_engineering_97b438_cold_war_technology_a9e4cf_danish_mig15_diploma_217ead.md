@@ -266,6 +266,7 @@ next_link:
   short_title: Hardware Evidence
   heading_title: Why real machines beat Cold War rumors
 date: '2026-07-04 07:23:45 '
+last_modified_at: '2026-07-04 07:23:45 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_cold_war_technology_a9e4cf_danish_mig15_diploma_217ead-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_cold_war_technology_a9e4cf_danish_mig15_diploma_217ead-Illustration-1.webp

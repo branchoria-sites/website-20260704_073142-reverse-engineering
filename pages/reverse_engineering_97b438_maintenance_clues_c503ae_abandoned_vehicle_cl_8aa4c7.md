@@ -266,6 +266,7 @@ next_link:
   short_title: Field Mods
   heading_title: When Field Repairs Rewrite the Design
 date: '2026-07-04 07:23:28 '
+last_modified_at: '2026-07-04 07:23:28 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_maintenance_clues_c503ae_abandoned_vehicle_cl_8aa4c7-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_maintenance_clues_c503ae_abandoned_vehicle_cl_8aa4c7-Illustration-1.webp

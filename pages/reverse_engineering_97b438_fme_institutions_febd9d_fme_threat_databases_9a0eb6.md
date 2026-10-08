@@ -266,6 +266,7 @@ prev_link:
   short_title: Permanent Centers
   heading_title: Why Captured Weapons Need Permanent Homes
 date: '2026-07-04 07:23:01 '
+last_modified_at: '2026-07-04 07:23:01 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_fme_institutions_febd9d_fme_threat_databases_9a0eb6-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_fme_institutions_febd9d_fme_threat_databases_9a0eb6-Illustration-1.webp

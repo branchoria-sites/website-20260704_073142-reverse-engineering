@@ -266,6 +266,7 @@ prev_link:
   short_title: Tacit Know How
   heading_title: The invisible know how inside advanced weapons
 date: '2026-07-04 07:23:26 '
+last_modified_at: '2026-07-04 07:23:26 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_hard_to_replicate_459412_weapon_testing_regim_b98090-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_hard_to_replicate_459412_weapon_testing_regim_b98090-Illustration-1.webp

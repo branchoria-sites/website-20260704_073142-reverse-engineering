@@ -272,6 +272,7 @@ next_link:
   short_title: Stop Stripping
   heading_title: When Souvenirs Destroy the Intelligence Story
 date: '2026-07-04 07:24:27 '
+last_modified_at: '2026-07-04 07:24:27 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_battlefield_recovery_773544_field_disassembly_li_e6f8b6-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_battlefield_recovery_773544_field_disassembly_li_e6f8b6-Illustration-1.webp

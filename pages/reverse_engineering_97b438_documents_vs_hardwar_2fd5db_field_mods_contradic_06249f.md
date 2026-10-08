@@ -266,6 +266,7 @@ next_link:
   short_title: LUSTY Papers
   heading_title: Why Captured Jets Needed Paper Trails
 date: '2026-07-04 07:24:49 '
+last_modified_at: '2026-07-04 07:24:49 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_documents_vs_hardwar_2fd5db_field_mods_contradic_06249f-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_documents_vs_hardwar_2fd5db_field_mods_contradic_06249f-Illustration-1.webp

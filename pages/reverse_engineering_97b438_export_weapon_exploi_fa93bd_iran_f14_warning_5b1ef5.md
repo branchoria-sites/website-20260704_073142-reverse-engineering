@@ -272,6 +272,7 @@ next_link:
   short_title: Real Use
   heading_title: What Buyers Reveal By Using Weapons
 date: '2026-07-04 07:22:59 '
+last_modified_at: '2026-07-04 07:22:59 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_export_weapon_exploi_fa93bd_iran_f14_warning_5b1ef5-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_export_weapon_exploi_fa93bd_iran_f14_warning_5b1ef5-Illustration-1.webp

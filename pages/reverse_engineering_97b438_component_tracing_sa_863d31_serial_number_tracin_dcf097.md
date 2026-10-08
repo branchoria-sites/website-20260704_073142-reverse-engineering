@@ -266,6 +266,7 @@ prev_link:
   short_title: Re Exports
   heading_title: How Re Export Chains Keep Parts Moving
 date: '2026-07-04 07:24:41 '
+last_modified_at: '2026-07-04 07:24:41 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_component_tracing_sa_863d31_serial_number_tracin_dcf097-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_component_tracing_sa_863d31_serial_number_tracin_dcf097-Illustration-1.webp

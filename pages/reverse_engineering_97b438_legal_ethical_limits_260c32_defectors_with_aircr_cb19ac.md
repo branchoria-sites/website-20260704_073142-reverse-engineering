@@ -272,6 +272,7 @@ next_link:
   short_title: Looting Line
   heading_title: When Does Capture Become Looting?
 date: '2026-07-04 07:25:08 '
+last_modified_at: '2026-07-04 07:25:08 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_legal_ethical_limits_260c32_defectors_with_aircr_cb19ac-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_legal_ethical_limits_260c32_defectors_with_aircr_cb19ac-Illustration-1.webp
