@@ -221,7 +221,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Captured Weapons Tell Commanders | Reverse Engineering" aria-expanded="false" aria-controls="home-vertical-children-node-reverse-engineering-97b438-captured-operational-51d457"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'battlefield-intel/' | relative_url }}" title="What Captured Weapons Tell Commanders | Reverse Engineering" aria-label="Read more about What Captured Weapons Tell Commanders | Reverse Engineering">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'battlefield-intel/' | relative_url }}" title="What Captured Weapons Tell Commanders | What Captured Weapons Really Reveal" aria-label="Read more about What Captured Weapons Tell Commanders | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -241,7 +241,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-lessons/' | relative_url }}" title="How Captured Radars Change the Fight | Reverse Engineering 97 B438 Captured Operational" aria-label="Read more about How Captured Radars Change the Fight | Reverse Engineering 97 B438 Captured Operational">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-lessons/' | relative_url }}" title="How Captured Radars Change the Fight | What Captured Weapons Tell Commanders | What Captured Weapons Really Reveal" aria-label="Read more about How Captured Radars Change the Fight | What Captured Weapons Tell Commanders | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -261,7 +261,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'missile-seekers-6738fc/' | relative_url }}" title="What a Captured Missile Gives Away | Reverse Engineering 97 B438 Captured Operational" aria-label="Read more about What a Captured Missile Gives Away | Reverse Engineering 97 B438 Captured Operational">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'missile-seekers-6738fc/' | relative_url }}" title="What a Captured Missile Gives Away | What Captured Weapons Tell Commanders | What Captured Weapons Really Reveal" aria-label="Read more about What a Captured Missile Gives Away | What Captured Weapons Tell Commanders | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -281,7 +281,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'drone-parts/' | relative_url }}" title="What Captured Drones Reveal Fast | Reverse Engineering 97 B438 Captured Operational" aria-label="Read more about What Captured Drones Reveal Fast | Reverse Engineering 97 B438 Captured Operational">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'drone-parts/' | relative_url }}" title="What Captured Drones Reveal Fast | What Captured Weapons Tell Commanders | What Captured Weapons Really Reveal" aria-label="Read more about What Captured Drones Reveal Fast | What Captured Weapons Tell Commanders | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -301,7 +301,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'akutan-zero/' | relative_url }}" title="What the Akutan Zero Taught Pilots | Reverse Engineering 97 B438 Captured Operational" aria-label="Read more about What the Akutan Zero Taught Pilots | Reverse Engineering 97 B438 Captured Operational">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'akutan-zero/' | relative_url }}" title="What the Akutan Zero Taught Pilots | What Captured Weapons Tell Commanders | What Captured Weapons Really Reveal" aria-label="Read more about What the Akutan Zero Taught Pilots | What Captured Weapons Tell Commanders | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -321,7 +321,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'constant-peg/' | relative_url }}" title="When Captured Mi Gs Became the Classroom | Reverse Engineering 97 B438 Captured Operational" aria-label="Read more about When Captured Mi Gs Became the Classroom | Reverse Engineering 97 B438 Captured Operational">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'constant-peg/' | relative_url }}" title="When Captured Mi Gs Became the Classroom | What Captured Weapons Tell Commanders | What Captured Weapons Really Reveal" aria-label="Read more about When Captured Mi Gs Became the Classroom | What Captured Weapons Tell Commanders | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -341,7 +341,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'field-exploit/' | relative_url }}" title="Why First Inspection Can Matter Most | Reverse Engineering 97 B438 Captured Operational" aria-label="Read more about Why First Inspection Can Matter Most | Reverse Engineering 97 B438 Captured Operational">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'field-exploit/' | relative_url }}" title="Why First Inspection Can Matter Most | What Captured Weapons Tell Commanders | What Captured Weapons Really Reveal" aria-label="Read more about Why First Inspection Can Matter Most | What Captured Weapons Tell Commanders | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -365,7 +365,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why the Cold War Prized Captured Machines | Reverse Engineering" aria-expanded="false" aria-controls="home-vertical-children-node-reverse-engineering-97b438-cold-war-technology-a9e4cf"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'cold-war-race/' | relative_url }}" title="Why the Cold War Prized Captured Machines | Reverse Engineering" aria-label="Read more about Why the Cold War Prized Captured Machines | Reverse Engineering">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'cold-war-race/' | relative_url }}" title="Why the Cold War Prized Captured Machines | What Captured Weapons Really Reveal" aria-label="Read more about Why the Cold War Prized Captured Machines | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -385,7 +385,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mi-g-25-myths/' | relative_url }}" title="Did the Mi G 25 deserve its terrifying reputation? | Reverse Engineering 97 B438 Cold War Technology" aria-label="Read more about Did the Mi G 25 deserve its terrifying reputation? | Reverse Engineering 97 B438 Cold War Technology">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mi-g-25-myths/' | relative_url }}" title="Did the Mi G 25 deserve its terrifying reputation? | Why the Cold War Prized Captured Machines | What Captured Weapons Really Reveal" aria-label="Read more about Did the Mi G 25 deserve its terrifying reputation? | Why the Cold War Prized Captured Machines | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -405,7 +405,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mi-g-15-recovery/' | relative_url }}" title="How a salvaged Mi G 15 became an intelligence prize | Reverse Engineering 97 B438 Cold War Technology" aria-label="Read more about How a salvaged Mi G 15 became an intelligence prize | Reverse Engineering 97 B438 Cold War Technology">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mi-g-15-recovery/' | relative_url }}" title="How a salvaged Mi G 15 became an intelligence prize | Why the Cold War Prized Captured Machines | What Captured Weapons Really Reveal" aria-label="Read more about How a salvaged Mi G 15 became an intelligence prize | Why the Cold War Prized Captured Machines | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -425,7 +425,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'proxy-war-finds/' | relative_url }}" title="How proxy wars fed the hardware chase | Reverse Engineering 97 B438 Cold War Technology" aria-label="Read more about How proxy wars fed the hardware chase | Reverse Engineering 97 B438 Cold War Technology">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'proxy-war-finds/' | relative_url }}" title="How proxy wars fed the hardware chase | Why the Cold War Prized Captured Machines | What Captured Weapons Really Reveal" aria-label="Read more about How proxy wars fed the hardware chase | Why the Cold War Prized Captured Machines | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -445,7 +445,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'danish-mi-g/' | relative_url }}" title="When a defected Mi G became a diplomatic problem | Reverse Engineering 97 B438 Cold War Technology" aria-label="Read more about When a defected Mi G became a diplomatic problem | Reverse Engineering 97 B438 Cold War Technology">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'danish-mi-g/' | relative_url }}" title="When a defected Mi G became a diplomatic problem | Why the Cold War Prized Captured Machines | What Captured Weapons Really Reveal" aria-label="Read more about When a defected Mi G became a diplomatic problem | Why the Cold War Prized Captured Machines | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -465,7 +465,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hardware-evidence/' | relative_url }}" title="Why real machines beat Cold War rumors | Reverse Engineering 97 B438 Cold War Technology" aria-label="Read more about Why real machines beat Cold War rumors | Reverse Engineering 97 B438 Cold War Technology">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hardware-evidence/' | relative_url }}" title="Why real machines beat Cold War rumors | Why the Cold War Prized Captured Machines | What Captured Weapons Really Reveal" aria-label="Read more about Why real machines beat Cold War rumors | Why the Cold War Prized Captured Machines | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -485,7 +485,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sa-2-clues/' | relative_url }}" title="Why small SA 2 clues mattered in air combat | Reverse Engineering 97 B438 Cold War Technology" aria-label="Read more about Why small SA 2 clues mattered in air combat | Reverse Engineering 97 B438 Cold War Technology">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sa-2-clues/' | relative_url }}" title="Why small SA 2 clues mattered in air combat | Why the Cold War Prized Captured Machines | What Captured Weapons Really Reveal" aria-label="Read more about Why small SA 2 clues mattered in air combat | Why the Cold War Prized Captured Machines | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -509,7 +509,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Countermeasures Need Real Hardware | Reverse Engineering" aria-expanded="false" aria-controls="home-vertical-children-node-reverse-engineering-97b438-countermeasures-from-9e5542"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'countermeasures/' | relative_url }}" title="Why Countermeasures Need Real Hardware | Reverse Engineering" aria-label="Read more about Why Countermeasures Need Real Hardware | Reverse Engineering">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'countermeasures/' | relative_url }}" title="Why Countermeasures Need Real Hardware | What Captured Weapons Really Reveal" aria-label="Read more about Why Countermeasures Need Real Hardware | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -529,7 +529,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'threat-sims/' | relative_url }}" title="Can a simulator stand in for the enemy? | Reverse Engineering 97 B438 Countermeasures From" aria-label="Read more about Can a simulator stand in for the enemy? | Reverse Engineering 97 B438 Countermeasures From">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'threat-sims/' | relative_url }}" title="Can a simulator stand in for the enemy? | Why Countermeasures Need Real Hardware | What Captured Weapons Really Reveal" aria-label="Read more about Can a simulator stand in for the enemy? | Why Countermeasures Need Real Hardware | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -549,7 +549,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'rapid-exploit/' | relative_url }}" title="How captured weapons become urgent protection data | Reverse Engineering 97 B438 Countermeasures From" aria-label="Read more about How captured weapons become urgent protection data | Reverse Engineering 97 B438 Countermeasures From">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'rapid-exploit/' | relative_url }}" title="How captured weapons become urgent protection data | Why Countermeasures Need Real Hardware | What Captured Weapons Really Reveal" aria-label="Read more about How captured weapons become urgent protection data | Why Countermeasures Need Real Hardware | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -569,7 +569,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'alq-144/' | relative_url }}" title="When a good jammer is not enough | Reverse Engineering 97 B438 Countermeasures From" aria-label="Read more about When a good jammer is not enough | Reverse Engineering 97 B438 Countermeasures From">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'alq-144/' | relative_url }}" title="When a good jammer is not enough | Why Countermeasures Need Real Hardware | What Captured Weapons Really Reveal" aria-label="Read more about When a good jammer is not enough | Why Countermeasures Need Real Hardware | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -589,7 +589,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'palladium/' | relative_url }}" title="When fake aircraft tested real radars | Reverse Engineering 97 B438 Countermeasures From" aria-label="Read more about When fake aircraft tested real radars | Reverse Engineering 97 B438 Countermeasures From">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'palladium/' | relative_url }}" title="When fake aircraft tested real radars | Why Countermeasures Need Real Hardware | What Captured Weapons Really Reveal" aria-label="Read more about When fake aircraft tested real radars | Why Countermeasures Need Real Hardware | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -609,7 +609,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'signals/' | relative_url }}" title="Why jammers need the enemy&#x27;s real signal | Reverse Engineering 97 B438 Countermeasures From" aria-label="Read more about Why jammers need the enemy&#x27;s real signal | Reverse Engineering 97 B438 Countermeasures From">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'signals/' | relative_url }}" title="Why jammers need the enemy's real signal | Why Countermeasures Need Real Hardware | What Captured Weapons Really Reveal" aria-label="Read more about Why jammers need the enemy's real signal | Why Countermeasures Need Real Hardware | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -629,7 +629,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'decoys/' | relative_url }}" title="Why some decoys fool sensors and others fail | Reverse Engineering 97 B438 Countermeasures From" aria-label="Read more about Why some decoys fool sensors and others fail | Reverse Engineering 97 B438 Countermeasures From">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'decoys/' | relative_url }}" title="Why some decoys fool sensors and others fail | Why Countermeasures Need Real Hardware | What Captured Weapons Really Reveal" aria-label="Read more about Why some decoys fool sensors and others fail | Why Countermeasures Need Real Hardware | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -653,7 +653,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: When Defectors Bring the Hardware | Reverse Engineering" aria-expanded="false" aria-controls="home-vertical-children-node-reverse-engineering-97b438-technology-defection-c0645b"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'defections/' | relative_url }}" title="When Defectors Bring the Hardware | Reverse Engineering" aria-label="Read more about When Defectors Bring the Hardware | Reverse Engineering">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'defections/' | relative_url }}" title="When Defectors Bring the Hardware | What Captured Weapons Really Reveal" aria-label="Read more about When Defectors Bring the Hardware | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -673,7 +673,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'radfa-flight/' | relative_url }}" title="How Israel Got a Mi G 21 to Test | Reverse Engineering 97 B438 Technology Defection" aria-label="Read more about How Israel Got a Mi G 21 to Test | Reverse Engineering 97 B438 Technology Defection">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'radfa-flight/' | relative_url }}" title="How Israel Got a Mi G 21 to Test | When Defectors Bring the Hardware | What Captured Weapons Really Reveal" aria-label="Read more about How Israel Got a Mi G 21 to Test | When Defectors Bring the Hardware | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -693,7 +693,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'defection-deals/' | relative_url }}" title="The Deals Behind Stolen Enemy Aircraft | Reverse Engineering 97 B438 Technology Defection" aria-label="Read more about The Deals Behind Stolen Enemy Aircraft | Reverse Engineering 97 B438 Technology Defection">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'defection-deals/' | relative_url }}" title="The Deals Behind Stolen Enemy Aircraft | When Defectors Bring the Hardware | What Captured Weapons Really Reveal" aria-label="Read more about The Deals Behind Stolen Enemy Aircraft | When Defectors Bring the Hardware | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -713,7 +713,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mi-g-25-shock/' | relative_url }}" title="The Foxbat That Changed Western Assumptions | Reverse Engineering 97 B438 Technology Defection" aria-label="Read more about The Foxbat That Changed Western Assumptions | Reverse Engineering 97 B438 Technology Defection">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mi-g-25-shock/' | relative_url }}" title="The Foxbat That Changed Western Assumptions | When Defectors Bring the Hardware | What Captured Weapons Really Reveal" aria-label="Read more about The Foxbat That Changed Western Assumptions | When Defectors Bring the Hardware | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -733,7 +733,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mi-g-15-escape/' | relative_url }}" title="The Mi G 15 That Arrived After the War | Reverse Engineering 97 B438 Technology Defection" aria-label="Read more about The Mi G 15 That Arrived After the War | Reverse Engineering 97 B438 Technology Defection">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mi-g-15-escape/' | relative_url }}" title="The Mi G 15 That Arrived After the War | When Defectors Bring the Hardware | What Captured Weapons Really Reveal" aria-label="Read more about The Mi G 15 That Arrived After the War | When Defectors Bring the Hardware | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -753,7 +753,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'pilot-notebook/' | relative_url }}" title="The Notebook That Came With the Foxbat | Reverse Engineering 97 B438 Technology Defection" aria-label="Read more about The Notebook That Came With the Foxbat | Reverse Engineering 97 B438 Technology Defection">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'pilot-notebook/' | relative_url }}" title="The Notebook That Came With the Foxbat | When Defectors Bring the Hardware | What Captured Weapons Really Reveal" aria-label="Read more about The Notebook That Came With the Foxbat | When Defectors Bring the Hardware | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -773,7 +773,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'pilot-value/' | relative_url }}" title="Why the Pilot Was Part of the Weapon | Reverse Engineering 97 B438 Technology Defection" aria-label="Read more about Why the Pilot Was Part of the Weapon | Reverse Engineering 97 B438 Technology Defection">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'pilot-value/' | relative_url }}" title="Why the Pilot Was Part of the Weapon | When Defectors Bring the Hardware | What Captured Weapons Really Reveal" aria-label="Read more about Why the Pilot Was Part of the Weapon | When Defectors Bring the Hardware | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -797,7 +797,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Paper Plans or Real Machines? | Reverse Engineering" aria-expanded="false" aria-controls="home-vertical-children-node-reverse-engineering-97b438-documents-vs-hardwar-2fd5db"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'docs-vs-hardware/' | relative_url }}" title="Paper Plans or Real Machines? | Reverse Engineering" aria-label="Read more about Paper Plans or Real Machines? | Reverse Engineering">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'docs-vs-hardware/' | relative_url }}" title="Paper Plans or Real Machines? | What Captured Weapons Really Reveal" aria-label="Read more about Paper Plans or Real Machines? | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -817,7 +817,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'technical-papers/' | relative_url }}" title="How Captured Manuals Speed Up Exploitation | Reverse Engineering 97 B438 Documents Vs Hardwar" aria-label="Read more about How Captured Manuals Speed Up Exploitation | Reverse Engineering 97 B438 Documents Vs Hardwar">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'technical-papers/' | relative_url }}" title="How Captured Manuals Speed Up Exploitation | Paper Plans or Real Machines? | What Captured Weapons Really Reveal" aria-label="Read more about How Captured Manuals Speed Up Exploitation | Paper Plans or Real Machines? | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -837,7 +837,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mi-g-tactics/' | relative_url }}" title="How Flying Enemy Jets Changed Tactics | Reverse Engineering 97 B438 Documents Vs Hardwar" aria-label="Read more about How Flying Enemy Jets Changed Tactics | Reverse Engineering 97 B438 Documents Vs Hardwar">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mi-g-tactics/' | relative_url }}" title="How Flying Enemy Jets Changed Tactics | Paper Plans or Real Machines? | What Captured Weapons Really Reveal" aria-label="Read more about How Flying Enemy Jets Changed Tactics | Paper Plans or Real Machines? | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -857,7 +857,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'missile-debris/' | relative_url }}" title="What Missile Debris Says About Supply Chains | Reverse Engineering 97 B438 Documents Vs Hardwar" aria-label="Read more about What Missile Debris Says About Supply Chains | Reverse Engineering 97 B438 Documents Vs Hardwar">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'missile-debris/' | relative_url }}" title="What Missile Debris Says About Supply Chains | Paper Plans or Real Machines? | What Captured Weapons Really Reveal" aria-label="Read more about What Missile Debris Says About Supply Chains | Paper Plans or Real Machines? | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -877,7 +877,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'field-mods-00bb84/' | relative_url }}" title="When Captured Gear Rewrites the Manual | Reverse Engineering 97 B438 Documents Vs Hardwar" aria-label="Read more about When Captured Gear Rewrites the Manual | Reverse Engineering 97 B438 Documents Vs Hardwar">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'field-mods-00bb84/' | relative_url }}" title="When Captured Gear Rewrites the Manual | Paper Plans or Real Machines? | What Captured Weapons Really Reveal" aria-label="Read more about When Captured Gear Rewrites the Manual | Paper Plans or Real Machines? | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -897,7 +897,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'maintenance-truth/' | relative_url }}" title="When Manuals Meet Battlefield Wear | Reverse Engineering 97 B438 Documents Vs Hardwar" aria-label="Read more about When Manuals Meet Battlefield Wear | Reverse Engineering 97 B438 Documents Vs Hardwar">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'maintenance-truth/' | relative_url }}" title="When Manuals Meet Battlefield Wear | Paper Plans or Real Machines? | What Captured Weapons Really Reveal" aria-label="Read more about When Manuals Meet Battlefield Wear | Paper Plans or Real Machines? | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -917,7 +917,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'lusty-papers/' | relative_url }}" title="Why Captured Jets Needed Paper Trails | Reverse Engineering 97 B438 Documents Vs Hardwar" aria-label="Read more about Why Captured Jets Needed Paper Trails | Reverse Engineering 97 B438 Documents Vs Hardwar">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'lusty-papers/' | relative_url }}" title="Why Captured Jets Needed Paper Trails | Paper Plans or Real Machines? | What Captured Weapons Really Reveal" aria-label="Read more about Why Captured Jets Needed Paper Trails | Paper Plans or Real Machines? | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -941,7 +941,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Crashed Drones Can Reveal | Reverse Engineering" aria-expanded="false" aria-controls="home-vertical-children-node-reverse-engineering-97b438-drone-debris-exploit-9e0929"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'drone-debris/' | relative_url }}" title="What Crashed Drones Can Reveal | Reverse Engineering" aria-label="Read more about What Crashed Drones Can Reveal | Reverse Engineering">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'drone-debris/' | relative_url }}" title="What Crashed Drones Can Reveal | What Captured Weapons Really Reveal" aria-label="Read more about What Crashed Drones Can Reveal | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -961,7 +961,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'component-map/' | relative_url }}" title="How Drone Parts Become a Supply Chain Map | Reverse Engineering 97 B438 Drone Debris Exploit" aria-label="Read more about How Drone Parts Become a Supply Chain Map | Reverse Engineering 97 B438 Drone Debris Exploit">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'component-map/' | relative_url }}" title="How Drone Parts Become a Supply Chain Map | What Crashed Drones Can Reveal | What Captured Weapons Really Reveal" aria-label="Read more about How Drone Parts Become a Supply Chain Map | What Crashed Drones Can Reveal | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -981,7 +981,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'orlan-10/' | relative_url }}" title="How Orlan 10 Wreckage Maps a Kill Chain | Reverse Engineering 97 B438 Drone Debris Exploit" aria-label="Read more about How Orlan 10 Wreckage Maps a Kill Chain | Reverse Engineering 97 B438 Drone Debris Exploit">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'orlan-10/' | relative_url }}" title="How Orlan 10 Wreckage Maps a Kill Chain | What Crashed Drones Can Reveal | What Captured Weapons Really Reveal" aria-label="Read more about How Orlan 10 Wreckage Maps a Kill Chain | What Crashed Drones Can Reveal | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1001,7 +1001,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'red-sea-debris/' | relative_url }}" title="How Red Sea Drone Parts Trace Proxy Arsenals | Reverse Engineering 97 B438 Drone Debris Exploit" aria-label="Read more about How Red Sea Drone Parts Trace Proxy Arsenals | Reverse Engineering 97 B438 Drone Debris Exploit">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'red-sea-debris/' | relative_url }}" title="How Red Sea Drone Parts Trace Proxy Arsenals | What Crashed Drones Can Reveal | What Captured Weapons Really Reveal" aria-label="Read more about How Red Sea Drone Parts Trace Proxy Arsenals | What Crashed Drones Can Reveal | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1021,7 +1021,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'shahed-upgrades/' | relative_url }}" title="What Shahed Wreckage Reveals About Smarter Drones | Reverse Engineering 97 B438 Drone Debris Exploit" aria-label="Read more about What Shahed Wreckage Reveals About Smarter Drones | Reverse Engineering 97 B438 Drone Debris Exploit">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'shahed-upgrades/' | relative_url }}" title="What Shahed Wreckage Reveals About Smarter Drones | What Crashed Drones Can Reveal | What Captured Weapons Really Reveal" aria-label="Read more about What Shahed Wreckage Reveals About Smarter Drones | What Crashed Drones Can Reveal | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1041,7 +1041,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'rapid-redesign/' | relative_url }}" title="When Drone Wrecks Show Design Evolution | Reverse Engineering 97 B438 Drone Debris Exploit" aria-label="Read more about When Drone Wrecks Show Design Evolution | Reverse Engineering 97 B438 Drone Debris Exploit">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'rapid-redesign/' | relative_url }}" title="When Drone Wrecks Show Design Evolution | What Crashed Drones Can Reveal | What Captured Weapons Really Reveal" aria-label="Read more about When Drone Wrecks Show Design Evolution | What Crashed Drones Can Reveal | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1061,7 +1061,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'chip-trails/' | relative_url }}" title="Why Foreign Chips Keep Appearing in Drones | Reverse Engineering 97 B438 Drone Debris Exploit" aria-label="Read more about Why Foreign Chips Keep Appearing in Drones | Reverse Engineering 97 B438 Drone Debris Exploit">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'chip-trails/' | relative_url }}" title="Why Foreign Chips Keep Appearing in Drones | What Crashed Drones Can Reveal | What Captured Weapons Really Reveal" aria-label="Read more about Why Foreign Chips Keep Appearing in Drones | What Crashed Drones Can Reveal | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1085,7 +1085,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Where Captured Technology Gets Complicated | Reverse Engineering" aria-expanded="false" aria-controls="home-vertical-children-node-reverse-engineering-97b438-legal-ethical-limits-260c32"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ethics/' | relative_url }}" title="Where Captured Technology Gets Complicated | Reverse Engineering" aria-label="Read more about Where Captured Technology Gets Complicated | Reverse Engineering">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ethics/' | relative_url }}" title="Where Captured Technology Gets Complicated | What Captured Weapons Really Reveal" aria-label="Read more about Where Captured Technology Gets Complicated | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1105,7 +1105,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'custody-trail/' | relative_url }}" title="Captured Weapons Are Evidence Too | Reverse Engineering 97 B438 Legal Ethical Limits" aria-label="Read more about Captured Weapons Are Evidence Too | Reverse Engineering 97 B438 Legal Ethical Limits">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'custody-trail/' | relative_url }}" title="Captured Weapons Are Evidence Too | Where Captured Technology Gets Complicated | What Captured Weapons Really Reveal" aria-label="Read more about Captured Weapons Are Evidence Too | Where Captured Technology Gets Complicated | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1125,7 +1125,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'pow-limits/' | relative_url }}" title="Prisoners Are Not Access Keys | Reverse Engineering 97 B438 Legal Ethical Limits" aria-label="Read more about Prisoners Are Not Access Keys | Reverse Engineering 97 B438 Legal Ethical Limits">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'pow-limits/' | relative_url }}" title="Prisoners Are Not Access Keys | Where Captured Technology Gets Complicated | What Captured Weapons Really Reveal" aria-label="Read more about Prisoners Are Not Access Keys | Where Captured Technology Gets Complicated | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1145,7 +1145,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'paperclip-516adb/' | relative_url }}" title="The Cost of Recruiting Enemy Scientists | Reverse Engineering 97 B438 Legal Ethical Limits" aria-label="Read more about The Cost of Recruiting Enemy Scientists | Reverse Engineering 97 B438 Legal Ethical Limits">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'paperclip-516adb/' | relative_url }}" title="The Cost of Recruiting Enemy Scientists | Where Captured Technology Gets Complicated | What Captured Weapons Really Reveal" aria-label="Read more about The Cost of Recruiting Enemy Scientists | Where Captured Technology Gets Complicated | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1165,7 +1165,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'component-trails/' | relative_url }}" title="What Captured Components Can Reveal | Reverse Engineering 97 B438 Legal Ethical Limits" aria-label="Read more about What Captured Components Can Reveal | Reverse Engineering 97 B438 Legal Ethical Limits">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'component-trails/' | relative_url }}" title="What Captured Components Can Reveal | Where Captured Technology Gets Complicated | What Captured Weapons Really Reveal" aria-label="Read more about What Captured Components Can Reveal | Where Captured Technology Gets Complicated | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1185,7 +1185,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'defector-consent/' | relative_url }}" title="When Defection Brings the Weapon Too | Reverse Engineering 97 B438 Legal Ethical Limits" aria-label="Read more about When Defection Brings the Weapon Too | Reverse Engineering 97 B438 Legal Ethical Limits">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'defector-consent/' | relative_url }}" title="When Defection Brings the Weapon Too | Where Captured Technology Gets Complicated | What Captured Weapons Really Reveal" aria-label="Read more about When Defection Brings the Weapon Too | Where Captured Technology Gets Complicated | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1205,7 +1205,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'looting-line/' | relative_url }}" title="When Does Capture Become Looting? | Reverse Engineering 97 B438 Legal Ethical Limits" aria-label="Read more about When Does Capture Become Looting? | Reverse Engineering 97 B438 Legal Ethical Limits">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'looting-line/' | relative_url }}" title="When Does Capture Become Looting? | Where Captured Technology Gets Complicated | What Captured Weapons Really Reveal" aria-label="Read more about When Does Capture Become Looting? | Where Captured Technology Gets Complicated | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1249,7 +1249,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'weaknesses/' | relative_url }}" title="What Captured Weapons Reveal About Defeating Them | Reverse Engineering 97 B438 Exploit Vs Copy" aria-label="Read more about What Captured Weapons Reveal About Defeating Them | Reverse Engineering 97 B438 Exploit Vs Copy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'weaknesses/' | relative_url }}" title="What Captured Weapons Reveal About Defeating Them | Is Reverse Engineering Just Copying? | What Captured Weapons Really Reveal" aria-label="Read more about What Captured Weapons Reveal About Defeating Them | Is Reverse Engineering Just Copying? | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1269,7 +1269,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mi-g-17-lessons/' | relative_url }}" title="What The Mi G 17 Taught US Pilots | Reverse Engineering 97 B438 Exploit Vs Copy" aria-label="Read more about What The Mi G 17 Taught US Pilots | Reverse Engineering 97 B438 Exploit Vs Copy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mi-g-17-lessons/' | relative_url }}" title="What The Mi G 17 Taught US Pilots | Is Reverse Engineering Just Copying? | What Captured Weapons Really Reveal" aria-label="Read more about What The Mi G 17 Taught US Pilots | Is Reverse Engineering Just Copying? | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1289,7 +1289,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'supply-chains-68339b/' | relative_url }}" title="What Weapon Debris Reveals About Supply Chains | Reverse Engineering 97 B438 Exploit Vs Copy" aria-label="Read more about What Weapon Debris Reveals About Supply Chains | Reverse Engineering 97 B438 Exploit Vs Copy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'supply-chains-68339b/' | relative_url }}" title="What Weapon Debris Reveals About Supply Chains | Is Reverse Engineering Just Copying? | What Captured Weapons Really Reveal" aria-label="Read more about What Weapon Debris Reveals About Supply Chains | Is Reverse Engineering Just Copying? | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1309,7 +1309,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'j-11-adaptation/' | relative_url }}" title="When Copying Becomes Domestic Redesign | Reverse Engineering 97 B438 Exploit Vs Copy" aria-label="Read more about When Copying Becomes Domestic Redesign | Reverse Engineering 97 B438 Exploit Vs Copy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'j-11-adaptation/' | relative_url }}" title="When Copying Becomes Domestic Redesign | Is Reverse Engineering Just Copying? | What Captured Weapons Really Reveal" aria-label="Read more about When Copying Becomes Domestic Redesign | Is Reverse Engineering Just Copying? | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1329,7 +1329,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'tu-4-copy-8ff315/' | relative_url }}" title="Why Copying The B 29 Was Hard | Reverse Engineering 97 B438 Exploit Vs Copy" aria-label="Read more about Why Copying The B 29 Was Hard | Reverse Engineering 97 B438 Exploit Vs Copy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'tu-4-copy-8ff315/' | relative_url }}" title="Why Copying The B 29 Was Hard | Is Reverse Engineering Just Copying? | What Captured Weapons Really Reveal" aria-label="Read more about Why Copying The B 29 Was Hard | Is Reverse Engineering Just Copying? | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1349,7 +1349,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mi-g-21-tests/' | relative_url }}" title="Why The US Tested A Mi G 21 | Reverse Engineering 97 B438 Exploit Vs Copy" aria-label="Read more about Why The US Tested A Mi G 21 | Reverse Engineering 97 B438 Exploit Vs Copy">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mi-g-21-tests/' | relative_url }}" title="Why The US Tested A Mi G 21 | Is Reverse Engineering Just Copying? | What Captured Weapons Really Reveal" aria-label="Read more about Why The US Tested A Mi G 21 | Is Reverse Engineering Just Copying? | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1373,7 +1373,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Export Weapons Give Away | Reverse Engineering" aria-expanded="false" aria-controls="home-vertical-children-node-reverse-engineering-97b438-export-weapon-exploi-fa93bd"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'export-systems/' | relative_url }}" title="What Export Weapons Give Away | Reverse Engineering" aria-label="Read more about What Export Weapons Give Away | Reverse Engineering">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'export-systems/' | relative_url }}" title="What Export Weapons Give Away | What Captured Weapons Really Reveal" aria-label="Read more about What Export Weapons Give Away | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1393,7 +1393,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sipri-data/' | relative_url }}" title="Mapping Who Got Which Weapons | Reverse Engineering 97 B438 Export Weapon Exploi" aria-label="Read more about Mapping Who Got Which Weapons | Reverse Engineering 97 B438 Export Weapon Exploi">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sipri-data/' | relative_url }}" title="Mapping Who Got Which Weapons | What Export Weapons Give Away | What Captured Weapons Really Reveal" aria-label="Read more about Mapping Who Got Which Weapons | What Export Weapons Give Away | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1413,7 +1413,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'training/' | relative_url }}" title="The Know How Hidden Inside Arms Sales | Reverse Engineering 97 B438 Export Weapon Exploi" aria-label="Read more about The Know How Hidden Inside Arms Sales | Reverse Engineering 97 B438 Export Weapon Exploi">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'training/' | relative_url }}" title="The Know How Hidden Inside Arms Sales | What Export Weapons Give Away | What Captured Weapons Really Reveal" aria-label="Read more about The Know How Hidden Inside Arms Sales | What Export Weapons Give Away | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1433,7 +1433,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'real-use/' | relative_url }}" title="What Buyers Reveal By Using Weapons | Reverse Engineering 97 B438 Export Weapon Exploi" aria-label="Read more about What Buyers Reveal By Using Weapons | Reverse Engineering 97 B438 Export Weapon Exploi">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'real-use/' | relative_url }}" title="What Buyers Reveal By Using Weapons | What Export Weapons Give Away | What Captured Weapons Really Reveal" aria-label="Read more about What Buyers Reveal By Using Weapons | What Export Weapons Give Away | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1453,7 +1453,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'downgrades/' | relative_url }}" title="What Missing Features Reveal About Weapons | Reverse Engineering 97 B438 Export Weapon Exploi" aria-label="Read more about What Missing Features Reveal About Weapons | Reverse Engineering 97 B438 Export Weapon Exploi">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'downgrades/' | relative_url }}" title="What Missing Features Reveal About Weapons | What Export Weapons Give Away | What Captured Weapons Really Reveal" aria-label="Read more about What Missing Features Reveal About Weapons | What Export Weapons Give Away | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1473,7 +1473,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'iran-f-14/' | relative_url }}" title="When An Export Fighter Outlives An Alliance | Reverse Engineering 97 B438 Export Weapon Exploi" aria-label="Read more about When An Export Fighter Outlives An Alliance | Reverse Engineering 97 B438 Export Weapon Exploi">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'iran-f-14/' | relative_url }}" title="When An Export Fighter Outlives An Alliance | What Export Weapons Give Away | What Captured Weapons Really Reveal" aria-label="Read more about When An Export Fighter Outlives An Alliance | What Export Weapons Give Away | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1493,7 +1493,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'spare-parts/' | relative_url }}" title="Why Spare Parts Can Give Secrets Away | Reverse Engineering 97 B438 Export Weapon Exploi" aria-label="Read more about Why Spare Parts Can Give Secrets Away | Reverse Engineering 97 B438 Export Weapon Exploi">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'spare-parts/' | relative_url }}" title="Why Spare Parts Can Give Secrets Away | What Export Weapons Give Away | What Captured Weapons Really Reveal" aria-label="Read more about Why Spare Parts Can Give Secrets Away | What Export Weapons Give Away | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1517,7 +1517,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: The Software Hidden Inside Weapons | Reverse Engineering" aria-expanded="false" aria-controls="home-vertical-children-node-reverse-engineering-97b438-weapon-firmware-d78947"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'firmware/' | relative_url }}" title="The Software Hidden Inside Weapons | Reverse Engineering" aria-label="Read more about The Software Hidden Inside Weapons | Reverse Engineering">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'firmware/' | relative_url }}" title="The Software Hidden Inside Weapons | What Captured Weapons Really Reveal" aria-label="Read more about The Software Hidden Inside Weapons | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1537,7 +1537,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'update-paths/' | relative_url }}" title="Can Operators Change the System in the Field | Reverse Engineering 97 B438 Weapon Firmware" aria-label="Read more about Can Operators Change the System in the Field | Reverse Engineering 97 B438 Weapon Firmware">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'update-paths/' | relative_url }}" title="Can Operators Change the System in the Field | The Software Hidden Inside Weapons | What Captured Weapons Really Reveal" aria-label="Read more about Can Operators Change the System in the Field | The Software Hidden Inside Weapons | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1557,7 +1557,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'threat-libraries/' | relative_url }}" title="How Threat Libraries Reveal What Systems Recognize | Reverse Engineering 97 B438 Weapon Firmware" aria-label="Read more about How Threat Libraries Reveal What Systems Recognize | Reverse Engineering 97 B438 Weapon Firmware">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'threat-libraries/' | relative_url }}" title="How Threat Libraries Reveal What Systems Recognize | The Software Hidden Inside Weapons | What Captured Weapons Really Reveal" aria-label="Read more about How Threat Libraries Reveal What Systems Recognize | The Software Hidden Inside Weapons | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1577,7 +1577,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'debug-access/' | relative_url }}" title="The Hidden Connectors That Give Up Firmware | Reverse Engineering 97 B438 Weapon Firmware" aria-label="Read more about The Hidden Connectors That Give Up Firmware | Reverse Engineering 97 B438 Weapon Firmware">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'debug-access/' | relative_url }}" title="The Hidden Connectors That Give Up Firmware | The Software Hidden Inside Weapons | What Captured Weapons Really Reveal" aria-label="Read more about The Hidden Connectors That Give Up Firmware | The Software Hidden Inside Weapons | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1597,7 +1597,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'drone-logic/' | relative_url }}" title="What Drone Firmware Reveals About Real Flight Behavior | Reverse Engineering 97 B438 Weapon Firmware" aria-label="Read more about What Drone Firmware Reveals About Real Flight Behavior | Reverse Engineering 97 B438 Weapon Firmware">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'drone-logic/' | relative_url }}" title="What Drone Firmware Reveals About Real Flight Behavior | The Software Hidden Inside Weapons | What Captured Weapons Really Reveal" aria-label="Read more about What Drone Firmware Reveals About Real Flight Behavior | The Software Hidden Inside Weapons | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1617,7 +1617,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'service-data/' | relative_url }}" title="Why Maintenance Records Matter as Much as Code | Reverse Engineering 97 B438 Weapon Firmware" aria-label="Read more about Why Maintenance Records Matter as Much as Code | Reverse Engineering 97 B438 Weapon Firmware">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'service-data/' | relative_url }}" title="Why Maintenance Records Matter as Much as Code | The Software Hidden Inside Weapons | What Captured Weapons Really Reveal" aria-label="Read more about Why Maintenance Records Matter as Much as Code | The Software Hidden Inside Weapons | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1637,7 +1637,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'threat-modeling/' | relative_url }}" title="Why Real Firmware Makes Better Threat Simulators | Reverse Engineering 97 B438 Weapon Firmware" aria-label="Read more about Why Real Firmware Makes Better Threat Simulators | Reverse Engineering 97 B438 Weapon Firmware">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'threat-modeling/' | relative_url }}" title="Why Real Firmware Makes Better Threat Simulators | The Software Hidden Inside Weapons | What Captured Weapons Really Reveal" aria-label="Read more about Why Real Firmware Makes Better Threat Simulators | The Software Hidden Inside Weapons | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1661,7 +1661,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Captured Ground Weapons Protect Troops | Reverse Engineering" aria-expanded="false" aria-controls="home-vertical-children-node-reverse-engineering-97b438-ground-materiel-forc-2d8145"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ground-systems/' | relative_url }}" title="How Captured Ground Weapons Protect Troops | Reverse Engineering" aria-label="Read more about How Captured Ground Weapons Protect Troops | Reverse Engineering">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ground-systems/' | relative_url }}" title="How Captured Ground Weapons Protect Troops | What Captured Weapons Really Reveal" aria-label="Read more about How Captured Ground Weapons Protect Troops | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1681,7 +1681,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'trophy-lab/' | relative_url }}" title="From Russian Trophies to Allied Countermeasures | Reverse Engineering 97 B438 Ground Materiel Forc" aria-label="Read more about From Russian Trophies to Allied Countermeasures | Reverse Engineering 97 B438 Ground Materiel Forc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'trophy-lab/' | relative_url }}" title="From Russian Trophies to Allied Countermeasures | How Captured Ground Weapons Protect Troops | What Captured Weapons Really Reveal" aria-label="Read more about From Russian Trophies to Allied Countermeasures | How Captured Ground Weapons Protect Troops | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1701,7 +1701,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ied-warnings/' | relative_url }}" title="What a Captured IED Can Warn Troops About | Reverse Engineering 97 B438 Ground Materiel Forc" aria-label="Read more about What a Captured IED Can Warn Troops About | Reverse Engineering 97 B438 Ground Materiel Forc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ied-warnings/' | relative_url }}" title="What a Captured IED Can Warn Troops About | How Captured Ground Weapons Protect Troops | What Captured Weapons Really Reveal" aria-label="Read more about What a Captured IED Can Warn Troops About | How Captured Ground Weapons Protect Troops | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1721,7 +1721,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'damaged-armor/' | relative_url }}" title="What Wrecked Armour Teaches About Survival | Reverse Engineering 97 B438 Ground Materiel Forc" aria-label="Read more about What Wrecked Armour Teaches About Survival | Reverse Engineering 97 B438 Ground Materiel Forc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'damaged-armor/' | relative_url }}" title="What Wrecked Armour Teaches About Survival | How Captured Ground Weapons Protect Troops | What Captured Weapons Really Reveal" aria-label="Read more about What Wrecked Armour Teaches About Survival | How Captured Ground Weapons Protect Troops | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1741,7 +1741,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'speed-vs-depth/' | relative_url }}" title="When Fast Warnings Beat Perfect Answers | Reverse Engineering 97 B438 Ground Materiel Forc" aria-label="Read more about When Fast Warnings Beat Perfect Answers | Reverse Engineering 97 B438 Ground Materiel Forc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'speed-vs-depth/' | relative_url }}" title="When Fast Warnings Beat Perfect Answers | How Captured Ground Weapons Protect Troops | What Captured Weapons Really Reveal" aria-label="Read more about When Fast Warnings Beat Perfect Answers | How Captured Ground Weapons Protect Troops | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1761,7 +1761,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'uk-armour-study/' | relative_url }}" title="Why Britain Took Apart Russian Armour | Reverse Engineering 97 B438 Ground Materiel Forc" aria-label="Read more about Why Britain Took Apart Russian Armour | Reverse Engineering 97 B438 Ground Materiel Forc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'uk-armour-study/' | relative_url }}" title="Why Britain Took Apart Russian Armour | How Captured Ground Weapons Protect Troops | What Captured Weapons Really Reveal" aria-label="Read more about Why Britain Took Apart Russian Armour | How Captured Ground Weapons Protect Troops | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1781,7 +1781,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'real-training/' | relative_url }}" title="Why Real Enemy Hardware Changes Training | Reverse Engineering 97 B438 Ground Materiel Forc" aria-label="Read more about Why Real Enemy Hardware Changes Training | Reverse Engineering 97 B438 Ground Materiel Forc">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'real-training/' | relative_url }}" title="Why Real Enemy Hardware Changes Training | How Captured Ground Weapons Protect Troops | What Captured Weapons Really Reveal" aria-label="Read more about Why Real Enemy Hardware Changes Training | How Captured Ground Weapons Protect Troops | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1805,7 +1805,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Capturing a Weapon Is Not Enough | Reverse Engineering" aria-expanded="false" aria-controls="home-vertical-children-node-reverse-engineering-97b438-hard-to-replicate-459412"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hard-to-copy/' | relative_url }}" title="Why Capturing a Weapon Is Not Enough | Reverse Engineering" aria-label="Read more about Why Capturing a Weapon Is Not Enough | Reverse Engineering">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hard-to-copy/' | relative_url }}" title="Why Capturing a Weapon Is Not Enough | What Captured Weapons Really Reveal" aria-label="Read more about Why Capturing a Weapon Is Not Enough | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1825,7 +1825,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'tacit-know-how/' | relative_url }}" title="The invisible know how inside advanced weapons | Reverse Engineering 97 B438 Hard To Replicate" aria-label="Read more about The invisible know how inside advanced weapons | Reverse Engineering 97 B438 Hard To Replicate">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'tacit-know-how/' | relative_url }}" title="The invisible know how inside advanced weapons | Why Capturing a Weapon Is Not Enough | What Captured Weapons Really Reveal" aria-label="Read more about The invisible know how inside advanced weapons | Why Capturing a Weapon Is Not Enough | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1845,7 +1845,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'supply-chains-f92c6f/' | relative_url }}" title="The parts trail inside captured weapons | Reverse Engineering 97 B438 Hard To Replicate" aria-label="Read more about The parts trail inside captured weapons | Reverse Engineering 97 B438 Hard To Replicate">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'supply-chains-f92c6f/' | relative_url }}" title="The parts trail inside captured weapons | Why Capturing a Weapon Is Not Enough | What Captured Weapons Really Reveal" aria-label="Read more about The parts trail inside captured weapons | Why Capturing a Weapon Is Not Enough | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1865,7 +1865,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'quality-control/' | relative_url }}" title="When a tiny defect ruins a weapon copy | Reverse Engineering 97 B438 Hard To Replicate" aria-label="Read more about When a tiny defect ruins a weapon copy | Reverse Engineering 97 B438 Hard To Replicate">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'quality-control/' | relative_url }}" title="When a tiny defect ruins a weapon copy | Why Capturing a Weapon Is Not Enough | What Captured Weapons Really Reveal" aria-label="Read more about When a tiny defect ruins a weapon copy | Why Capturing a Weapon Is Not Enough | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1885,7 +1885,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'beyond-blueprints/' | relative_url }}" title="Why a weapon copy needs more than drawings | Reverse Engineering 97 B438 Hard To Replicate" aria-label="Read more about Why a weapon copy needs more than drawings | Reverse Engineering 97 B438 Hard To Replicate">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'beyond-blueprints/' | relative_url }}" title="Why a weapon copy needs more than drawings | Why Capturing a Weapon Is Not Enough | What Captured Weapons Really Reveal" aria-label="Read more about Why a weapon copy needs more than drawings | Why Capturing a Weapon Is Not Enough | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1905,7 +1905,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'testing-regimes/' | relative_url }}" title="Why a working prototype is not enough | Reverse Engineering 97 B438 Hard To Replicate" aria-label="Read more about Why a working prototype is not enough | Reverse Engineering 97 B438 Hard To Replicate">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'testing-regimes/' | relative_url }}" title="Why a working prototype is not enough | Why Capturing a Weapon Is Not Enough | What Captured Weapons Really Reveal" aria-label="Read more about Why a working prototype is not enough | Why Capturing a Weapon Is Not Enough | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1925,7 +1925,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'material-gaps/' | relative_url }}" title="Why the same alloy is not the same weapon | Reverse Engineering 97 B438 Hard To Replicate" aria-label="Read more about Why the same alloy is not the same weapon | Reverse Engineering 97 B438 Hard To Replicate">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'material-gaps/' | relative_url }}" title="Why the same alloy is not the same weapon | Why Capturing a Weapon Is Not Enough | What Captured Weapons Really Reveal" aria-label="Read more about Why the same alloy is not the same weapon | Why Capturing a Weapon Is Not Enough | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1949,7 +1949,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Factories Learn From Enemy Weapons | Reverse Engineering" aria-expanded="false" aria-controls="home-vertical-children-node-reverse-engineering-97b438-industrial-learning-1fb526"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'industrial-learning-from-captured/' | relative_url }}" title="What Factories Learn From Enemy Weapons | Reverse Engineering" aria-label="Read more about What Factories Learn From Enemy Weapons | Reverse Engineering">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'industrial-learning-from-captured/' | relative_url }}" title="What Factories Learn From Enemy Weapons | What Captured Weapons Really Reveal" aria-label="Read more about What Factories Learn From Enemy Weapons | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1969,7 +1969,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'debris-clues/' | relative_url }}" title="How Wreckage Maps Industrial Pressure | Reverse Engineering 97 B438 Industrial Learning" aria-label="Read more about How Wreckage Maps Industrial Pressure | Reverse Engineering 97 B438 Industrial Learning">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'debris-clues/' | relative_url }}" title="How Wreckage Maps Industrial Pressure | What Factories Learn From Enemy Weapons | What Captured Weapons Really Reveal" aria-label="Read more about How Wreckage Maps Industrial Pressure | What Factories Learn From Enemy Weapons | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -1989,7 +1989,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sidewinder-6a5e7c/' | relative_url }}" title="The Missile That Became a Factory Lesson | Reverse Engineering 97 B438 Industrial Learning" aria-label="Read more about The Missile That Became a Factory Lesson | Reverse Engineering 97 B438 Industrial Learning">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sidewinder-6a5e7c/' | relative_url }}" title="The Missile That Became a Factory Lesson | What Factories Learn From Enemy Weapons | What Captured Weapons Really Reveal" aria-label="Read more about The Missile That Became a Factory Lesson | What Factories Learn From Enemy Weapons | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2009,7 +2009,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'material-ledger/' | relative_url }}" title="What Enemy Materials Reveal About Factories | Reverse Engineering 97 B438 Industrial Learning" aria-label="Read more about What Enemy Materials Reveal About Factories | Reverse Engineering 97 B438 Industrial Learning">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'material-ledger/' | relative_url }}" title="What Enemy Materials Reveal About Factories | What Factories Learn From Enemy Weapons | What Captured Weapons Really Reveal" aria-label="Read more about What Enemy Materials Reveal About Factories | What Factories Learn From Enemy Weapons | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2029,7 +2029,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 't-34-tradeoffs/' | relative_url }}" title="What T 34 Wrecks Taught Factories | Reverse Engineering 97 B438 Industrial Learning" aria-label="Read more about What T 34 Wrecks Taught Factories | Reverse Engineering 97 B438 Industrial Learning">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 't-34-tradeoffs/' | relative_url }}" title="What T 34 Wrecks Taught Factories | What Factories Learn From Enemy Weapons | What Captured Weapons Really Reveal" aria-label="Read more about What T 34 Wrecks Taught Factories | What Factories Learn From Enemy Weapons | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2049,7 +2049,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'jerrycan/' | relative_url }}" title="Why a Fuel Can Became Industrial Intelligence | Reverse Engineering 97 B438 Industrial Learning" aria-label="Read more about Why a Fuel Can Became Industrial Intelligence | Reverse Engineering 97 B438 Industrial Learning">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'jerrycan/' | relative_url }}" title="Why a Fuel Can Became Industrial Intelligence | What Factories Learn From Enemy Weapons | What Captured Weapons Really Reveal" aria-label="Read more about Why a Fuel Can Became Industrial Intelligence | What Factories Learn From Enemy Weapons | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2069,7 +2069,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'copying-limits/' | relative_url }}" title="Why Blueprints Are Not Enough | Reverse Engineering 97 B438 Industrial Learning" aria-label="Read more about Why Blueprints Are Not Enough | Reverse Engineering 97 B438 Industrial Learning">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'copying-limits/' | relative_url }}" title="Why Blueprints Are Not Enough | What Factories Learn From Enemy Weapons | What Captured Weapons Really Reveal" aria-label="Read more about Why Blueprints Are Not Enough | What Factories Learn From Enemy Weapons | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2093,7 +2093,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Exploitation Became an Institution | Reverse Engineering" aria-expanded="false" aria-controls="home-vertical-children-node-reverse-engineering-97b438-fme-institutions-febd9d"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'intel-centers/' | relative_url }}" title="Why Exploitation Became an Institution | Reverse Engineering" aria-label="Read more about Why Exploitation Became an Institution | Reverse Engineering">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'intel-centers/' | relative_url }}" title="Why Exploitation Became an Institution | What Captured Weapons Really Reveal" aria-label="Read more about Why Exploitation Became an Institution | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2113,7 +2113,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ground-systems-21812d/' | relative_url }}" title="How Foreign Armor Becomes Threat Realism | Reverse Engineering 97 B438 Fme Institutions" aria-label="Read more about How Foreign Armor Becomes Threat Realism | Reverse Engineering 97 B438 Fme Institutions">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ground-systems-21812d/' | relative_url }}" title="How Foreign Armor Becomes Threat Realism | Why Exploitation Became an Institution | What Captured Weapons Really Reveal" aria-label="Read more about How Foreign Armor Becomes Threat Realism | Why Exploitation Became an Institution | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2133,7 +2133,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'nasic-mission/' | relative_url }}" title="Inside the Air and Space Exploitation Mission | Reverse Engineering 97 B438 Fme Institutions" aria-label="Read more about Inside the Air and Space Exploitation Mission | Reverse Engineering 97 B438 Fme Institutions">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'nasic-mission/' | relative_url }}" title="Inside the Air and Space Exploitation Mission | Why Exploitation Became an Institution | What Captured Weapons Really Reveal" aria-label="Read more about Inside the Air and Space Exploitation Mission | Why Exploitation Became an Institution | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2153,7 +2153,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'threat-databases/' | relative_url }}" title="The Afterlife of Captured Weapon Tests | Reverse Engineering 97 B438 Fme Institutions" aria-label="Read more about The Afterlife of Captured Weapon Tests | Reverse Engineering 97 B438 Fme Institutions">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'threat-databases/' | relative_url }}" title="The Afterlife of Captured Weapon Tests | Why Exploitation Became an Institution | What Captured Weapons Really Reveal" aria-label="Read more about The Afterlife of Captured Weapon Tests | Why Exploitation Became an Institution | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2173,7 +2173,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'msic-computing/' | relative_url }}" title="When Missile Exploitation Needs Supercomputers | Reverse Engineering 97 B438 Fme Institutions" aria-label="Read more about When Missile Exploitation Needs Supercomputers | Reverse Engineering 97 B438 Fme Institutions">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'msic-computing/' | relative_url }}" title="When Missile Exploitation Needs Supercomputers | Why Exploitation Became an Institution | What Captured Weapons Really Reveal" aria-label="Read more about When Missile Exploitation Needs Supercomputers | Why Exploitation Became an Institution | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2193,7 +2193,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'do-d-governance/' | relative_url }}" title="Who Decides What Captured Weapons Teach | Reverse Engineering 97 B438 Fme Institutions" aria-label="Read more about Who Decides What Captured Weapons Teach | Reverse Engineering 97 B438 Fme Institutions">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'do-d-governance/' | relative_url }}" title="Who Decides What Captured Weapons Teach | Why Exploitation Became an Institution | What Captured Weapons Really Reveal" aria-label="Read more about Who Decides What Captured Weapons Teach | Why Exploitation Became an Institution | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2213,7 +2213,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'permanent-centers/' | relative_url }}" title="Why Captured Weapons Need Permanent Homes | Reverse Engineering 97 B438 Fme Institutions" aria-label="Read more about Why Captured Weapons Need Permanent Homes | Reverse Engineering 97 B438 Fme Institutions">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'permanent-centers/' | relative_url }}" title="Why Captured Weapons Need Permanent Homes | Why Exploitation Became an Institution | What Captured Weapons Really Reveal" aria-label="Read more about Why Captured Weapons Need Permanent Homes | Why Exploitation Became an Institution | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2237,7 +2237,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Repairs Reveal About an Army | Reverse Engineering" aria-expanded="false" aria-controls="home-vertical-children-node-reverse-engineering-97b438-maintenance-clues-c503ae"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'maintenance/' | relative_url }}" title="What Repairs Reveal About an Army | Reverse Engineering" aria-label="Read more about What Repairs Reveal About an Army | Reverse Engineering">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'maintenance/' | relative_url }}" title="What Repairs Reveal About an Army | What Captured Weapons Really Reveal" aria-label="Read more about What Repairs Reveal About an Army | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2257,7 +2257,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'spares/' | relative_url }}" title="The Intelligence Hidden in Spare Parts | Reverse Engineering 97 B438 Maintenance Clues" aria-label="Read more about The Intelligence Hidden in Spare Parts | Reverse Engineering 97 B438 Maintenance Clues">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'spares/' | relative_url }}" title="The Intelligence Hidden in Spare Parts | What Repairs Reveal About an Army | What Captured Weapons Really Reveal" aria-label="Read more about The Intelligence Hidden in Spare Parts | What Repairs Reveal About an Army | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2277,7 +2277,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'orlan-clues/' | relative_url }}" title="What Orlan Drone Parts Really Reveal | Reverse Engineering 97 B438 Maintenance Clues" aria-label="Read more about What Orlan Drone Parts Really Reveal | Reverse Engineering 97 B438 Maintenance Clues">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'orlan-clues/' | relative_url }}" title="What Orlan Drone Parts Really Reveal | What Repairs Reveal About an Army | What Captured Weapons Really Reveal" aria-label="Read more about What Orlan Drone Parts Really Reveal | What Repairs Reveal About an Army | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2297,7 +2297,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'wear-patterns/' | relative_url }}" title="What Repeated Wear Says About Enemy Readiness | Reverse Engineering 97 B438 Maintenance Clues" aria-label="Read more about What Repeated Wear Says About Enemy Readiness | Reverse Engineering 97 B438 Maintenance Clues">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'wear-patterns/' | relative_url }}" title="What Repeated Wear Says About Enemy Readiness | What Repairs Reveal About an Army | What Captured Weapons Really Reveal" aria-label="Read more about What Repeated Wear Says About Enemy Readiness | What Repairs Reveal About an Army | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2317,7 +2317,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'field-mods/' | relative_url }}" title="When Field Repairs Rewrite the Design | Reverse Engineering 97 B438 Maintenance Clues" aria-label="Read more about When Field Repairs Rewrite the Design | Reverse Engineering 97 B438 Maintenance Clues">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'field-mods/' | relative_url }}" title="When Field Repairs Rewrite the Design | What Repairs Reveal About an Army | What Captured Weapons Really Reveal" aria-label="Read more about When Field Repairs Rewrite the Design | What Repairs Reveal About an Army | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2337,7 +2337,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'german-tanks/' | relative_url }}" title="When Tank Repair Systems Break Under War | Reverse Engineering 97 B438 Maintenance Clues" aria-label="Read more about When Tank Repair Systems Break Under War | Reverse Engineering 97 B438 Maintenance Clues">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'german-tanks/' | relative_url }}" title="When Tank Repair Systems Break Under War | What Repairs Reveal About an Army | What Captured Weapons Really Reveal" aria-label="Read more about When Tank Repair Systems Break Under War | What Repairs Reveal About an Army | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2357,7 +2357,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'abandoned-vehicles/' | relative_url }}" title="Why Intact Vehicles Get Left Behind | Reverse Engineering 97 B438 Maintenance Clues" aria-label="Read more about Why Intact Vehicles Get Left Behind | Reverse Engineering 97 B438 Maintenance Clues">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'abandoned-vehicles/' | relative_url }}" title="Why Intact Vehicles Get Left Behind | What Repairs Reveal About an Army | What Captured Weapons Really Reveal" aria-label="Read more about Why Intact Vehicles Get Left Behind | What Repairs Reveal About an Army | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2381,7 +2381,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Metal Fragments Tell Analysts | Reverse Engineering" aria-expanded="false" aria-controls="home-vertical-children-node-reverse-engineering-97b438-weapon-fragment-meta-e03bb2"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'materials/' | relative_url }}" title="What Metal Fragments Tell Analysts | Reverse Engineering" aria-label="Read more about What Metal Fragments Tell Analysts | Reverse Engineering">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'materials/' | relative_url }}" title="What Metal Fragments Tell Analysts | What Captured Weapons Really Reveal" aria-label="Read more about What Metal Fragments Tell Analysts | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2401,7 +2401,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'trustworthy-tests/' | relative_url }}" title="How labs keep fragment evidence honest | Reverse Engineering 97 B438 Weapon Fragment Meta" aria-label="Read more about How labs keep fragment evidence honest | Reverse Engineering 97 B438 Weapon Fragment Meta">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'trustworthy-tests/' | relative_url }}" title="How labs keep fragment evidence honest | What Metal Fragments Tell Analysts | What Captured Weapons Really Reveal" aria-label="Read more about How labs keep fragment evidence honest | What Metal Fragments Tell Analysts | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2421,7 +2421,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fracture-clues/' | relative_url }}" title="Reading the break in a weapon fragment | Reverse Engineering 97 B438 Weapon Fragment Meta" aria-label="Read more about Reading the break in a weapon fragment | Reverse Engineering 97 B438 Weapon Fragment Meta">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fracture-clues/' | relative_url }}" title="Reading the break in a weapon fragment | What Metal Fragments Tell Analysts | What Captured Weapons Really Reveal" aria-label="Read more about Reading the break in a weapon fragment | What Metal Fragments Tell Analysts | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2441,7 +2441,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'factory-flaws/' | relative_url }}" title="The factory clues inside battlefield debris | Reverse Engineering 97 B438 Weapon Fragment Meta" aria-label="Read more about The factory clues inside battlefield debris | Reverse Engineering 97 B438 Weapon Fragment Meta">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'factory-flaws/' | relative_url }}" title="The factory clues inside battlefield debris | What Metal Fragments Tell Analysts | What Captured Weapons Really Reveal" aria-label="Read more about The factory clues inside battlefield debris | What Metal Fragments Tell Analysts | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2461,7 +2461,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'blast-deform/' | relative_url }}" title="What blasts do inside metal fragments | Reverse Engineering 97 B438 Weapon Fragment Meta" aria-label="Read more about What blasts do inside metal fragments | Reverse Engineering 97 B438 Weapon Fragment Meta">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'blast-deform/' | relative_url }}" title="What blasts do inside metal fragments | What Metal Fragments Tell Analysts | What Captured Weapons Really Reveal" aria-label="Read more about What blasts do inside metal fragments | What Metal Fragments Tell Analysts | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2481,7 +2481,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'alloy-choices/' | relative_url }}" title="What the alloy says about the weapon | Reverse Engineering 97 B438 Weapon Fragment Meta" aria-label="Read more about What the alloy says about the weapon | Reverse Engineering 97 B438 Weapon Fragment Meta">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'alloy-choices/' | relative_url }}" title="What the alloy says about the weapon | What Metal Fragments Tell Analysts | What Captured Weapons Really Reveal" aria-label="Read more about What the alloy says about the weapon | What Metal Fragments Tell Analysts | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2501,7 +2501,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'heat-treatment/' | relative_url }}" title="When good steel is processed badly | Reverse Engineering 97 B438 Weapon Fragment Meta" aria-label="Read more about When good steel is processed badly | Reverse Engineering 97 B438 Weapon Fragment Meta">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'heat-treatment/' | relative_url }}" title="When good steel is processed badly | What Metal Fragments Tell Analysts | What Captured Weapons Really Reveal" aria-label="Read more about When good steel is processed badly | What Metal Fragments Tell Analysts | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2525,7 +2525,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What the Mi G 25 Really Revealed | Reverse Engineering" aria-expanded="false" aria-controls="home-vertical-children-node-reverse-engineering-97b438-mig25-defection-bab7c4"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mi-g-25/' | relative_url }}" title="What the Mi G 25 Really Revealed | Reverse Engineering" aria-label="Read more about What the Mi G 25 Really Revealed | Reverse Engineering">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mi-g-25/' | relative_url }}" title="What the Mi G 25 Really Revealed | What Captured Weapons Really Reveal" aria-label="Read more about What the Mi G 25 Really Revealed | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2545,7 +2545,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'agility-limits/' | relative_url }}" title="How Agile Was the Mi G 25 Really? | Reverse Engineering 97 B438 Mig 25 Defection" aria-label="Read more about How Agile Was the Mi G 25 Really? | Reverse Engineering 97 B438 Mig 25 Defection">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'agility-limits/' | relative_url }}" title="How Agile Was the Mi G 25 Really? | What the Mi G 25 Really Revealed | What Captured Weapons Really Reveal" aria-label="Read more about How Agile Was the Mi G 25 Really? | What the Mi G 25 Really Revealed | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2565,7 +2565,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'belenko-flight/' | relative_url }}" title="How One Defection Opened the Foxbat | Reverse Engineering 97 B438 Mig 25 Defection" aria-label="Read more about How One Defection Opened the Foxbat | Reverse Engineering 97 B438 Mig 25 Defection">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'belenko-flight/' | relative_url }}" title="How One Defection Opened the Foxbat | What the Mi G 25 Really Revealed | What Captured Weapons Really Reveal" aria-label="Read more about How One Defection Opened the Foxbat | What the Mi G 25 Really Revealed | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2585,7 +2585,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'vacuum-tubes/' | relative_url }}" title="Were the Mi G 25&#x27;s Electronics Really Obsolete? | Reverse Engineering 97 B438 Mig 25 Defection" aria-label="Read more about Were the Mi G 25&#x27;s Electronics Really Obsolete? | Reverse Engineering 97 B438 Mig 25 Defection">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'vacuum-tubes/' | relative_url }}" title="Were the Mi G 25's Electronics Really Obsolete? | What the Mi G 25 Really Revealed | What Captured Weapons Really Reveal" aria-label="Read more about Were the Mi G 25's Electronics Really Obsolete? | What the Mi G 25 Really Revealed | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2605,7 +2605,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'design-tradeoffs/' | relative_url }}" title="What the Mi G 25&#x27;s Structure Really Revealed | Reverse Engineering 97 B438 Mig 25 Defection" aria-label="Read more about What the Mi G 25&#x27;s Structure Really Revealed | Reverse Engineering 97 B438 Mig 25 Defection">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'design-tradeoffs/' | relative_url }}" title="What the Mi G 25's Structure Really Revealed | What the Mi G 25 Really Revealed | What Captured Weapons Really Reveal" aria-label="Read more about What the Mi G 25's Structure Really Revealed | What the Mi G 25 Really Revealed | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2625,7 +2625,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'super-fighter-myth/' | relative_url }}" title="Why Did the Mi G 25 Seem So Unstoppable? | Reverse Engineering 97 B438 Mig 25 Defection" aria-label="Read more about Why Did the Mi G 25 Seem So Unstoppable? | Reverse Engineering 97 B438 Mig 25 Defection">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'super-fighter-myth/' | relative_url }}" title="Why Did the Mi G 25 Seem So Unstoppable? | What the Mi G 25 Really Revealed | What Captured Weapons Really Reveal" aria-label="Read more about Why Did the Mi G 25 Seem So Unstoppable? | What the Mi G 25 Really Revealed | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2645,7 +2645,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'japan-crisis/' | relative_url }}" title="Why Returning the Mi G 25 Was So Complicated | Reverse Engineering 97 B438 Mig 25 Defection" aria-label="Read more about Why Returning the Mi G 25 Was So Complicated | Reverse Engineering 97 B438 Mig 25 Defection">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'japan-crisis/' | relative_url }}" title="Why Returning the Mi G 25 Was So Complicated | What the Mi G 25 Really Revealed | What Captured Weapons Really Reveal" aria-label="Read more about Why Returning the Mi G 25 Was So Complicated | What the Mi G 25 Really Revealed | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2669,7 +2669,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Missile Seekers Are Studied | Reverse Engineering" aria-expanded="false" aria-controls="home-vertical-children-node-reverse-engineering-97b438-missile-seekers-b33be1"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'missile-seekers/' | relative_url }}" title="How Missile Seekers Are Studied | Reverse Engineering" aria-label="Read more about How Missile Seekers Are Studied | Reverse Engineering">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'missile-seekers/' | relative_url }}" title="How Missile Seekers Are Studied | What Captured Weapons Really Reveal" aria-label="Read more about How Missile Seekers Are Studied | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2689,7 +2689,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'nulka/' | relative_url }}" title="Can a Flying Decoy Look Like a Ship? | Reverse Engineering 97 B438 Missile Seekers" aria-label="Read more about Can a Flying Decoy Look Like a Ship? | Reverse Engineering 97 B438 Missile Seekers">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'nulka/' | relative_url }}" title="Can a Flying Decoy Look Like a Ship? | How Missile Seekers Are Studied | What Captured Weapons Really Reveal" aria-label="Read more about Can a Flying Decoy Look Like a Ship? | How Missile Seekers Are Studied | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2709,7 +2709,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ir-scenes/' | relative_url }}" title="Testing Decoys Through the Missile&#x27;s Eyes | Reverse Engineering 97 B438 Missile Seekers" aria-label="Read more about Testing Decoys Through the Missile&#x27;s Eyes | Reverse Engineering 97 B438 Missile Seekers">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ir-scenes/' | relative_url }}" title="Testing Decoys Through the Missile's Eyes | How Missile Seekers Are Studied | What Captured Weapons Really Reveal" aria-label="Read more about Testing Decoys Through the Missile's Eyes | How Missile Seekers Are Studied | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2729,7 +2729,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'warnings/' | relative_url }}" title="The Cost of Crying Missile Too Often | Reverse Engineering 97 B438 Missile Seekers" aria-label="Read more about The Cost of Crying Missile Too Often | Reverse Engineering 97 B438 Missile Seekers">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'warnings/' | relative_url }}" title="The Cost of Crying Missile Too Often | How Missile Seekers Are Studied | What Captured Weapons Really Reveal" aria-label="Read more about The Cost of Crying Missile Too Often | How Missile Seekers Are Studied | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2749,7 +2749,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fragments/' | relative_url }}" title="What Broken Missile Seekers Can Still Tell | Reverse Engineering 97 B438 Missile Seekers" aria-label="Read more about What Broken Missile Seekers Can Still Tell | Reverse Engineering 97 B438 Missile Seekers">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fragments/' | relative_url }}" title="What Broken Missile Seekers Can Still Tell | How Missile Seekers Are Studied | What Captured Weapons Really Reveal" aria-label="Read more about What Broken Missile Seekers Can Still Tell | How Missile Seekers Are Studied | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2769,7 +2769,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'chaff-limits/' | relative_url }}" title="When Chaff Stops Looking Like a Ship | Reverse Engineering 97 B438 Missile Seekers" aria-label="Read more about When Chaff Stops Looking Like a Ship | Reverse Engineering 97 B438 Missile Seekers">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'chaff-limits/' | relative_url }}" title="When Chaff Stops Looking Like a Ship | How Missile Seekers Are Studied | What Captured Weapons Really Reveal" aria-label="Read more about When Chaff Stops Looking Like a Ship | How Missile Seekers Are Studied | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2789,7 +2789,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'flares/' | relative_url }}" title="Why Hotter Flares Are Not Always Better | Reverse Engineering 97 B438 Missile Seekers" aria-label="Read more about Why Hotter Flares Are Not Always Better | Reverse Engineering 97 B438 Missile Seekers">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'flares/' | relative_url }}" title="Why Hotter Flares Are Not Always Better | How Missile Seekers Are Studied | What Captured Weapons Really Reveal" aria-label="Read more about Why Hotter Flares Are Not Always Better | How Missile Seekers Are Studied | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2813,7 +2813,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Inside Air and Space Exploitation | Reverse Engineering" aria-expanded="false" aria-controls="home-vertical-children-node-reverse-engineering-97b438-nasic-air-space-fme-e30511"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'nasic/' | relative_url }}" title="Inside Air and Space Exploitation | Reverse Engineering" aria-label="Read more about Inside Air and Space Exploitation | Reverse Engineering">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'nasic/' | relative_url }}" title="Inside Air and Space Exploitation | What Captured Weapons Really Reveal" aria-label="Read more about Inside Air and Space Exploitation | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2833,7 +2833,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fme-squadron/' | relative_url }}" title="Inside NASIC&#x27;s Exploitation Team | Reverse Engineering 97 B438 Nasic Air Space Fme" aria-label="Read more about Inside NASIC&#x27;s Exploitation Team | Reverse Engineering 97 B438 Nasic Air Space Fme">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fme-squadron/' | relative_url }}" title="Inside NASIC's Exploitation Team | Inside Air and Space Exploitation | What Captured Weapons Really Reveal" aria-label="Read more about Inside NASIC's Exploitation Team | Inside Air and Space Exploitation | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2853,7 +2853,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'embedded-tech/' | relative_url }}" title="What Circuit Boards Can Give Away | Reverse Engineering 97 B438 Nasic Air Space Fme" aria-label="Read more about What Circuit Boards Can Give Away | Reverse Engineering 97 B438 Nasic Air Space Fme">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'embedded-tech/' | relative_url }}" title="What Circuit Boards Can Give Away | Inside Air and Space Exploitation | What Captured Weapons Really Reveal" aria-label="Read more about What Circuit Boards Can Give Away | Inside Air and Space Exploitation | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2873,7 +2873,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'rf-testing/' | relative_url }}" title="What Foreign Signals Reveal | Reverse Engineering 97 B438 Nasic Air Space Fme" aria-label="Read more about What Foreign Signals Reveal | Reverse Engineering 97 B438 Nasic Air Space Fme">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'rf-testing/' | relative_url }}" title="What Foreign Signals Reveal | Inside Air and Space Exploitation | What Captured Weapons Really Reveal" aria-label="Read more about What Foreign Signals Reveal | Inside Air and Space Exploitation | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2893,7 +2893,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'watson-hall/' | relative_url }}" title="What More Lab Space Made Possible | Reverse Engineering 97 B438 Nasic Air Space Fme" aria-label="Read more about What More Lab Space Made Possible | Reverse Engineering 97 B438 Nasic Air Space Fme">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'watson-hall/' | relative_url }}" title="What More Lab Space Made Possible | Inside Air and Space Exploitation | What Captured Weapons Really Reveal" aria-label="Read more about What More Lab Space Made Possible | Inside Air and Space Exploitation | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2913,7 +2913,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'real-hardware/' | relative_url }}" title="Why Captured Hardware Beats Guesswork | Reverse Engineering 97 B438 Nasic Air Space Fme" aria-label="Read more about Why Captured Hardware Beats Guesswork | Reverse Engineering 97 B438 Nasic Air Space Fme">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'real-hardware/' | relative_url }}" title="Why Captured Hardware Beats Guesswork | Inside Air and Space Exploitation | What Captured Weapons Really Reveal" aria-label="Read more about Why Captured Hardware Beats Guesswork | Inside Air and Space Exploitation | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2933,7 +2933,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hidden-catalogue/' | relative_url }}" title="Why NASIC&#x27;s Captured Systems Stay Unnamed | Reverse Engineering 97 B438 Nasic Air Space Fme" aria-label="Read more about Why NASIC&#x27;s Captured Systems Stay Unnamed | Reverse Engineering 97 B438 Nasic Air Space Fme">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hidden-catalogue/' | relative_url }}" title="Why NASIC's Captured Systems Stay Unnamed | Inside Air and Space Exploitation | What Captured Weapons Really Reveal" aria-label="Read more about Why NASIC's Captured Systems Stay Unnamed | Inside Air and Space Exploitation | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2957,7 +2957,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: The Race for German Secret Technology | Reverse Engineering" aria-expanded="false" aria-controls="home-vertical-children-node-reverse-engineering-97b438-operation-lusty-391384"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'operation-lusty/' | relative_url }}" title="The Race for German Secret Technology | Reverse Engineering" aria-label="Read more about The Race for German Secret Technology | Reverse Engineering">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'operation-lusty/' | relative_url }}" title="The Race for German Secret Technology | What Captured Weapons Really Reveal" aria-label="Read more about The Race for German Secret Technology | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2977,7 +2977,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'whizzers/' | relative_url }}" title="How Watson&#x27;s Whizzers flew enemy aircraft home | Reverse Engineering 97 B438 Operation Lusty" aria-label="Read more about How Watson&#x27;s Whizzers flew enemy aircraft home | Reverse Engineering 97 B438 Operation Lusty">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'whizzers/' | relative_url }}" title="How Watson's Whizzers flew enemy aircraft home | The Race for German Secret Technology | What Captured Weapons Really Reveal" aria-label="Read more about How Watson's Whizzers flew enemy aircraft home | The Race for German Secret Technology | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -2997,7 +2997,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'do-335/' | relative_url }}" title="The fast German aircraft that proved tradeoffs matter | Reverse Engineering 97 B438 Operation Lusty" aria-label="Read more about The fast German aircraft that proved tradeoffs matter | Reverse Engineering 97 B438 Operation Lusty">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'do-335/' | relative_url }}" title="The fast German aircraft that proved tradeoffs matter | The Race for German Secret Technology | What Captured Weapons Really Reveal" aria-label="Read more about The fast German aircraft that proved tradeoffs matter | The Race for German Secret Technology | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3017,7 +3017,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'experts/' | relative_url }}" title="The human side of reverse engineering aircraft | Reverse Engineering 97 B438 Operation Lusty" aria-label="Read more about The human side of reverse engineering aircraft | Reverse Engineering 97 B438 Operation Lusty">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'experts/' | relative_url }}" title="The human side of reverse engineering aircraft | The Race for German Secret Technology | What Captured Weapons Really Reveal" aria-label="Read more about The human side of reverse engineering aircraft | The Race for German Secret Technology | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3037,7 +3037,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'me-262/' | relative_url }}" title="What the Me 262 taught American intelligence | Reverse Engineering 97 B438 Operation Lusty" aria-label="Read more about What the Me 262 taught American intelligence | Reverse Engineering 97 B438 Operation Lusty">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'me-262/' | relative_url }}" title="What the Me 262 taught American intelligence | The Race for German Secret Technology | What Captured Weapons Really Reveal" aria-label="Read more about What the Me 262 taught American intelligence | The Race for German Secret Technology | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3057,7 +3057,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'documents/' | relative_url }}" title="Why captured papers mattered as much as jets | Reverse Engineering 97 B438 Operation Lusty" aria-label="Read more about Why captured papers mattered as much as jets | Reverse Engineering 97 B438 Operation Lusty">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'documents/' | relative_url }}" title="Why captured papers mattered as much as jets | The Race for German Secret Technology | What Captured Weapons Really Reveal" aria-label="Read more about Why captured papers mattered as much as jets | The Race for German Secret Technology | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3077,7 +3077,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ar-234/' | relative_url }}" title="Why the Ar 234 was more than a trophy | Reverse Engineering 97 B438 Operation Lusty" aria-label="Read more about Why the Ar 234 was more than a trophy | Reverse Engineering 97 B438 Operation Lusty">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ar-234/' | relative_url }}" title="Why the Ar 234 was more than a trophy | The Race for German Secret Technology | What Captured Weapons Really Reveal" aria-label="Read more about Why the Ar 234 was more than a trophy | The Race for German Secret Technology | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3121,7 +3121,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'v-2-tests/' | relative_url }}" title="How America Learned From the V 2 | Reverse Engineering 97 B438 Project Paperclip" aria-label="Read more about How America Learned From the V 2 | Reverse Engineering 97 B438 Project Paperclip">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'v-2-tests/' | relative_url }}" title="How America Learned From the V 2 | When Reverse Engineering Needed Engineers | What Captured Weapons Really Reveal" aria-label="Read more about How America Learned From the V 2 | When Reverse Engineering Needed Engineers | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3141,7 +3141,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'wright-field/' | relative_url }}" title="Paperclip Was Not Only About Rockets | Reverse Engineering 97 B438 Project Paperclip" aria-label="Read more about Paperclip Was Not Only About Rockets | Reverse Engineering 97 B438 Project Paperclip">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'wright-field/' | relative_url }}" title="Paperclip Was Not Only About Rockets | When Reverse Engineering Needed Engineers | What Captured Weapons Really Reveal" aria-label="Read more about Paperclip Was Not Only About Rockets | When Reverse Engineering Needed Engineers | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3161,7 +3161,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'von-braun/' | relative_url }}" title="The Rocket Genius Problem Paperclip Created | Reverse Engineering 97 B438 Project Paperclip" aria-label="Read more about The Rocket Genius Problem Paperclip Created | Reverse Engineering 97 B438 Project Paperclip">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'von-braun/' | relative_url }}" title="The Rocket Genius Problem Paperclip Created | When Reverse Engineering Needed Engineers | What Captured Weapons Really Reveal" aria-label="Read more about The Rocket Genius Problem Paperclip Created | When Reverse Engineering Needed Engineers | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3181,7 +3181,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'document-haul/' | relative_url }}" title="When Captured Files Needed Human Interpreters | Reverse Engineering 97 B438 Project Paperclip" aria-label="Read more about When Captured Files Needed Human Interpreters | Reverse Engineering 97 B438 Project Paperclip">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'document-haul/' | relative_url }}" title="When Captured Files Needed Human Interpreters | When Reverse Engineering Needed Engineers | What Captured Weapons Really Reveal" aria-label="Read more about When Captured Files Needed Human Interpreters | When Reverse Engineering Needed Engineers | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3201,7 +3201,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'jioa-control/' | relative_url }}" title="Who Managed Paperclip&#x27;s Imported Scientists? | Reverse Engineering 97 B438 Project Paperclip" aria-label="Read more about Who Managed Paperclip&#x27;s Imported Scientists? | Reverse Engineering 97 B438 Project Paperclip">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'jioa-control/' | relative_url }}" title="Who Managed Paperclip's Imported Scientists? | When Reverse Engineering Needed Engineers | What Captured Weapons Really Reveal" aria-label="Read more about Who Managed Paperclip's Imported Scientists? | When Reverse Engineering Needed Engineers | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3221,7 +3221,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'human-know-how/' | relative_url }}" title="Why Captured Hardware Was Not Enough | Reverse Engineering 97 B438 Project Paperclip" aria-label="Read more about Why Captured Hardware Was Not Enough | Reverse Engineering 97 B438 Project Paperclip">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'human-know-how/' | relative_url }}" title="Why Captured Hardware Was Not Enough | When Reverse Engineering Needed Engineers | What Captured Weapons Really Reveal" aria-label="Read more about Why Captured Hardware Was Not Enough | When Reverse Engineering Needed Engineers | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3245,7 +3245,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Captured Radars Give Away | Reverse Engineering" aria-expanded="false" aria-controls="home-vertical-children-node-reverse-engineering-97b438-radar-exploitation-5839d7"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-signatures/' | relative_url }}" title="What Captured Radars Give Away | Reverse Engineering" aria-label="Read more about What Captured Radars Give Away | Reverse Engineering">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-signatures/' | relative_url }}" title="What Captured Radars Give Away | What Captured Weapons Really Reveal" aria-label="Read more about What Captured Radars Give Away | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3265,7 +3265,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'emitter-libraries/' | relative_url }}" title="From Captured Pulses to Mission Data | Reverse Engineering 97 B438 Radar Exploitation" aria-label="Read more about From Captured Pulses to Mission Data | Reverse Engineering 97 B438 Radar Exploitation">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'emitter-libraries/' | relative_url }}" title="From Captured Pulses to Mission Data | What Captured Radars Give Away | What Captured Weapons Really Reveal" aria-label="Read more about From Captured Pulses to Mission Data | What Captured Radars Give Away | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3285,7 +3285,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'scan-patterns/' | relative_url }}" title="The Clues Hidden in a Radar Beam | Reverse Engineering 97 B438 Radar Exploitation" aria-label="Read more about The Clues Hidden in a Radar Beam | Reverse Engineering 97 B438 Radar Exploitation">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'scan-patterns/' | relative_url }}" title="The Clues Hidden in a Radar Beam | What Captured Radars Give Away | What Captured Weapons Really Reveal" aria-label="Read more about The Clues Hidden in a Radar Beam | What Captured Radars Give Away | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3305,7 +3305,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-limits/' | relative_url }}" title="The Weaknesses a Radar Cannot Hide | Reverse Engineering 97 B438 Radar Exploitation" aria-label="Read more about The Weaknesses a Radar Cannot Hide | Reverse Engineering 97 B438 Radar Exploitation">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-limits/' | relative_url }}" title="The Weaknesses a Radar Cannot Hide | What Captured Radars Give Away | What Captured Weapons Really Reveal" aria-label="Read more about The Weaknesses a Radar Cannot Hide | What Captured Radars Give Away | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3325,7 +3325,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mode-changes/' | relative_url }}" title="When a Radar Becomes a Real Threat | Reverse Engineering 97 B438 Radar Exploitation" aria-label="Read more about When a Radar Becomes a Real Threat | Reverse Engineering 97 B438 Radar Exploitation">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mode-changes/' | relative_url }}" title="When a Radar Becomes a Real Threat | What Captured Radars Give Away | What Captured Weapons Really Reveal" aria-label="Read more about When a Radar Becomes a Real Threat | What Captured Radars Give Away | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3345,7 +3345,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'lab-vs-signals/' | relative_url }}" title="Why One Intercept Is Not Enough | Reverse Engineering 97 B438 Radar Exploitation" aria-label="Read more about Why One Intercept Is Not Enough | Reverse Engineering 97 B438 Radar Exploitation">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'lab-vs-signals/' | relative_url }}" title="Why One Intercept Is Not Enough | What Captured Radars Give Away | What Captured Weapons Really Reveal" aria-label="Read more about Why One Intercept Is Not Enough | What Captured Radars Give Away | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3365,7 +3365,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'threat-calls/' | relative_url }}" title="Why Radar Warnings Get More Specific | Reverse Engineering 97 B438 Radar Exploitation" aria-label="Read more about Why Radar Warnings Get More Specific | Reverse Engineering 97 B438 Radar Exploitation">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'threat-calls/' | relative_url }}" title="Why Radar Warnings Get More Specific | What Captured Radars Give Away | What Captured Weapons Really Reveal" aria-label="Read more about Why Radar Warnings Get More Specific | What Captured Radars Give Away | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3389,7 +3389,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Captured Hardware Reaches the Lab | Reverse Engineering" aria-expanded="false" aria-controls="home-vertical-children-node-reverse-engineering-97b438-battlefield-recovery-773544"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'recovery-teams/' | relative_url }}" title="How Captured Hardware Reaches the Lab | Reverse Engineering" aria-label="Read more about How Captured Hardware Reaches the Lab | Reverse Engineering">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'recovery-teams/' | relative_url }}" title="How Captured Hardware Reaches the Lab | What Captured Weapons Really Reveal" aria-label="Read more about How Captured Hardware Reaches the Lab | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3409,7 +3409,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'vietnam-cmec/' | relative_url }}" title="How Vietnam Turned Captured Gear Into a System | Reverse Engineering 97 B438 Battlefield Recovery" aria-label="Read more about How Vietnam Turned Captured Gear Into a System | Reverse Engineering 97 B438 Battlefield Recovery">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'vietnam-cmec/' | relative_url }}" title="How Vietnam Turned Captured Gear Into a System | How Captured Hardware Reaches the Lab | What Captured Weapons Really Reveal" aria-label="Read more about How Vietnam Turned Captured Gear Into a System | How Captured Hardware Reaches the Lab | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3429,7 +3429,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'eod-safety/' | relative_url }}" title="Making Captured Weapons Safe Without Ruining the Clues | Reverse Engineering 97 B438 Battlefield Recovery" aria-label="Read more about Making Captured Weapons Safe Without Ruining the Clues | Reverse Engineering 97 B438 Battlefield Recovery">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'eod-safety/' | relative_url }}" title="Making Captured Weapons Safe Without Ruining the Clues | How Captured Hardware Reaches the Lab | What Captured Weapons Really Reveal" aria-label="Read more about Making Captured Weapons Safe Without Ruining the Clues | How Captured Hardware Reaches the Lab | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3449,7 +3449,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'photologs/' | relative_url }}" title="The Photos That Save a Wreck&#x27;s Original Story | Reverse Engineering 97 B438 Battlefield Recovery" aria-label="Read more about The Photos That Save a Wreck&#x27;s Original Story | Reverse Engineering 97 B438 Battlefield Recovery">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'photologs/' | relative_url }}" title="The Photos That Save a Wreck's Original Story | How Captured Hardware Reaches the Lab | What Captured Weapons Really Reveal" aria-label="Read more about The Photos That Save a Wreck's Original Story | How Captured Hardware Reaches the Lab | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3469,7 +3469,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'stop-stripping/' | relative_url }}" title="When Souvenirs Destroy the Intelligence Story | Reverse Engineering 97 B438 Battlefield Recovery" aria-label="Read more about When Souvenirs Destroy the Intelligence Story | Reverse Engineering 97 B438 Battlefield Recovery">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'stop-stripping/' | relative_url }}" title="When Souvenirs Destroy the Intelligence Story | How Captured Hardware Reaches the Lab | What Captured Weapons Really Reveal" aria-label="Read more about When Souvenirs Destroy the Intelligence Story | How Captured Hardware Reaches the Lab | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3489,7 +3489,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'stop-disassembly/' | relative_url }}" title="Where Field Exploitation Should Stop | Reverse Engineering 97 B438 Battlefield Recovery" aria-label="Read more about Where Field Exploitation Should Stop | Reverse Engineering 97 B438 Battlefield Recovery">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'stop-disassembly/' | relative_url }}" title="Where Field Exploitation Should Stop | How Captured Hardware Reaches the Lab | What Captured Weapons Really Reveal" aria-label="Read more about Where Field Exploitation Should Stop | How Captured Hardware Reaches the Lab | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3509,7 +3509,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'capture-tags/' | relative_url }}" title="Why the Tag Can Matter as Much as the Weapon | Reverse Engineering 97 B438 Battlefield Recovery" aria-label="Read more about Why the Tag Can Matter as Much as the Weapon | Reverse Engineering 97 B438 Battlefield Recovery">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'capture-tags/' | relative_url }}" title="Why the Tag Can Matter as Much as the Weapon | How Captured Hardware Reaches the Lab | What Captured Weapons Really Reveal" aria-label="Read more about Why the Tag Can Matter as Much as the Weapon | How Captured Hardware Reaches the Lab | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3533,7 +3533,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: When a Replica Is Good Enough | Reverse Engineering" aria-expanded="false" aria-controls="home-vertical-children-node-reverse-engineering-97b438-threat-replicas-simu-04f4b5"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'replicas/' | relative_url }}" title="When a Replica Is Good Enough | Reverse Engineering" aria-label="Read more about When a Replica Is Good Enough | Reverse Engineering">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'replicas/' | relative_url }}" title="When a Replica Is Good Enough | What Captured Weapons Really Reveal" aria-label="Read more about When a Replica Is Good Enough | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3553,7 +3553,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'realism-costs/' | relative_url }}" title="How real does a fake threat need to be? | Reverse Engineering 97 B438 Threat Replicas Simu" aria-label="Read more about How real does a fake threat need to be? | Reverse Engineering 97 B438 Threat Replicas Simu">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'realism-costs/' | relative_url }}" title="How real does a fake threat need to be? | When a Replica Is Good Enough | What Captured Weapons Really Reveal" aria-label="Read more about How real does a fake threat need to be? | When a Replica Is Good Enough | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3573,7 +3573,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'threat-libraries-fa26f5/' | relative_url }}" title="The data behind realistic fake enemies | Reverse Engineering 97 B438 Threat Replicas Simu" aria-label="Read more about The data behind realistic fake enemies | Reverse Engineering 97 B438 Threat Replicas Simu">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'threat-libraries-fa26f5/' | relative_url }}" title="The data behind realistic fake enemies | When a Replica Is Good Enough | What Captured Weapons Really Reveal" aria-label="Read more about The data behind realistic fake enemies | When a Replica Is Good Enough | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3593,7 +3593,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fake-armor/' | relative_url }}" title="The fake armor soldiers learn to spot | Reverse Engineering 97 B438 Threat Replicas Simu" aria-label="Read more about The fake armor soldiers learn to spot | Reverse Engineering 97 B438 Threat Replicas Simu">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fake-armor/' | relative_url }}" title="The fake armor soldiers learn to spot | When a Replica Is Good Enough | What Captured Weapons Really Reveal" aria-label="Read more about The fake armor soldiers learn to spot | When a Replica Is Good Enough | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3613,7 +3613,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-emitters/' | relative_url }}" title="When a fake radar feels real enough | Reverse Engineering 97 B438 Threat Replicas Simu" aria-label="Read more about When a fake radar feels real enough | Reverse Engineering 97 B438 Threat Replicas Simu">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'radar-emitters/' | relative_url }}" title="When a fake radar feels real enough | When a Replica Is Good Enough | What Captured Weapons Really Reveal" aria-label="Read more about When a fake radar feels real enough | When a Replica Is Good Enough | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3633,7 +3633,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sensor-targets/' | relative_url }}" title="When the machine is the audience | Reverse Engineering 97 B438 Threat Replicas Simu" aria-label="Read more about When the machine is the audience | Reverse Engineering 97 B438 Threat Replicas Simu">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sensor-targets/' | relative_url }}" title="When the machine is the audience | When a Replica Is Good Enough | What Captured Weapons Really Reveal" aria-label="Read more about When the machine is the audience | When a Replica Is Good Enough | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3653,7 +3653,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'range-simulators/' | relative_url }}" title="Why ranges use mobile fake threats | Reverse Engineering 97 B438 Threat Replicas Simu" aria-label="Read more about Why ranges use mobile fake threats | Reverse Engineering 97 B438 Threat Replicas Simu">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'range-simulators/' | relative_url }}" title="Why ranges use mobile fake threats | When a Replica Is Good Enough | What Captured Weapons Really Reveal" aria-label="Read more about Why ranges use mobile fake threats | When a Replica Is Good Enough | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3677,7 +3677,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Weapon Parts Trace Sanctions Gaps | Reverse Engineering" aria-expanded="false" aria-controls="home-vertical-children-node-reverse-engineering-97b438-component-tracing-sa-863d31"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sanctions/' | relative_url }}" title="How Weapon Parts Trace Sanctions Gaps | Reverse Engineering" aria-label="Read more about How Weapon Parts Trace Sanctions Gaps | Reverse Engineering">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sanctions/' | relative_url }}" title="How Weapon Parts Trace Sanctions Gaps | What Captured Weapons Really Reveal" aria-label="Read more about How Weapon Parts Trace Sanctions Gaps | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3697,7 +3697,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'serial-leads/' | relative_url }}" title="How One Serial Number Can Start a Sanctions Case | Reverse Engineering 97 B438 Component Tracing" aria-label="Read more about How One Serial Number Can Start a Sanctions Case | Reverse Engineering 97 B438 Component Tracing">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'serial-leads/' | relative_url }}" title="How One Serial Number Can Start a Sanctions Case | How Weapon Parts Trace Sanctions Gaps | What Captured Weapons Really Reveal" aria-label="Read more about How One Serial Number Can Start a Sanctions Case | How Weapon Parts Trace Sanctions Gaps | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3717,7 +3717,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 're-exports/' | relative_url }}" title="How Re Export Chains Keep Parts Moving | Reverse Engineering 97 B438 Component Tracing" aria-label="Read more about How Re Export Chains Keep Parts Moving | Reverse Engineering 97 B438 Component Tracing">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 're-exports/' | relative_url }}" title="How Re Export Chains Keep Parts Moving | How Weapon Parts Trace Sanctions Gaps | What Captured Weapons Really Reveal" aria-label="Read more about How Re Export Chains Keep Parts Moving | How Weapon Parts Trace Sanctions Gaps | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3737,7 +3737,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'company-risk/' | relative_url }}" title="When a Logo in a Weapon Is Not Enough | Reverse Engineering 97 B438 Component Tracing" aria-label="Read more about When a Logo in a Weapon Is Not Enough | Reverse Engineering 97 B438 Component Tracing">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'company-risk/' | relative_url }}" title="When a Logo in a Weapon Is Not Enough | How Weapon Parts Trace Sanctions Gaps | What Captured Weapons Really Reveal" aria-label="Read more about When a Logo in a Weapon Is Not Enough | How Weapon Parts Trace Sanctions Gaps | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3757,7 +3757,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'common-chips/' | relative_url }}" title="Why Ordinary Chips Become Military Bottlenecks | Reverse Engineering 97 B438 Component Tracing" aria-label="Read more about Why Ordinary Chips Become Military Bottlenecks | Reverse Engineering 97 B438 Component Tracing">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'common-chips/' | relative_url }}" title="Why Ordinary Chips Become Military Bottlenecks | How Weapon Parts Trace Sanctions Gaps | What Captured Weapons Really Reveal" aria-label="Read more about Why Ordinary Chips Become Military Bottlenecks | How Weapon Parts Trace Sanctions Gaps | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3777,7 +3777,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'new-chips/' | relative_url }}" title="Why Post Invasion Chips Are Harder to Explain | Reverse Engineering 97 B438 Component Tracing" aria-label="Read more about Why Post Invasion Chips Are Harder to Explain | Reverse Engineering 97 B438 Component Tracing">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'new-chips/' | relative_url }}" title="Why Post Invasion Chips Are Harder to Explain | How Weapon Parts Trace Sanctions Gaps | What Captured Weapons Really Reveal" aria-label="Read more about Why Post Invasion Chips Are Harder to Explain | How Weapon Parts Trace Sanctions Gaps | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3797,7 +3797,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'databases-1ae59c/' | relative_url }}" title="Why Ukraine Publishes Russia&#x27;s Foreign Components | Reverse Engineering 97 B438 Component Tracing" aria-label="Read more about Why Ukraine Publishes Russia&#x27;s Foreign Components | Reverse Engineering 97 B438 Component Tracing">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'databases-1ae59c/' | relative_url }}" title="Why Ukraine Publishes Russia's Foreign Components | How Weapon Parts Trace Sanctions Gaps | What Captured Weapons Really Reveal" aria-label="Read more about Why Ukraine Publishes Russia's Foreign Components | How Weapon Parts Trace Sanctions Gaps | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3821,7 +3821,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Can a Missile Be Copied Whole? | Reverse Engineering" aria-expanded="false" aria-controls="home-vertical-children-node-reverse-engineering-97b438-sidewinder-copying-l-82f35b"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'sidewinder/' | relative_url }}" title="Can a Missile Be Copied Whole? | Reverse Engineering" aria-label="Read more about Can a Missile Be Copied Whole? | Reverse Engineering">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'sidewinder/' | relative_url }}" title="Can a Missile Be Copied Whole? | What Captured Weapons Really Reveal" aria-label="Read more about Can a Missile Be Copied Whole? | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3841,7 +3841,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'copy-vs-mastery/' | relative_url }}" title="Copying a Missile Is Not Mastering It | Reverse Engineering 97 B438 Sidewinder Copying" aria-label="Read more about Copying a Missile Is Not Mastering It | Reverse Engineering 97 B438 Sidewinder Copying">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'copy-vs-mastery/' | relative_url }}" title="Copying a Missile Is Not Mastering It | Can a Missile Be Copied Whole? | What Captured Weapons Really Reveal" aria-label="Read more about Copying a Missile Is Not Mastering It | Can a Missile Be Copied Whole? | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3861,7 +3861,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'k-13-copy/' | relative_url }}" title="How One Sidewinder Became a Soviet Missile | Reverse Engineering 97 B438 Sidewinder Copying" aria-label="Read more about How One Sidewinder Became a Soviet Missile | Reverse Engineering 97 B438 Sidewinder Copying">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'k-13-copy/' | relative_url }}" title="How One Sidewinder Became a Soviet Missile | Can a Missile Be Copied Whole? | What Captured Weapons Really Reveal" aria-label="Read more about How One Sidewinder Became a Soviet Missile | Can a Missile Be Copied Whole? | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3881,7 +3881,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fuze-lessons/' | relative_url }}" title="The Hidden Problem of Making Missiles Explode | Reverse Engineering 97 B438 Sidewinder Copying" aria-label="Read more about The Hidden Problem of Making Missiles Explode | Reverse Engineering 97 B438 Sidewinder Copying">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fuze-lessons/' | relative_url }}" title="The Hidden Problem of Making Missiles Explode | Can a Missile Be Copied Whole? | What Captured Weapons Really Reveal" aria-label="Read more about The Hidden Problem of Making Missiles Explode | Can a Missile Be Copied Whole? | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3901,7 +3901,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'combat-feel/' | relative_url }}" title="When a Copy Looks Right but Fights Differently | Reverse Engineering 97 B438 Sidewinder Copying" aria-label="Read more about When a Copy Looks Right but Fights Differently | Reverse Engineering 97 B438 Sidewinder Copying">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'combat-feel/' | relative_url }}" title="When a Copy Looks Right but Fights Differently | Can a Missile Be Copied Whole? | What Captured Weapons Really Reveal" aria-label="Read more about When a Copy Looks Right but Fights Differently | Can a Missile Be Copied Whole? | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3921,7 +3921,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'pl-2-path/' | relative_url }}" title="Why China&#x27;s Sidewinder Copy Took Years | Reverse Engineering 97 B438 Sidewinder Copying" aria-label="Read more about Why China&#x27;s Sidewinder Copy Took Years | Reverse Engineering 97 B438 Sidewinder Copying">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'pl-2-path/' | relative_url }}" title="Why China's Sidewinder Copy Took Years | Can a Missile Be Copied Whole? | What Captured Weapons Really Reveal" aria-label="Read more about Why China's Sidewinder Copy Took Years | Can a Missile Be Copied Whole? | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3941,7 +3941,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'seeker-limits/' | relative_url }}" title="Why the Sidewinder Seeker Was Hard to Copy | Reverse Engineering 97 B438 Sidewinder Copying" aria-label="Read more about Why the Sidewinder Seeker Was Hard to Copy | Reverse Engineering 97 B438 Sidewinder Copying">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'seeker-limits/' | relative_url }}" title="Why the Sidewinder Seeker Was Hard to Copy | Can a Missile Be Copied Whole? | What Captured Weapons Really Reveal" aria-label="Read more about Why the Sidewinder Seeker Was Hard to Copy | Can a Missile Be Copied Whole? | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3965,7 +3965,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Missile Debris Says About Supply Chains | Reverse Engineering" aria-expanded="false" aria-controls="home-vertical-children-node-reverse-engineering-97b438-missile-drone-supply-d38175"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'supply-chains/' | relative_url }}" title="What Missile Debris Says About Supply Chains | Reverse Engineering" aria-label="Read more about What Missile Debris Says About Supply Chains | Reverse Engineering">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'supply-chains/' | relative_url }}" title="What Missile Debris Says About Supply Chains | What Captured Weapons Really Reveal" aria-label="Read more about What Missile Debris Says About Supply Chains | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -3985,7 +3985,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'databases/' | relative_url }}" title="Can Wreckage Become a Searchable Sanctions Map? | Reverse Engineering 97 B438 Missile Drone Supply" aria-label="Read more about Can Wreckage Become a Searchable Sanctions Map? | Reverse Engineering 97 B438 Missile Drone Supply">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'databases/' | relative_url }}" title="Can Wreckage Become a Searchable Sanctions Map? | What Missile Debris Says About Supply Chains | What Captured Weapons Really Reveal" aria-label="Read more about Can Wreckage Become a Searchable Sanctions Map? | What Missile Debris Says About Supply Chains | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -4005,7 +4005,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'priority-lists/' | relative_url }}" title="How Debris Shapes Export Control Lists | Reverse Engineering 97 B438 Missile Drone Supply" aria-label="Read more about How Debris Shapes Export Control Lists | Reverse Engineering 97 B438 Missile Drone Supply">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'priority-lists/' | relative_url }}" title="How Debris Shapes Export Control Lists | What Missile Debris Says About Supply Chains | What Captured Weapons Really Reveal" aria-label="Read more about How Debris Shapes Export Control Lists | What Missile Debris Says About Supply Chains | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -4025,7 +4025,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'procurement-trails/' | relative_url }}" title="How Wreckage Exposes a Living Supply Chain | Reverse Engineering 97 B438 Missile Drone Supply" aria-label="Read more about How Wreckage Exposes a Living Supply Chain | Reverse Engineering 97 B438 Missile Drone Supply">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'procurement-trails/' | relative_url }}" title="How Wreckage Exposes a Living Supply Chain | What Missile Debris Says About Supply Chains | What Captured Weapons Really Reveal" aria-label="Read more about How Wreckage Exposes a Living Supply Chain | What Missile Debris Says About Supply Chains | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -4045,7 +4045,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'kh-69-shift/' | relative_url }}" title="When Sanctions Leave Marks Inside a Missile | Reverse Engineering 97 B438 Missile Drone Supply" aria-label="Read more about When Sanctions Leave Marks Inside a Missile | Reverse Engineering 97 B438 Missile Drone Supply">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'kh-69-shift/' | relative_url }}" title="When Sanctions Leave Marks Inside a Missile | What Missile Debris Says About Supply Chains | What Captured Weapons Really Reveal" aria-label="Read more about When Sanctions Leave Marks Inside a Missile | What Missile Debris Says About Supply Chains | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -4065,7 +4065,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'shahed-parts/' | relative_url }}" title="Why Drone Parts Can Move So Fast | Reverse Engineering 97 B438 Missile Drone Supply" aria-label="Read more about Why Drone Parts Can Move So Fast | Reverse Engineering 97 B438 Missile Drone Supply">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'shahed-parts/' | relative_url }}" title="Why Drone Parts Can Move So Fast | What Missile Debris Says About Supply Chains | What Captured Weapons Really Reveal" aria-label="Read more about Why Drone Parts Can Move So Fast | What Missile Debris Says About Supply Chains | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -4085,7 +4085,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'ordinary-parts/' | relative_url }}" title="Why Mundane Chips Matter So Much | Reverse Engineering 97 B438 Missile Drone Supply" aria-label="Read more about Why Mundane Chips Matter So Much | Reverse Engineering 97 B438 Missile Drone Supply">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'ordinary-parts/' | relative_url }}" title="Why Mundane Chips Matter So Much | What Missile Debris Says About Supply Chains | What Captured Weapons Really Reveal" aria-label="Read more about Why Mundane Chips Matter So Much | What Missile Debris Says About Supply Chains | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -4109,7 +4109,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: When Enemy Weapons Look Stronger Than They Are | Reverse Engineering" aria-expanded="false" aria-controls="home-vertical-children-node-reverse-engineering-97b438-threat-inflation-1006bd"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'threat-myths/' | relative_url }}" title="When Enemy Weapons Look Stronger Than They Are | Reverse Engineering" aria-label="Read more about When Enemy Weapons Look Stronger Than They Are | Reverse Engineering">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'threat-myths/' | relative_url }}" title="When Enemy Weapons Look Stronger Than They Are | What Captured Weapons Really Reveal" aria-label="Read more about When Enemy Weapons Look Stronger Than They Are | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -4129,7 +4129,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fme-reality/' | relative_url }}" title="How Captured Hardware Cuts Through Myth | Reverse Engineering 97 B438 Threat Inflation" aria-label="Read more about How Captured Hardware Cuts Through Myth | Reverse Engineering 97 B438 Threat Inflation">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fme-reality/' | relative_url }}" title="How Captured Hardware Cuts Through Myth | When Enemy Weapons Look Stronger Than They Are | What Captured Weapons Really Reveal" aria-label="Read more about How Captured Hardware Cuts Through Myth | When Enemy Weapons Look Stronger Than They Are | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -4149,7 +4149,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mi-g-21-tactics/' | relative_url }}" title="How Testing Made the Mi G 21 Beatable | Reverse Engineering 97 B438 Threat Inflation" aria-label="Read more about How Testing Made the Mi G 21 Beatable | Reverse Engineering 97 B438 Threat Inflation">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mi-g-21-tactics/' | relative_url }}" title="How Testing Made the Mi G 21 Beatable | When Enemy Weapons Look Stronger Than They Are | What Captured Weapons Really Reveal" aria-label="Read more about How Testing Made the Mi G 21 Beatable | When Enemy Weapons Look Stronger Than They Are | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -4169,7 +4169,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'hidden-tradeoffs/' | relative_url }}" title="The Details Parade Photos Cannot Reveal | Reverse Engineering 97 B438 Threat Inflation" aria-label="Read more about The Details Parade Photos Cannot Reveal | Reverse Engineering 97 B438 Threat Inflation">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'hidden-tradeoffs/' | relative_url }}" title="The Details Parade Photos Cannot Reveal | When Enemy Weapons Look Stronger Than They Are | What Captured Weapons Really Reveal" aria-label="Read more about The Details Parade Photos Cannot Reveal | When Enemy Weapons Look Stronger Than They Are | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -4189,7 +4189,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'worst-cases/' | relative_url }}" title="When Caution Turns Into Threat Inflation | Reverse Engineering 97 B438 Threat Inflation" aria-label="Read more about When Caution Turns Into Threat Inflation | Reverse Engineering 97 B438 Threat Inflation">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'worst-cases/' | relative_url }}" title="When Caution Turns Into Threat Inflation | When Enemy Weapons Look Stronger Than They Are | What Captured Weapons Really Reveal" aria-label="Read more about When Caution Turns Into Threat Inflation | When Enemy Weapons Look Stronger Than They Are | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -4209,7 +4209,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'false-strengths/' | relative_url }}" title="When Impressive Specs Hide Weaknesses | Reverse Engineering 97 B438 Threat Inflation" aria-label="Read more about When Impressive Specs Hide Weaknesses | Reverse Engineering 97 B438 Threat Inflation">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'false-strengths/' | relative_url }}" title="When Impressive Specs Hide Weaknesses | When Enemy Weapons Look Stronger Than They Are | What Captured Weapons Really Reveal" aria-label="Read more about When Impressive Specs Hide Weaknesses | When Enemy Weapons Look Stronger Than They Are | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -4229,7 +4229,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mi-g-25-myth/' | relative_url }}" title="Why the Mi G 25 Looked Scarier Than It Was | Reverse Engineering 97 B438 Threat Inflation" aria-label="Read more about Why the Mi G 25 Looked Scarier Than It Was | Reverse Engineering 97 B438 Threat Inflation">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mi-g-25-myth/' | relative_url }}" title="Why the Mi G 25 Looked Scarier Than It Was | When Enemy Weapons Look Stronger Than They Are | What Captured Weapons Really Reveal" aria-label="Read more about Why the Mi G 25 Looked Scarier Than It Was | When Enemy Weapons Look Stronger Than They Are | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -4253,7 +4253,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Captured Weapons Change Training | Reverse Engineering" aria-expanded="false" aria-controls="home-vertical-children-node-reverse-engineering-97b438-captured-threat-trai-2a76bd"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'threat-training/' | relative_url }}" title="How Captured Weapons Change Training | Reverse Engineering" aria-label="Read more about How Captured Weapons Change Training | Reverse Engineering">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'threat-training/' | relative_url }}" title="How Captured Weapons Change Training | What Captured Weapons Really Reveal" aria-label="Read more about How Captured Weapons Change Training | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -4273,7 +4273,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fort-irwin/' | relative_url }}" title="How Fake Soviet Tanks Changed Army Training | Reverse Engineering 97 B438 Captured Threat Trai" aria-label="Read more about How Fake Soviet Tanks Changed Army Training | Reverse Engineering 97 B438 Captured Threat Trai">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fort-irwin/' | relative_url }}" title="How Fake Soviet Tanks Changed Army Training | How Captured Weapons Change Training | What Captured Weapons Really Reveal" aria-label="Read more about How Fake Soviet Tanks Changed Army Training | How Captured Weapons Change Training | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -4293,7 +4293,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fresh-data/' | relative_url }}" title="How Threat Training Goes Stale | Reverse Engineering 97 B438 Captured Threat Trai" aria-label="Read more about How Threat Training Goes Stale | Reverse Engineering 97 B438 Captured Threat Trai">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fresh-data/' | relative_url }}" title="How Threat Training Goes Stale | How Captured Weapons Change Training | What Captured Weapons Really Reveal" aria-label="Read more about How Threat Training Goes Stale | How Captured Weapons Change Training | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -4313,7 +4313,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'opfor-doctrine/' | relative_url }}" title="The Enemy Vehicle Is Not Enough | Reverse Engineering 97 B438 Captured Threat Trai" aria-label="Read more about The Enemy Vehicle Is Not Enough | Reverse Engineering 97 B438 Captured Threat Trai">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'opfor-doctrine/' | relative_url }}" title="The Enemy Vehicle Is Not Enough | How Captured Weapons Change Training | What Captured Weapons Really Reveal" aria-label="Read more about The Enemy Vehicle Is Not Enough | How Captured Weapons Change Training | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -4333,7 +4333,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'modern-ranges/' | relative_url }}" title="The New Threat Range Is Electronic | Reverse Engineering 97 B438 Captured Threat Trai" aria-label="Read more about The New Threat Range Is Electronic | Reverse Engineering 97 B438 Captured Threat Trai">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'modern-ranges/' | relative_url }}" title="The New Threat Range Is Electronic | How Captured Weapons Change Training | What Captured Weapons Really Reveal" aria-label="Read more about The New Threat Range Is Electronic | How Captured Weapons Change Training | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -4353,7 +4353,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'replicas-f2a7ea/' | relative_url }}" title="When Replicas Train Better Than Originals | Reverse Engineering 97 B438 Captured Threat Trai" aria-label="Read more about When Replicas Train Better Than Originals | Reverse Engineering 97 B438 Captured Threat Trai">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'replicas-f2a7ea/' | relative_url }}" title="When Replicas Train Better Than Originals | How Captured Weapons Change Training | What Captured Weapons Really Reveal" aria-label="Read more about When Replicas Train Better Than Originals | How Captured Weapons Change Training | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -4373,7 +4373,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'crew-instincts/' | relative_url }}" title="Why Real Threat Gear Beats Slides | Reverse Engineering 97 B438 Captured Threat Trai" aria-label="Read more about Why Real Threat Gear Beats Slides | Reverse Engineering 97 B438 Captured Threat Trai">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'crew-instincts/' | relative_url }}" title="Why Real Threat Gear Beats Slides | How Captured Weapons Change Training | What Captured Weapons Really Reveal" aria-label="Read more about Why Real Threat Gear Beats Slides | How Captured Weapons Change Training | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -4397,7 +4397,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Copying a Bomber Was Hard | Reverse Engineering" aria-expanded="false" aria-controls="home-vertical-children-node-reverse-engineering-97b438-tu4-aircraft-copying-21e574"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'tu-4-copy/' | relative_url }}" title="Why Copying a Bomber Was Hard | Reverse Engineering" aria-label="Read more about Why Copying a Bomber Was Hard | Reverse Engineering">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'tu-4-copy/' | relative_url }}" title="Why Copying a Bomber Was Hard | What Captured Weapons Really Reveal" aria-label="Read more about Why Copying a Bomber Was Hard | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -4417,7 +4417,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'tushino-shock/' | relative_url }}" title="The airshow that revealed the Tu 4 | Reverse Engineering 97 B438 Tu 4 Aircraft Copying" aria-label="Read more about The airshow that revealed the Tu 4 | Reverse Engineering 97 B438 Tu 4 Aircraft Copying">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'tushino-shock/' | relative_url }}" title="The airshow that revealed the Tu 4 | Why Copying a Bomber Was Hard | What Captured Weapons Really Reveal" aria-label="Read more about The airshow that revealed the Tu 4 | Why Copying a Bomber Was Hard | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -4437,7 +4437,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'systems-problem/' | relative_url }}" title="The hidden systems inside the B 29 copy | Reverse Engineering 97 B438 Tu 4 Aircraft Copying" aria-label="Read more about The hidden systems inside the B 29 copy | Reverse Engineering 97 B438 Tu 4 Aircraft Copying">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'systems-problem/' | relative_url }}" title="The hidden systems inside the B 29 copy | Why Copying a Bomber Was Hard | What Captured Weapons Really Reveal" aria-label="Read more about The hidden systems inside the B 29 copy | Why Copying a Bomber Was Hard | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -4457,7 +4457,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'drawing-burden/' | relative_url }}" title="The paperwork needed to copy a bomber | Reverse Engineering 97 B438 Tu 4 Aircraft Copying" aria-label="Read more about The paperwork needed to copy a bomber | Reverse Engineering 97 B438 Tu 4 Aircraft Copying">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'drawing-burden/' | relative_url }}" title="The paperwork needed to copy a bomber | Why Copying a Bomber Was Hard | What Captured Weapons Really Reveal" aria-label="Read more about The paperwork needed to copy a bomber | Why Copying a Bomber Was Hard | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -4477,7 +4477,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'copy-vs-redesign/' | relative_url }}" title="Was the Tu 4 really an exact copy? | Reverse Engineering 97 B438 Tu 4 Aircraft Copying" aria-label="Read more about Was the Tu 4 really an exact copy? | Reverse Engineering 97 B438 Tu 4 Aircraft Copying">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'copy-vs-redesign/' | relative_url }}" title="Was the Tu 4 really an exact copy? | Why Copying a Bomber Was Hard | What Captured Weapons Really Reveal" aria-label="Read more about Was the Tu 4 really an exact copy? | Why Copying a Bomber Was Hard | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -4497,7 +4497,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'soviet-substitutes/' | relative_url }}" title="What the Soviets had to replace | Reverse Engineering 97 B438 Tu 4 Aircraft Copying" aria-label="Read more about What the Soviets had to replace | Reverse Engineering 97 B438 Tu 4 Aircraft Copying">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'soviet-substitutes/' | relative_url }}" title="What the Soviets had to replace | Why Copying a Bomber Was Hard | What Captured Weapons Really Reveal" aria-label="Read more about What the Soviets had to replace | Why Copying a Bomber Was Hard | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
@@ -4517,7 +4517,7 @@ site_image_description: A dismantled missile seeker, circuit boards, metal fragm
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'metric-problem/' | relative_url }}" title="Why measurements made copying harder | Reverse Engineering 97 B438 Tu 4 Aircraft Copying" aria-label="Read more about Why measurements made copying harder | Reverse Engineering 97 B438 Tu 4 Aircraft Copying">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'metric-problem/' | relative_url }}" title="Why measurements made copying harder | Why Copying a Bomber Was Hard | What Captured Weapons Really Reveal" aria-label="Read more about Why measurements made copying harder | Why Copying a Bomber Was Hard | What Captured Weapons Really Reveal">Read more</a>
 </div>
 </div>
 </div>
