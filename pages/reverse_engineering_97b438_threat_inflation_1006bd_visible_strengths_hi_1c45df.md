@@ -266,6 +266,7 @@ next_link:
   short_title: FME Reality
   heading_title: How Captured Hardware Cuts Through Myth
 date: '2026-07-04 07:23:11 '
+last_modified_at: '2026-07-04 07:23:11 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_threat_inflation_1006bd_visible_strengths_hi_1c45df-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_threat_inflation_1006bd_visible_strengths_hi_1c45df-Illustration-1.webp

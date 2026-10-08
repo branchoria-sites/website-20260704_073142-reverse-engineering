@@ -272,6 +272,7 @@ next_link:
   short_title: MSIC Computing
   heading_title: When Missile Exploitation Needs Supercomputers
 date: '2026-07-04 07:22:18 '
+last_modified_at: '2026-07-04 07:22:18 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_fme_institutions_febd9d_army_ground_fme_fe27ae-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_fme_institutions_febd9d_army_ground_fme_fe27ae-Illustration-1.webp

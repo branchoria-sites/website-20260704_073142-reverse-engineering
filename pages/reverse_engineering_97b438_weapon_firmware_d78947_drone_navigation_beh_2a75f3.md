@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-04 01:39:26'
+last_modified_at: '2026-07-04 01:39:26'
 parent_title: The Software Hidden Inside Weapons
 parent_permalink: /firmware/
 parent_nav_short_title: Firmware

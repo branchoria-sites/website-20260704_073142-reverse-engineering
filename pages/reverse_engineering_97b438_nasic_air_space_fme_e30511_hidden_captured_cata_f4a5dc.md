@@ -272,6 +272,7 @@ next_link:
   short_title: Real Hardware
   heading_title: Why Captured Hardware Beats Guesswork
 date: '2026-07-04 07:24:11 '
+last_modified_at: '2026-07-04 07:24:11 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_nasic_air_space_fme_e30511_hidden_captured_cata_f4a5dc-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_nasic_air_space_fme_e30511_hidden_captured_cata_f4a5dc-Illustration-1.webp

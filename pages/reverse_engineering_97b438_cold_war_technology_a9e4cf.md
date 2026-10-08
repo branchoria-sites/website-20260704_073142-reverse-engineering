@@ -440,6 +440,7 @@ next_link:
   short_title: Countermeasures
   heading_title: Why Countermeasures Need Real Hardware
 date: '2026-07-04 07:21:57 '
+last_modified_at: '2026-07-04 07:21:57 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_cold_war_technology_a9e4cf-overview-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_cold_war_technology_a9e4cf-overview.webp

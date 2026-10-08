@@ -272,6 +272,7 @@ next_link:
   short_title: New Chips
   heading_title: Why Post Invasion Chips Are Harder to Explain
 date: '2026-07-04 07:24:42 '
+last_modified_at: '2026-07-04 07:24:42 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_component_tracing_sa_863d31_ukraine_component_da_28632e-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_component_tracing_sa_863d31_ukraine_component_da_28632e-Illustration-1.webp

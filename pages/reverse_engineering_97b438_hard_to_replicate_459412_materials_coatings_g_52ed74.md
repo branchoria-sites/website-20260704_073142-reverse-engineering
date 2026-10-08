@@ -272,6 +272,7 @@ next_link:
   short_title: Quality Control
   heading_title: When a tiny defect ruins a weapon copy
 date: '2026-07-04 07:23:22 '
+last_modified_at: '2026-07-04 07:23:22 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_hard_to_replicate_459412_materials_coatings_g_52ed74-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_hard_to_replicate_459412_materials_coatings_g_52ed74-Illustration-1.webp

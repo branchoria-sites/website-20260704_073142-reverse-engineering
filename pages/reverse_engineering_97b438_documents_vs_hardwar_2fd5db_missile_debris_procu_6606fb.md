@@ -272,6 +272,7 @@ next_link:
   short_title: Technical Papers
   heading_title: How Captured Manuals Speed Up Exploitation
 date: '2026-07-04 07:24:52 '
+last_modified_at: '2026-07-04 07:24:52 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_documents_vs_hardwar_2fd5db_missile_debris_procu_6606fb-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_documents_vs_hardwar_2fd5db_missile_debris_procu_6606fb-Illustration-1.webp

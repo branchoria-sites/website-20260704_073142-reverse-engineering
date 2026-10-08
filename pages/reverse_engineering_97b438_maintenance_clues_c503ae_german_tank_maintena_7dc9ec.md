@@ -272,6 +272,7 @@ next_link:
   short_title: Orlan Clues
   heading_title: What Orlan Drone Parts Really Reveal
 date: '2026-07-04 07:23:28 '
+last_modified_at: '2026-07-04 07:23:28 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_maintenance_clues_c503ae_german_tank_maintena_7dc9ec-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_maintenance_clues_c503ae_german_tank_maintena_7dc9ec-Illustration-1.webp

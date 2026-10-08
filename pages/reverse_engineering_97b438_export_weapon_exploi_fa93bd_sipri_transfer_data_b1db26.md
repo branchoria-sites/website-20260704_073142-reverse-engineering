@@ -272,6 +272,7 @@ next_link:
   short_title: Spare Parts
   heading_title: Why Spare Parts Can Give Secrets Away
 date: '2026-07-04 07:23:54 '
+last_modified_at: '2026-07-04 07:23:54 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_export_weapon_exploi_fa93bd_sipri_transfer_data_b1db26-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_export_weapon_exploi_fa93bd_sipri_transfer_data_b1db26-Illustration-1.webp

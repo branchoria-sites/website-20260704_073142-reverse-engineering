@@ -272,6 +272,7 @@ next_link:
   short_title: Pilot Notebook
   heading_title: The Notebook That Came With the Foxbat
 date: '2026-07-04 07:25:21 '
+last_modified_at: '2026-07-04 07:25:21 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_technology_defection_c0645b_belenko_mig25_surpri_7febe1-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_technology_defection_c0645b_belenko_mig25_surpri_7febe1-Illustration-1.webp

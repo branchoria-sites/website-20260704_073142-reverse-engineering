@@ -204,6 +204,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-03 23:46:59'
+last_modified_at: '2026-07-03 23:46:59'
 parent_title: How Captured Weapons Change Training
 parent_permalink: /threat-training/
 parent_nav_short_title: Threat Training

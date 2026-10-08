@@ -272,6 +272,7 @@ next_link:
   short_title: Vietnam CMEC
   heading_title: How Vietnam Turned Captured Gear Into a System
 date: '2026-07-04 07:24:28 '
+last_modified_at: '2026-07-04 07:24:28 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_battlefield_recovery_773544_souvenir_stripping_r_eeb33b-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_battlefield_recovery_773544_souvenir_stripping_r_eeb33b-Illustration-1.webp

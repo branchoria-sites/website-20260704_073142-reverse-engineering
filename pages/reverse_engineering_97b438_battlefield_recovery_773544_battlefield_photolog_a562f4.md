@@ -272,6 +272,7 @@ next_link:
   short_title: Stop Disassembly
   heading_title: Where Field Exploitation Should Stop
 date: '2026-07-04 07:24:24 '
+last_modified_at: '2026-07-04 07:24:24 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_battlefield_recovery_773544_battlefield_photolog_a562f4-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_battlefield_recovery_773544_battlefield_photolog_a562f4-Illustration-1.webp

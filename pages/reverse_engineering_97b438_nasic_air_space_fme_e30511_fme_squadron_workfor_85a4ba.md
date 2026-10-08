@@ -272,6 +272,7 @@ next_link:
   short_title: Hidden Catalogue
   heading_title: Why NASIC's Captured Systems Stay Unnamed
 date: '2026-07-04 07:24:09 '
+last_modified_at: '2026-07-04 07:24:09 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_nasic_air_space_fme_e30511_fme_squadron_workfor_85a4ba-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_nasic_air_space_fme_e30511_fme_squadron_workfor_85a4ba-Illustration-1.webp

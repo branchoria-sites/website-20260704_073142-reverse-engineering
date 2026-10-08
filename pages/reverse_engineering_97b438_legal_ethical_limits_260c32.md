@@ -440,6 +440,7 @@ next_link:
   short_title: Exploit vs Copy
   heading_title: Is Reverse Engineering Just Copying?
 date: '2026-07-04 07:22:08 '
+last_modified_at: '2026-07-04 07:22:08 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_legal_ethical_limits_260c32-overview-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_legal_ethical_limits_260c32-overview.webp

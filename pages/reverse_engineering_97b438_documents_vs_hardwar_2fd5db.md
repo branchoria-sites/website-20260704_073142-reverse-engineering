@@ -440,6 +440,7 @@ next_link:
   short_title: Drone Debris
   heading_title: What Crashed Drones Can Reveal
 date: '2026-07-04 07:22:03 '
+last_modified_at: '2026-07-04 07:22:03 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_documents_vs_hardwar_2fd5db-overview-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_documents_vs_hardwar_2fd5db-overview.webp

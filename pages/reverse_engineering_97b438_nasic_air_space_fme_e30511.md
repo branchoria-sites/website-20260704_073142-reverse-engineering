@@ -440,6 +440,7 @@ next_link:
   short_title: Operation LUSTY
   heading_title: The Race for German Secret Technology
 date: '2026-07-04 07:21:59 '
+last_modified_at: '2026-07-04 07:21:59 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_nasic_air_space_fme_e30511-overview-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_nasic_air_space_fme_e30511-overview.webp

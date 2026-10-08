@@ -272,6 +272,7 @@ next_link:
   short_title: Serial Leads
   heading_title: How One Serial Number Can Start a Sanctions Case
 date: '2026-07-04 07:24:41 '
+last_modified_at: '2026-07-04 07:24:41 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_component_tracing_sa_863d31_third_country_reexpo_5321c2-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_component_tracing_sa_863d31_third_country_reexpo_5321c2-Illustration-1.webp

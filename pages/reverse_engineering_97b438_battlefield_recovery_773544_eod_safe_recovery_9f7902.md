@@ -272,6 +272,7 @@ next_link:
   short_title: Photologs
   heading_title: The Photos That Save a Wreck's Original Story
 date: '2026-07-04 07:23:15 '
+last_modified_at: '2026-07-04 07:23:15 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_battlefield_recovery_773544_eod_safe_recovery_9f7902-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_battlefield_recovery_773544_eod_safe_recovery_9f7902-Illustration-1.webp

@@ -272,6 +272,7 @@ next_link:
   short_title: Databases
   heading_title: Why Ukraine Publishes Russia's Foreign Components
 date: '2026-07-04 07:24:39 '
+last_modified_at: '2026-07-04 07:24:39 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_component_tracing_sa_863d31_manufacturer_respons_9d8c3a-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_component_tracing_sa_863d31_manufacturer_respons_9d8c3a-Illustration-1.webp

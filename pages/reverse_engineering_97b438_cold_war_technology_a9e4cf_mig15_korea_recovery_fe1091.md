@@ -272,6 +272,7 @@ next_link:
   short_title: Mi G 25 Myths
   heading_title: Did the Mi G 25 deserve its terrifying reputation?
 date: '2026-07-04 07:23:48 '
+last_modified_at: '2026-07-04 07:23:48 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_cold_war_technology_a9e4cf_mig15_korea_recovery_fe1091-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_cold_war_technology_a9e4cf_mig15_korea_recovery_fe1091-Illustration-1.webp

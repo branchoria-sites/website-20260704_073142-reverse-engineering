@@ -272,6 +272,7 @@ next_link:
   short_title: Realism costs
   heading_title: How real does a fake threat need to be?
 date: '2026-07-04 07:24:18 '
+last_modified_at: '2026-07-04 07:24:18 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_threat_replicas_simu_04f4b5_mobile_range_threat_bc7b9a-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_threat_replicas_simu_04f4b5_mobile_range_threat_bc7b9a-Illustration-1.webp

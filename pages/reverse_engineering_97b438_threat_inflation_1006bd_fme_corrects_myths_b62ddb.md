@@ -272,6 +272,7 @@ next_link:
   short_title: Hidden Tradeoffs
   heading_title: The Details Parade Photos Cannot Reveal
 date: '2026-07-04 07:22:29 '
+last_modified_at: '2026-07-04 07:22:29 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_threat_inflation_1006bd_fme_corrects_myths_b62ddb-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_threat_inflation_1006bd_fme_corrects_myths_b62ddb-Illustration-1.webp

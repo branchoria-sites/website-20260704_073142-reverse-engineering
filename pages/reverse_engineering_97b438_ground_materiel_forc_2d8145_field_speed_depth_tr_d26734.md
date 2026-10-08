@@ -272,6 +272,7 @@ next_link:
   short_title: Trophy Lab
   heading_title: From Russian Trophies to Allied Countermeasures
 date: '2026-07-04 07:25:05 '
+last_modified_at: '2026-07-04 07:25:05 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_ground_materiel_forc_2d8145_field_speed_depth_tr_d26734-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_ground_materiel_forc_2d8145_field_speed_depth_tr_d26734-Illustration-1.webp

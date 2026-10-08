@@ -272,6 +272,7 @@ next_link:
   short_title: Range simulators
   heading_title: Why ranges use mobile fake threats
 date: '2026-07-04 07:25:27 '
+last_modified_at: '2026-07-04 07:25:27 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_threat_replicas_simu_04f4b5_radar_emitters_pilot_fbd917-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_threat_replicas_simu_04f4b5_radar_emitters_pilot_fbd917-Illustration-1.webp

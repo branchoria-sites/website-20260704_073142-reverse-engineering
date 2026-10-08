@@ -272,6 +272,7 @@ next_link:
   short_title: Wear Patterns
   heading_title: What Repeated Wear Says About Enemy Readiness
 date: '2026-07-04 07:22:21 '
+last_modified_at: '2026-07-04 07:22:21 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_maintenance_clues_c503ae_spares_packaging_8c3e9d-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_maintenance_clues_c503ae_spares_packaging_8c3e9d-Illustration-1.webp

@@ -272,6 +272,7 @@ next_link:
   short_title: SIPRI Data
   heading_title: Mapping Who Got Which Weapons
 date: '2026-07-04 07:24:57 '
+last_modified_at: '2026-07-04 07:24:57 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_export_weapon_exploi_fa93bd_buyer_use_performanc_f39c25-Illustration-1-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_export_weapon_exploi_fa93bd_buyer_use_performanc_f39c25-Illustration-1.webp

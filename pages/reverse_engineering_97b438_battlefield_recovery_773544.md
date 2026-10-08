@@ -440,6 +440,7 @@ next_link:
   short_title: Replicas
   heading_title: When a Replica Is Good Enough
 date: '2026-07-04 07:22:01 '
+last_modified_at: '2026-07-04 07:22:01 '
 header:
   og_image: /assets/images/reverse_engineering_97b438_battlefield_recovery_773544-overview-social.jpg
   preview_image: /assets/images/reverse_engineering_97b438_battlefield_recovery_773544-overview.webp
