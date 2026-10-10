@@ -4,7 +4,7 @@ title_full: Supply Chains Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /reverse-engineering-97b438-missile/
+permalink: /reverse-engineering-97b438-missile-supply-chains/
 description: Focused pages that expand on Supply Chains.
 date: '2026-01-01 00:00:00'
 last_modified_at: '2026-01-01 00:00:00'
