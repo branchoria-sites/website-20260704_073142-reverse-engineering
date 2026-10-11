@@ -27,8 +27,8 @@ sidebar_expanded_urls:
 - /reverse-engineering-foreign-military/
 - /docs-vs-hardware/
 nav_short_title: Missile Debris
-title: What Missile Debris Says About Supply Chains
-title_full: What Missile Debris Says About Supply Chains
+title: "What Missile Debris Says About Supply Chains (missile debris)"
+title_full: "What Missile Debris Says About Supply Chains (missile debris)"
 display_title_short: Missile Debris
 display_title: Missile Debris
 heading_title: What Missile Debris Says About Supply Chains
