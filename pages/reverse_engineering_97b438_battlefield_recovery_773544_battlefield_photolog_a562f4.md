@@ -877,7 +877,7 @@ When specialists later analyse recovered hardware in a secure facility, they may
 
 18.<a id="endnote-18"></a>
    Source: scribd.com  
-   Link:<a href="https://www.scribd.com/document/728511257/Chapter-5-6-Forensic-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/728511257/Chapter-5-6-Forensic-1</a>  
+   Link:https://www.scribd.com/document/728511257/Chapter-5-6-Forensic-1  
 
 19.<a id="endnote-19"></a>
    Source: science.howstuffworks.com  
