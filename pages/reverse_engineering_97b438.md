@@ -1056,7 +1056,6 @@ The enduring lesson is sober rather than sensational. Foreign military technolog
 25.<a id="endnote-25"></a>
    Source: cpeisw.army.mil  
    Title: mil Pd M TENCAP  
-   Link:https://cpeisw.army.mil/pdm-tencap/  
 
 26.<a id="endnote-26"></a>
    Source: cpeisw.army.mil  
